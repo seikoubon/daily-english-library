@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2026-11-02",
+    "category": "AI・テクノロジー",
+    "title": "An AI Study Partner: Useful, but Not a Shortcut",
+    "ja_title": "AIは学習の相棒。でも近道ではない",
+    "en": "Imagine you are reading an English article and find a sentence you cannot understand. In the past, you might have opened a dictionary, searched for a grammar rule, or asked a teacher. Today, you can also ask an AI tool to explain the sentence in simpler English. This is one reason AI is becoming a useful study partner.\n\nOne advantage of AI is that it can adjust to your level. If an explanation is too difficult, you can ask for an easier one. If you already understand the basics, you can request more challenging examples. You can also practice a conversation without worrying about making mistakes in front of other people.\n\nAI can help you build a daily learning routine. For example, you might read a short essay each morning. After reading, you could ask AI to create three questions about the main ideas. You could then answer those questions in your own words. This small exercise helps you check whether you really understood the text.\n\nHowever, there is an important difference between getting an answer and learning something. If AI translates every sentence immediately, you may finish the article quickly but remember very little. Sometimes it is better to guess the meaning from the context before asking for help. The effort you make is part of the learning process.\n\nOne practical rule is to spend a few minutes thinking before asking AI for the answer. Then compare your idea with its explanation and correct any misunderstanding.\n\nAnother problem is that AI is not always correct. It may give an explanation that sounds confident but contains an error. When a fact is important, you should compare the answer with a reliable source. For language questions, a good dictionary or a trusted textbook can be helpful.\n\nYou should also decide what you want AI to do. Instead of saying, “Teach me English,” try a specific request such as, “Ask me five questions about this article, one at a time.” Clear instructions often lead to more useful practice.\n\nFinally, remember that learning is a long journey. You do not need to understand every word today. Reading regularly, reviewing useful expressions, and noticing your progress are more important than finishing one difficult lesson perfectly.\n\nAI can make studying more convenient and personal, but it cannot practice for you. The best approach is to use it as a patient assistant while keeping your own mind active.",
+    "ja": "英語の記事を読んでいて、理解できない一文に出会ったと想像してください。以前なら、辞書を開いたり、文法規則を調べたり、先生に質問したりしたでしょう。今では、AIツールにその文をもっと簡単な英語で説明してもらうこともできます。これが、AIが便利な学習の相棒になりつつある理由の一つです。\n\nAIの利点の一つは、あなたのレベルに合わせられることです。説明が難しすぎれば、もっと簡単にしてほしいと頼めます。基礎をすでに理解していれば、より難しい例を求めることもできます。また、ほかの人の前で間違える心配をせずに会話の練習もできます。\n\nAIは毎日の学習習慣を作る助けにもなります。例えば、毎朝短いエッセイを読むとします。読んだ後、主な内容について3つの質問をAIに作ってもらえます。そして、その質問に自分の言葉で答えます。この小さな練習によって、文章を本当に理解したか確認できます。\n\nただし、答えを得ることと何かを学ぶことには重要な違いがあります。AIがすべての文をすぐに翻訳してくれれば、記事を素早く読み終えられるかもしれませんが、ほとんど覚えていないかもしれません。助けを求める前に、文脈から意味を推測した方がよいこともあります。自分で努力することも学習過程の一部なのです。\n\n実践的なルールの一つは、AIに答えを尋ねる前に数分間自分で考えることです。その後、自分の考えをAIの説明と比べ、誤解していた点を直しましょう。\n\nもう一つの問題は、AIが必ずしも正しいとは限らないことです。自信がありそうに聞こえても、間違いを含む説明をすることがあります。重要な事実については、信頼できる情報源と答えを照らし合わせるべきです。言語に関する疑問なら、良い辞書や信頼できる教科書が役立ちます。\n\nまた、AIに何をしてほしいのかを決めることも大切です。「英語を教えて」と言う代わりに、「この記事について5つの質問を、一度に一つずつしてください」のように具体的に頼んでみましょう。明確な指示は、より役立つ練習につながることが多いのです。\n\n最後に、学習は長い道のりだということを忘れないでください。今日、すべての単語を理解する必要はありません。定期的に読み、役立つ表現を復習し、自分の進歩に気づくことは、難しいレッスンを一度で完璧に終えることよりも重要です。\n\nAIは勉強をより便利に、一人ひとりに合ったものにできます。しかし、あなたの代わりに練習することはできません。最も良い方法は、自分の頭を働かせながら、AIを辛抱強い助手として利用することです。",
+    "vocab": [
+      [
+        "adjust to your level",
+        "あなたのレベルに合わせる",
+        "A good study plan should adjust to your level."
+      ],
+      [
+        "in your own words",
+        "自分の言葉で",
+        "Explain the idea in your own words."
+      ],
+      [
+        "from the context",
+        "文脈から",
+        "Try to guess the meaning from the context."
+      ],
+      [
+        "reliable source",
+        "信頼できる情報源",
+        "Check important facts with a reliable source."
+      ],
+      [
+        "one at a time",
+        "一度に一つずつ",
+        "Please ask me the questions one at a time."
+      ]
+    ],
+    "is_preview": false
+  },
+  {
+    "date": "2026-11-02",
+    "category": "AI・テクノロジー",
+    "title": "How AI Is Changing the Way We Learn",
+    "ja_title": "AIは私たちの学び方をどう変えているのか",
+    "en": "Artificial intelligence is changing how people learn. In a traditional classroom, students often use the same materials at the same speed. AI can offer explanations that match each student's needs.\n\nFor example, an English learner can ask AI to explain a difficult grammar rule using simple words. AI can also provide new examples and exercises. This makes it easier to study at your own speed.\n\nHowever, AI sometimes makes mistakes. Receiving an explanation is not the same as understanding a subject. Real learning still requires practice, careful thinking, and repeated effort.",
+    "ja": "人工知能は人々の学び方を変えています。従来の教室では、生徒は同じ教材を同じ速度で学ぶことがよくあります。AIは一人ひとりに合った説明を提供できます。\n\n例えば、英語学習者は難しい文法を簡単な言葉で説明するようAIに頼めます。新しい例文や練習問題も作れます。そのため、自分のペースで勉強しやすくなります。\n\nただし、AIも間違えることがあります。説明を受けることと理解することは別です。実際の学習には練習、慎重な思考、繰り返しの努力が必要です。",
+    "vocab": [
+      [
+        "at one's own speed",
+        "自分のペースで",
+        "You can study at your own speed."
+      ],
+      [
+        "throughout one's life",
+        "生涯を通じて",
+        "Learning continues throughout one's life."
+      ],
+      [
+        "depend on",
+        "～に頼る",
+        "Do not depend on AI for every answer."
+      ],
+      [
+        "rather than",
+        "～ではなく",
+        "Read every day rather than only on weekends."
+      ],
+      [
+        "remain responsible for",
+        "～に責任を持ち続ける",
+        "You remain responsible for checking the facts."
+      ]
+    ],
+    "is_preview": true
+  },
+  {
+    "date": "2026-11-03",
+    "category": "投資・経済",
+    "title": "Why Patience Matters in Investing",
+    "ja_title": "投資で忍耐が重要な理由",
+    "en": "Many people try to predict the next rise or fall in stock prices. Yet even professional investors find it difficult to make correct short-term predictions consistently.\n\nValue investors study a company's profits, financial condition, and business prospects. They look for shares that appear inexpensive compared with the value of the business. Dividends can also provide income while investors continue to hold their shares.\n\nPatience does not mean ignoring bad news. A strong company can become weak because of competition or poor management. Good investing requires both a willingness to wait and a willingness to change your mind when the facts change.",
+    "ja": "多くの人は株価が次に上がるか下がるかを予測しようとします。しかしプロの投資家でも、短期予測を継続して当てることは困難です。\n\nバリュー投資家は企業の利益、財務状態、事業の見通しを調べます。事業価値に比べて割安と思われる株式を探します。配当は株式を保有しながら収入を得る方法にもなります。\n\n忍耐とは悪い知らせを無視することではありません。優良企業も競争や経営の失敗によって弱くなります。良い投資には待つ姿勢と、事実が変われば考えを変える姿勢の両方が必要です。",
+    "vocab": [
+      [
+        "consistently",
+        "継続的に",
+        "She studies consistently every morning."
+      ],
+      [
+        "not necessarily",
+        "必ずしも～ではない",
+        "A low price does not necessarily mean good value."
+      ],
+      [
+        "overlook",
+        "見落とす",
+        "Do not overlook changes in the business."
+      ],
+      [
+        "remain valid",
+        "有効であり続ける",
+        "Check whether your reasons remain valid."
+      ],
+      [
+        "rather than",
+        "～ではなく",
+        "Read every day rather than only on weekends."
+      ]
+    ],
+    "is_preview": true
+  },
+  {
+    "date": "2026-11-04",
+    "category": "米国ベストセラー書籍",
+    "title": "How Small Habits Can Change Your Life",
+    "ja_title": "小さな習慣が人生を変える方法",
+    "en": "In Atomic Habits, James Clear explains why small daily actions matter. A tiny improvement may be hard to notice at first, but repeated improvements can produce significant results over time.\n\nClear also makes a distinction between goals and systems. A goal might be to read twenty books in a year. A system might be to read ten pages every morning. The daily process helps make progress possible.\n\nThe book describes four ways to build good habits: make them obvious, attractive, easy, and satisfying. For an English learner, reading a short article every morning can be easier to maintain than studying for several hours only once a week.",
+    "ja": "ジェームズ・クリアーは『Atomic Habits』で、日々の小さな行動が重要な理由を説明しています。小さな改善は最初は気づきにくくても、繰り返すことで時間とともに大きな成果につながります。\n\n著者は目標と仕組みを区別しています。目標は年間20冊読むこと、仕組みは毎朝10ページ読むこと、といった具合です。日々の過程が進歩を支えます。\n\n本書は良い習慣を作る4つの方法、すなわち明確で、魅力的で、簡単で、満足感があるものにすることを紹介します。英語学習者なら、週1回長時間学ぶより、毎朝短い記事を読む方が継続しやすいでしょう。",
+    "vocab": [
+      [
+        "over time",
+        "時間とともに",
+        "Small changes add up over time."
+      ],
+      [
+        "rather than",
+        "～ではなく",
+        "Read every day rather than only on weekends."
+      ],
+      [
+        "achieve a goal",
+        "目標を達成する",
+        "Daily practice helps you achieve a goal."
+      ],
+      [
+        "keep a record of",
+        "～を記録する",
+        "Keep a record of the books you read."
+      ],
+      [
+        "gradually",
+        "徐々に",
+        "Your reading speed will gradually improve."
+      ]
+    ],
+    "is_preview": true
+  }
+]
