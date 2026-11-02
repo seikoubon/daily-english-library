@@ -142,5 +142,41 @@
       ]
     ],
     "is_preview": true
+  },
+  {
+    "date": "2026-11-02",
+    "category": "AI・テクノロジー",
+    "title": "[12:00] A Place for People in a Digital Town",
+    "ja_title": "デジタルな町にも人の居場所を",
+    "en": "Imagine a town where you can do almost everything with your phone. You can buy a bus ticket, order lunch, and ask a question at city hall without leaving home. These services can save time. However, a convenient town should also be easy to use for people who do not feel comfortable with technology.\n\nConsider a small library that introduces a new system. Visitors can borrow books by touching a screen. Those who know how to use it may finish quickly. But a visitor using it for the first time might not know where to begin. If there is nobody to ask, a simple visit can become a stressful experience.\n\nThe problem is not always age. A young person with a broken phone may face the same difficulty. Someone who is learning the local language might not understand the instructions. Another person may have trouble seeing small letters. Good design should consider these different situations from the beginning.\n\nOne useful approach is to offer a choice. At the library, a machine can handle simple tasks while a staff member helps visitors with questions. Clear signs can explain each step. The screen can use large letters and familiar words. These changes can make the service easier for many people, not just one group.\n\nLocal residents can also help improve a new service. Before introducing it everywhere, the town could invite a few people to try it. Instead of asking only whether they like it, staff could watch where they stop or make mistakes. A confusing button may seem obvious to its designer but be difficult for an ordinary visitor to understand.\n\nOf course, keeping several ways to use a service takes money and effort. A town cannot offer every possible choice forever. However, removing the old method too quickly may create new problems. People may need extra help, or they may stop using an important service completely.\n\nDigital tools are most useful when they make daily life easier. The goal should not simply be to put more screens in public places. It should be to help more people do what they need to do.\n\nNext time you use a ticket machine or an online form, notice what makes it clear. Then imagine using it without your usual knowledge or equipment. This small change in viewpoint can help us build a town where technology serves people and where asking another person for help is still a normal choice.",
+    "ja": "ほとんどすべてのことをスマートフォンでできる町を想像してください。家を出ずにバスの切符を買い、昼食を注文し、市役所に質問できます。こうしたサービスは時間の節約になります。しかし、便利な町は、テクノロジーを使うことに不安がある人にとっても使いやすいものであるべきです。\n\n新しい仕組みを導入する小さな図書館を考えてみましょう。利用者は画面に触れて本を借りられます。使い方を知っている人はすぐに済ませられるでしょう。しかし、初めて使う人は、どこから始めればよいかわからないかもしれません。質問できる人が誰もいなければ、単なる図書館への訪問がストレスの多い体験になりかねません。\n\n問題は必ずしも年齢ではありません。スマートフォンが壊れた若い人も同じ困難に直面するかもしれません。その土地の言葉を学んでいる人は説明を理解できないかもしれません。小さな文字が見えにくい人もいるでしょう。よい設計は、最初からこうした異なる状況を考慮するべきです。\n\n役立つ方法の一つは、選択肢を用意することです。図書館では、機械が簡単な作業を処理し、その間に職員が質問のある利用者を手助けできます。わかりやすい案内表示で各手順を説明できます。画面には大きな文字と身近な言葉を使えます。こうした変更によって、一つの集団だけでなく、多くの人にとってサービスが使いやすくなります。\n\n地域の住民も、新しいサービスの改善に協力できます。全面的に導入する前に、町は何人かに試してもらうことができるでしょう。気に入ったかどうかだけを尋ねる代わりに、職員は利用者がどこで立ち止まったり間違えたりするか観察できます。わかりにくいボタンも、設計者には明白に思えて、普通の利用者には理解しにくいことがあります。\n\nもちろん、サービスを利用する方法を複数維持するには、お金と労力がかかります。町は考えられるすべての選択肢を永遠に提供することはできません。しかし、古い方法を急に廃止すると、新たな問題が生じるかもしれません。人々は追加の手助けを必要としたり、重要なサービスをまったく使わなくなったりするかもしれません。\n\nデジタルの道具は、日常生活を楽にするときに最も役立ちます。目標は、単に公共の場所の画面を増やすことであってはなりません。より多くの人が、必要なことをできるよう助けることであるべきです。\n\n次に券売機やオンラインの入力フォームを使うとき、何がそれをわかりやすくしているかに注目してください。そして、普段の知識や機器がない状態で使うことを想像してみてください。この小さな視点の変化は、テクノロジーが人の役に立ち、ほかの人に助けを求めることも依然として普通の選択肢である町を作る助けになります。",
+    "vocab": [
+      [
+        "feel comfortable with",
+        "～に不安なく対応できる",
+        "I feel comfortable with this new app."
+      ],
+      [
+        "for the first time",
+        "初めて",
+        "She used the machine for the first time."
+      ],
+      [
+        "have trouble doing",
+        "～するのに苦労する",
+        "I have trouble reading small letters."
+      ],
+      [
+        "from the beginning",
+        "最初から",
+        "Include clear instructions from the beginning."
+      ],
+      [
+        "viewpoint",
+        "視点・見方",
+        "Try to understand her viewpoint."
+      ]
+    ],
+    "is_preview": false
   }
 ]
