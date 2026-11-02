@@ -178,5 +178,41 @@
       ]
     ],
     "is_preview": false
+  },
+  {
+    "date": "2026-11-02",
+    "category": "AI・テクノロジー",
+    "title": "[17:00] Who Chooses What You Discover?",
+    "ja_title": "あなたの新しい出会いを選ぶのは誰か",
+    "en": "Imagine opening a music app after a long day. The first song is exactly what you wanted to hear. The next one is pleasant too. You relax and let the music continue. A service that seems to understand your taste can make an ordinary evening more enjoyable.\n\nNow imagine that the app only offers songs similar to those you already know. Nothing sounds unpleasant, but nothing surprises you either. You may enjoy every song and still miss the chance to discover something different. This raises a question: should technology always give us more of what we like?\n\nConsider a simple recommendation system. It uses your past choices to suggest your next choice. This can be useful when you have a clear goal, such as finding another mystery novel. However, your previous behavior does not describe everything about you. Perhaps you have never tried poetry because nobody has introduced you to a poem you enjoy.\n\nThere is also a difference between choosing something and continuing to watch it. Imagine clicking on an exciting video and then watching several similar ones. Your actions might suggest strong interest, even if you feel dissatisfied afterward. Time spent on a service is not necessarily time well spent.\n\nA better design could give people more control over discovery. For example, a reading app could offer separate buttons for familiar subjects and unfamiliar ones. It could explain why a book was suggested. It could also allow readers to change their preferences easily instead of treating old choices as permanent.\n\nUsers can make small changes too. Before opening an app, decide what you want from it. Are you looking for comfort, information, or a new experience? Once a week, you might choose a book, song, or article without following an automatic suggestion. A friend's recommendation or a library shelf can provide a different starting point.\n\nOf course, unfamiliar choices are not always rewarding. You may dislike a new style of music or stop reading a difficult book. That does not make the experiment useless. Discovering what you do not enjoy can also help you understand your taste.\n\nConvenience has real value, and there is no need to reject helpful technology. Still, a satisfying life includes opportunities that our past behavior cannot predict. Good recommendations should support our choices while leaving room for change. Sometimes the most useful suggestion is one that helps us become curious about something we would never have searched for ourselves.",
+    "ja": "長い一日を終えて音楽アプリを開くところを想像してください。最初の曲は、まさに聴きたかった曲です。次の曲も心地よく感じます。あなたはくつろぎ、そのまま音楽を流し続けます。自分の好みを理解しているように思えるサービスは、ありふれた夜をもっと楽しくしてくれます。\n\nでは、そのアプリが、すでに知っている曲と似た曲しか提供しないと想像してください。不快な曲はありませんが、驚きを感じる曲もありません。すべての曲を楽しめたとしても、違うものに出会う機会を逃しているかもしれません。ここで一つの疑問が生まれます。テクノロジーは、いつも私たちの好きなものをさらに多く与えるべきなのでしょうか。\n\n簡単なおすすめの仕組みを考えてみましょう。過去の選択を使って、次の選択を提案します。これは、別の推理小説を見つけるなど、明確な目的があるときには便利です。しかし、以前の行動があなたのすべてを表しているわけではありません。楽しめる詩を誰からも紹介されていないために、詩を読んだことがないだけかもしれません。\n\nまた、何かを選ぶことと、それを見続けることにも違いがあります。刺激的な動画をクリックし、その後に似た動画を何本も見るところを想像してください。後で満足できなかったとしても、あなたの行動は強い関心を示しているように見えるかもしれません。サービスで過ごした時間が、必ずしも有意義に使われた時間とは限らないのです。\n\nよりよい設計では、新しいものとの出会い方を自分で調整できるようにすることが考えられます。例えば、読書アプリなら、なじみのある分野となじみのない分野に別々のボタンを用意できます。なぜその本をすすめたのかを説明することもできます。また、過去の選択を変わらないものとして扱うのではなく、読者が好みの設定を簡単に変更できるようにもできます。\n\n利用者も小さな変更を加えられます。アプリを開く前に、そこから何を得たいのかを決めましょう。安らぎ、情報、それとも新しい体験を求めているのでしょうか。週に一度、自動の提案に従わずに本や曲、記事を選んでみてもよいでしょう。友人のおすすめや図書館の本棚は、異なる出発点になります。\n\nもちろん、なじみのない選択から、いつも得るものがあるとは限りません。新しい音楽のスタイルが好きになれなかったり、難しい本を途中で読むのをやめたりするかもしれません。それでも、その試みが無意味になるわけではありません。楽しめないものを知ることも、自分の好みを理解する助けになります。\n\n便利さには確かな価値があり、役立つテクノロジーを拒む必要はありません。それでも、満足できる人生には、過去の行動からは予測できない機会も含まれます。よいおすすめは、変化の余地を残しながら、私たちの選択を支えるべきです。ときには、自分では決して検索しなかったようなものに興味を持つ手助けをしてくれる提案こそが、最も役立つ提案なのです。",
+    "vocab": [
+      [
+        "miss the chance to",
+        "～する機会を逃す",
+        "Don't miss the chance to try something new."
+      ],
+      [
+        "not necessarily",
+        "必ずしも～ではない",
+        "A popular book is not necessarily the best choice for you."
+      ],
+      [
+        "preference",
+        "好み",
+        "You can change your preferences in the app."
+      ],
+      [
+        "rewarding",
+        "得るものがある・やりがいのある",
+        "Learning a new skill can be rewarding."
+      ],
+      [
+        "leave room for",
+        "～の余地を残す",
+        "Our plan should leave room for change."
+      ]
+    ],
+    "is_preview": false
   }
 ]
