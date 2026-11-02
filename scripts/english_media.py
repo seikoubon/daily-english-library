@@ -22,16 +22,25 @@ def save(path, data):
     os.replace(tmp, path)
 
 
-def select_article(data, date=None):
+def article_slot(a):
+    match = re.match(r'^\[(07:00|12:00|17:00)\] ', a.get('title', ''))
+    return match[1] if match else ''
+
+
+def article_level(a):
+    return {'07:00': '英検3級程度', '12:00': '英検準2級程度', '17:00': '英検2級程度'}.get(article_slot(a), '英検2級程度（従来記事）')
+
+
+def select_article(data, date=None, slot=None):
     if isinstance(data, dict):
         data = data.get('articles', [data])
-    candidates = [a for a in data if a.get('is_preview') is False and (not date or a['date'] == date)]
+    candidates = [a for a in data if a.get('is_preview') is False and (not date or a['date'] == date) and (not slot or article_slot(a) == slot)]
     if not candidates:
         raise ValueError('正式記事がありません。日付・is_previewを確認してください。')
     latest = max(a['date'] for a in candidates)
     matches = [a for a in candidates if a['date'] == latest]
     if len(matches) != 1:
-        raise ValueError('同日の正式記事が複数あるため停止しました。')
+        raise ValueError('同日の正式記事が複数あります。--slot 07:00 / 12:00 / 17:00で選択してください。')
     a = matches[0]
     if not isinstance(a.get('en'), str) or not a['en'].strip():
         raise ValueError('英文が空です。')
@@ -129,7 +138,7 @@ def upload(a, folder, state, args):
     if not state.get('video_id'):
         if state.get('upload_started'):
             raise RuntimeError('前回の投稿結果が不明です。YouTube Studioで確認後、--adopt-video-id IDで登録してください。自動再投稿しません。')
-        body = {'snippet': {'title': (f"Daily English B1 | {a['date']} | {a['title']}")[:100], 'description': f"{a['title']}\n{a.get('ja_title', '')}\n\n英検2級・CEFR B1目安。合成音声を使用。\n英文・日本語訳・重要表現:\nhttps://seikoubon.github.io/daily-english-library/\n記事日付: {a['date']}", 'categoryId': '27'}, 'status': {'privacyStatus': args.privacy, 'selfDeclaredMadeForKids': False}}
+        body = {'snippet': {'title': (f"Daily English | {article_level(a)} | {a['date']} | {a['title']}")[:100], 'description': f"{a['title']}\n{a.get('ja_title', '')}\n\n{article_level(a)}。合成音声を使用。\n英文・日本語訳・重要表現:\nhttps://seikoubon.github.io/daily-english-library/\n記事日付: {a['date']}", 'categoryId': '27'}, 'status': {'privacyStatus': args.privacy, 'selfDeclaredMadeForKids': False}}
         request = youtube.videos().insert(part='snippet,status', body=body, media_body=MediaFileUpload(str(folder / 'output.mp4'), mimetype='video/mp4', chunksize=8 * 1024 * 1024, resumable=True))
         state['upload_started'] = True
         save(folder / 'state.json', state)
@@ -156,6 +165,7 @@ def main():
     p.add_argument('command', choices=['render', 'publish', 'auth'])
     p.add_argument('--source', default=SOURCE)
     p.add_argument('--date')
+    p.add_argument('--slot', choices=['07:00', '12:00', '17:00'])
     p.add_argument('--output', type=Path, default=Path('media'))
     p.add_argument('--secrets-dir', type=Path, default=Path('secrets'))
     p.add_argument('--voice', default='en-US-ChristopherNeural')
@@ -174,8 +184,10 @@ def main():
             data = json.load(r)
     else:
         data = json.loads(Path(args.source).read_text(encoding='utf-8-sig'))
-    a = select_article(data, args.date)
-    folder = (args.output / a['date']).resolve()
+    a = select_article(data, args.date, args.slot)
+    # Keep legacy folders intact; each new slot has its own resume/upload state.
+    article_folder = a['date'] + ('_' + article_slot(a).replace(':', '') if article_slot(a) else '')
+    folder = (args.output / article_folder).resolve()
     folder.mkdir(parents=True, exist_ok=True)
     lock = folder / '.lock'
     try:
@@ -207,3 +219,4 @@ if __name__ == '__main__':
     except Exception as e:
         print(f'エラー: {e}', file=sys.stderr)
         sys.exit(1)
+

@@ -74,3 +74,20 @@ Windowsタスクスケジューラで毎朝7:30など記事公開後に実行し
 - https://developers.google.com/identity/protocols/oauth2
 - https://developers.google.com/youtube/v3/docs/captions/insert
 - https://developers.google.com/youtube/v3/docs/videos/insert
+
+# 1日3回配信への対応
+
+各記事は約400語です。7:00は英検3級程度、12:00は準2級程度、17:00は2級程度です。
+同日の記事が複数ある場合は、配信枠を指定してください。
+
+```powershell
+python scripts/english_media.py render --date 2026-11-03 --slot 07:00
+python scripts/english_media.py render --date 2026-11-03 --slot 12:00
+python scripts/english_media.py render --date 2026-11-03 --slot 17:00
+.\scripts\daily-media.ps1 -Slot '12:00'
+```
+
+出力先は `media/2026-11-03_0700` など配信枠ごとに分離し、音声・字幕・動画・YouTube投稿状態の衝突を防ぎます。従来記事の出力フォルダは日付のまま維持します。`--slot`のみならその枠の最新記事を選びます。未配信枠や日付違いを取り違えない運用では`--date`も指定してください。複数記事があるのに枠を省略すると、誤投稿を避けるため停止します。
+
+YouTubeのタイトル・説明も各記事の難易度を使用します。実際の音声生成・YouTube投稿には従来どおりPC側の環境と認証が必要です。
+
