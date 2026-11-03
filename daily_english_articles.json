@@ -331,5 +331,44 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-03-1200.jpg",
     "image_alt": "スーパーで大小の米袋を比べる買い物客",
     "image_prompt": "Use case: illustration-story. Asset type: English learning essay key visual. Create a wide 16:9 calm editorial illustration of an adult shopper in a supermarket comparing a small plain rice bag and a larger plain rice bag, with a shopping basket containing a modest amount of fresh vegetables. Show the thoughtful act of comparing useful amounts, rather than buying the largest package. Three-quarter aisle view, soft daylight, muted sage green and warm cream, subtle paper texture, clean elegant shapes. No text, letters, numbers, logos, price labels, or watermark."
+  },
+  {
+    "date": "2026-11-03",
+    "category": "投資・経済",
+    "title": "[17:00] The Hidden Value of Paying Later",
+    "ja_title": "後で支払うことに隠れた価値",
+    "en": "Imagine joining an online learning service. You can pay every month or pay for a full year in advance. The annual plan offers a discount, so it looks like the obvious choice. However, the price is only one part of the decision. The timing of your payment matters too.\n\nSuppose a fictional service costs 1,000 yen a month or 10,000 yen a year. If you use it for twelve months, the annual plan saves 2,000 yen. But if you stop after four months and cannot get a refund, monthly payments would have cost only 4,000 yen. The cheaper plan depends on how long you actually stay.\n\nPaying monthly also leaves more money available today. That money can cover an unexpected repair or another important expense. This ability to use money when you need it has value, even when it does not appear as a discount on a screen.\n\nBusinesses face a similar question. A small shop may sell many products and still struggle if customers pay late while suppliers require payment immediately. The shop needs money to keep operating between those two moments. Profit and available cash are related, but they are not the same thing.\n\nFor a household, a simple calendar can reveal this difference. Write down when income arrives and when major payments leave your account. Your monthly total may look comfortable, yet several bills arriving before payday can create a difficult week. Moving a payment date, when possible, may help without changing your total spending.\n\nOf course, paying later is not always better. A delayed payment might include interest or extra fees. Several small monthly charges can also become a large total. Before choosing, compare the full cost, check the cancellation rules, and consider how certain you are that you will continue using the service.\n\nAn annual plan can be reasonable for something you already use regularly. A monthly plan may be worth the higher price when you are trying something new. In that case, the extra cost buys flexibility: the freedom to stop, change direction, or keep cash available for another need.\n\nThe useful question is therefore broader than “Which price is lower?” Ask, “What am I giving up by paying now?” A discount is easy to measure. Flexibility is less visible, but it can still be valuable. Understanding both helps you choose a payment plan that fits your life, rather than letting a bright discount label make the decision for you.",
+    "ja": "オンラインの学習サービスに加入するところを想像してください。毎月支払うことも、1年分を前払いすることもできます。年間プランには割引があるので、当然それを選ぶべきだと思えるかもしれません。しかし、価格は判断の一部にすぎません。支払うタイミングも大切です。\n\n架空のサービスが月額1,000円、または年額10,000円だとしましょう。12か月使えば、年間プランで2,000円節約できます。しかし、4か月後に利用をやめ、返金も受けられないなら、月払いであれば4,000円で済んだはずです。どちらのプランが安いかは、実際にどれだけ長く使うかで決まります。\n\n月払いなら、今日手元で使えるお金も多く残ります。そのお金を、予想外の修理や別の重要な出費に充てられます。必要なときにお金を使えることには、画面上で割引として表示されなくても、価値があります。\n\n企業も同じような問題に直面します。小さな店が商品をたくさん売っていても、顧客からの入金が遅く、仕入れ先にはすぐに支払わなければならないなら、資金繰りに苦しむことがあります。店は、その2つの時点の間も営業を続けるためのお金を必要とします。利益と手元で使える現金は関係していますが、同じものではありません。\n\n家庭では、簡単なカレンダーでこの違いを見えるようにできます。収入が入る日と、大きな支払いで口座からお金が出ていく日を書き込みましょう。月全体の合計では余裕があるように見えても、給料日前に請求がいくつも重なると、厳しい1週間になるかもしれません。可能なら支払日を動かすことで、支出の総額を変えずに改善できることがあります。\n\nもちろん、後で支払う方がいつもよいわけではありません。支払いを遅らせると、利息や追加手数料がかかる場合があります。少額の月額料金も、いくつも集まれば大きな金額になります。選ぶ前に、費用の総額を比べ、解約条件を確認し、そのサービスを使い続けることにどれほど確信があるかを考えましょう。\n\nすでに日常的に使っているものなら、年間プランは合理的な選択になり得ます。新しいものを試すときは、料金が高くても月払いにする価値があるかもしれません。その場合、追加の費用で柔軟性を買っているのです。つまり、やめる自由、方針を変える自由、別の必要に備えて現金を手元に残す自由です。\n\nしたがって、役に立つ問いは「どちらの価格が安いか」よりも広いものです。「今支払うことで、何を手放すのか」と考えてみましょう。割引は簡単に測れます。柔軟性は目に見えにくいものの、それでも価値があります。両方を理解すれば、目立つ割引表示に決定を任せるのではなく、自分の生活に合った支払いプランを選べます。",
+    "vocab": [
+      [
+        "in advance",
+        "前もって・前払いで",
+        "You can pay for the course in advance."
+      ],
+      [
+        "refund",
+        "返金",
+        "Can I get a refund if I cancel?"
+      ],
+      [
+        "cover an expense",
+        "費用をまかなう",
+        "These savings can cover an unexpected expense."
+      ],
+      [
+        "flexibility",
+        "柔軟性・変更できる自由",
+        "Monthly payments give us more flexibility."
+      ],
+      [
+        "give up",
+        "手放す・諦める",
+        "What do we give up by paying now?"
+      ]
+    ],
+    "is_preview": false,
+    "image_alt": "カレンダーと硬貨を使い、支払い時期と手元資金を考える机上の風景",
+    "image_prompt": "Use case: illustration-story. Asset type: English learning essay key visual. Create a wide 16:9 calm editorial illustration about choosing between an annual advance payment and flexible monthly payments. Overhead view of a warm cream home desk, an open blank calendar with a simple unnumbered grid, a hand moving one small stack of coins beside several smaller stacks arranged along the calendar, a plain closed laptop, and a modest emergency repair tool at the edge. Express keeping money available over time. Muted teal, sage and warm ochre, soft afternoon light, elegant paper texture. No text, letters, numbers, logos, price labels or watermark.",
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-03-1700.jpg"
   }
 ]
