@@ -370,5 +370,41 @@
     "image_alt": "カレンダーと硬貨を使い、支払い時期と手元資金を考える机上の風景",
     "image_prompt": "Use case: illustration-story. Asset type: English learning essay key visual. Create a wide 16:9 calm editorial illustration about choosing between an annual advance payment and flexible monthly payments. Overhead view of a warm cream home desk, an open blank calendar with a simple unnumbered grid, a hand moving one small stack of coins beside several smaller stacks arranged along the calendar, a plain closed laptop, and a modest emergency repair tool at the edge. Express keeping money available over time. Muted teal, sage and warm ochre, soft afternoon light, elegant paper texture. No text, letters, numbers, logos, price labels or watermark.",
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-03-1700.jpg"
+  },
+  {
+    "date": "2026-11-04",
+    "category": "米国ベストセラー書籍",
+    "title": "[07:00] Start Small and Learn: The Lean Startup",
+    "ja_title": "小さく始めて学ぶ――『リーン・スタートアップ』",
+    "en": "Many people dream of starting a business. Some want to open a shop. Others want to make a useful app. They may spend months making a big plan. But what if people do not want the new product?\n\nIn the book The Lean Startup, Eric Ries offers a different way to begin. His book became a bestseller in the United States. He says that a new business should learn from real customers as early as possible. A small test can teach us more than a long plan.\n\nImagine that Ken wants to start a bicycle repair service. He thinks busy people need help with their bicycles. At first, he wants to rent a large shop and buy many tools. But he does not know how many people will use his service.\n\nInstead, Ken starts small. He makes a simple page with his phone number. He offers a basic repair service on Saturdays. He asks ten neighbors to look at the page. Three people call him. Two bring their bicycles. Now he has learned something real.\n\nNext, Ken asks his customers what they need. One wants help before work. Another wants a repair at home. Ken also checks how much time each repair takes. He writes down what works and what does not.\n\nThe book calls this way of working Build, Measure, Learn. First, make something small. Then see how people use it. Finally, learn from what happens. After that, make a better version or change the plan.\n\nKen learns that many people want quick help in the morning. He changes his working hours. He does not open a large shop yet. He tests the new hours for two weeks first.\n\nThis method does not mean that every small idea will work. Sometimes customers are not interested. A test may show that a plan is wrong. That news may be sad, but it can save time and money.\n\nWe can also use this idea in daily life. Do you want to study English every morning? Try reading for ten minutes each day for one week. Write down what helps you continue. Then change your plan if you need to.\n\nThe message of The Lean Startup is simple: do not only guess what people need. Make a small start, look at real results, and keep learning. A small step today can help you make a better decision tomorrow.",
+    "ja": "多くの人は事業を始めることを夢見ます。店を開きたい人もいれば、便利なアプリを作りたい人もいます。大きな計画を立てるために何か月もかけるかもしれません。でも、人々がその新しい商品を欲しがらなかったらどうなるでしょうか。\n\nエリック・リースは『The Lean Startup（リーン・スタートアップ）』という本で、違う始め方を紹介しています。この本はアメリカでベストセラーになりました。著者は、新しい事業はできるだけ早く実際のお客さんから学ぶべきだと言います。小さな実験は、長い計画より多くのことを教えてくれる場合があります。\n\nケンが自転車の修理サービスを始めたいと想像してください。彼は忙しい人たちが自転車のことで助けを必要としていると思っています。最初は大きな店を借り、たくさんの道具を買おうとします。でも、何人がサービスを利用するのかはわかりません。\n\nそこでケンは小さく始めます。電話番号を載せた簡単なページを作ります。土曜日に基本的な修理サービスを提供します。近所の10人にそのページを見てもらいます。3人が電話をかけ、2人が自転車を持ってきます。これで実際のことを一つ学べました。\n\n次にケンはお客さんに何が必要かを尋ねます。ある人は仕事の前に助けてほしいと言います。別の人は家で修理してほしいと言います。ケンは修理にかかる時間も調べます。うまくいったことと、うまくいかなかったことを書き留めます。\n\n本ではこの進め方を「作る・測る・学ぶ」と呼びます。まず、小さなものを作ります。次に、人々がどう使うかを見ます。最後に、起きたことから学びます。その後で、よりよいものを作るか、計画を変えます。\n\nケンは朝にすぐ助けてほしい人が多いと学びます。そこで営業時間を変えます。まだ大きな店は開きません。まず新しい時間帯を2週間試してみます。\n\nこの方法は、小さなアイデアがすべて成功するという意味ではありません。お客さんが興味を持たないこともあります。実験によって計画が間違っているとわかるかもしれません。それは残念な知らせですが、時間とお金を節約できます。\n\nこの考え方は日常生活でも使えます。毎朝英語を勉強したいですか。1週間、毎日10分読むことを試してみましょう。続ける助けになることを書き留めます。そして、必要なら計画を変えてみましょう。\n\n『The Lean Startup』が伝えることは簡単です。人々が何を必要としているか、推測するだけで終わらせないこと。小さく始めて、実際の結果を見て、学び続けることです。今日の小さな一歩は、明日もっとよい決定をする助けになります。",
+    "vocab": [
+      [
+        "start a business",
+        "事業を始める",
+        "She wants to start a business."
+      ],
+      [
+        "as early as possible",
+        "できるだけ早く",
+        "Ask for help as early as possible."
+      ],
+      [
+        "instead",
+        "その代わりに",
+        "He did not buy a shop. Instead, he started at home."
+      ],
+      [
+        "write down",
+        "書き留める",
+        "Write down what you learn."
+      ],
+      [
+        "work",
+        "うまくいく・機能する",
+        "This new plan works well."
+      ]
+    ],
+    "is_preview": false
   }
 ]
