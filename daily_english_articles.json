@@ -250,5 +250,44 @@
       ]
     ],
     "is_preview": false
+  },
+  {
+    "date": "2026-11-03",
+    "category": "投資・経済",
+    "title": "[TEST] A Simple Budget: Image Posting Test",
+    "ja_title": "【画像投稿テスト】簡単な予算づくり",
+    "en": "A simple budget helps us see how we use our money. Imagine putting coins into three jars. One jar is for things we need. Another is for things we enjoy. The last jar is for saving. We can start with a small amount and make a plan that works for us.\n\nThis is a test article to check that the same generated image and text appear on both websites.",
+    "ja": "簡単な予算は、お金の使い方を把握する助けになります。硬貨を3つの瓶に入れるところを想像してください。1つは必要なもの、もう1つは楽しみ、最後の1つは貯金のためです。少額から始め、自分に合う計画を立てられます。\n\nこれは、生成した同じ画像と本文が両方のサイトに表示されることを確認するためのテスト記事です。",
+    "vocab": [
+      [
+        "save money",
+        "お金を貯める",
+        "I save money every month."
+      ],
+      [
+        "write down",
+        "書き留める",
+        "Write down what you buy."
+      ],
+      [
+        "budget",
+        "予算",
+        "I have a budget for food."
+      ],
+      [
+        "instead of",
+        "～の代わりに",
+        "I drink water instead of juice."
+      ],
+      [
+        "at the same time",
+        "同時に",
+        "We can study and have fun at the same time."
+      ]
+    ],
+    "is_preview": true,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-03-test.jpg",
+    "image_alt": "日差しの入る机で3つの瓶に硬貨を分け、予算を考える人",
+    "image_prompt": "Warm editorial illustration of household budgeting with three coin jars, notebook and coffee, muted teal and cream, no text."
   }
 ]
