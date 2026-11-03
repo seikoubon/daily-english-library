@@ -292,5 +292,44 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-03-test.jpg",
     "image_alt": "日差しの入る机で3つの瓶に硬貨を分け、予算を考える人",
     "image_prompt": "Warm editorial illustration of household budgeting with three coin jars, notebook and coffee, muted teal and cream, no text."
+  },
+  {
+    "date": "2026-11-03",
+    "category": "投資・経済",
+    "title": "[12:00] Is the Bigger Bag Really Cheaper?",
+    "ja_title": "大きな袋は本当にお得？",
+    "en": "You are standing in a supermarket, looking at two bags of rice. The smaller bag costs less, but the larger one seems to offer more for your money. Which should you choose? The answer begins with a simple question: how much are you paying for the amount you will actually use?\n\nImagine that a two-kilogram bag costs 1,000 yen, while a five-kilogram bag costs 2,200 yen. These are example prices, not prices from a particular store. The smaller bag costs 500 yen per kilogram. The larger bag costs 440 yen per kilogram. This price for one standard amount is called the unit price.\n\nLooking at unit prices makes it easier to compare packages of different sizes. A bright sale sign or a large package can attract your attention, but neither tells you the whole story. A smaller package may sometimes have a lower unit price, so checking the numbers is useful.\n\nHowever, the lowest unit price does not always lead to the lowest real cost. Suppose you buy a large box of vegetables because each kilogram is cheaper. If some vegetables go bad before you eat them, part of your payment buys food that never reaches your plate. The money saved on the price may disappear through waste.\n\nStorage matters too. A large package needs enough space, and some foods need special care after opening. Before buying more, ask yourself where you will keep it and when you will finish it. A good deal should fit your daily life, not just look attractive on a shelf.\n\nThere is another point to consider: the total amount you pay today. Even when a large package offers better value, it requires more money at once. Choosing a smaller package can make sense if you need that money for other things this week.\n\nYou do not need to calculate every price during every shopping trip. Start with one or two products you buy regularly. Compare the same units, such as grams with grams, and notice whether you usually finish each package. Over time, you can learn which sizes work well for your home.\n\nSmart shopping is not a competition to find the biggest discount. It means understanding what you receive, what you use, and what you spend. Sometimes the larger bag is the better choice. Sometimes the smaller one is. A few seconds of thought can turn an attractive offer into a decision that truly works for you.",
+    "ja": "あなたはスーパーで、2つの米の袋を見ています。小さい袋の方が安いものの、大きい袋の方が支払うお金に対して多く買えそうです。どちらを選ぶべきでしょうか。答えを考える出発点は、簡単な質問です。実際に使う量に対して、いくら払っているのでしょうか。\n\n2キログラムの袋が1,000円、5キログラムの袋が2,200円だと想像してください。これは例としての価格で、特定の店の価格ではありません。小さい袋は1キログラムあたり500円です。大きい袋は1キログラムあたり440円です。このような、一定の量あたりの価格を単価といいます。\n\n単価を見ると、大きさの違う商品を比較しやすくなります。目立つセールの表示や大きな包装は注意を引くかもしれませんが、どちらもすべてを教えてくれるわけではありません。小さい商品の方が単価が安いこともあるため、数字を確認することには意味があります。\n\nしかし、単価が最も安くても、実際の費用が最も少なくなるとは限りません。1キログラムあたりが安いので、大きな箱入りの野菜を買うとしましょう。食べる前に一部の野菜が傷めば、払ったお金の一部は、食卓に届かない食べ物のために使われたことになります。価格の面で節約したお金が、無駄によって消えてしまうかもしれません。\n\n保管も大切です。大きな包装の商品には十分な場所が必要で、開封後に特別な注意が必要な食品もあります。多く買う前に、どこに置き、いつ使い切るのかを考えましょう。お買い得な商品は、棚の上で魅力的に見えるだけでなく、自分の日々の暮らしに合っているべきです。\n\n考えるべき点がもう一つあります。今日支払う総額です。大きな商品の方が割安でも、一度に多くのお金が必要です。今週ほかのことにそのお金が必要なら、小さい商品を選ぶのも理にかなっています。\n\n買い物のたびに、すべての価格を計算する必要はありません。普段買っている商品を1つか2つ選んで始めましょう。グラム同士など同じ単位で比較し、普段それぞれの商品を使い切っているかに注目してください。時間をかけて、自分の家庭に合う大きさがわかるようになります。\n\n賢い買い物は、最大の値引きを見つける競争ではありません。何を受け取り、何を使い、いくら払うのかを理解することです。大きな袋の方がよいこともあれば、小さい袋の方がよいこともあります。数秒考えることで、魅力的な売り出しを、自分に本当に合った判断に変えられます。",
+    "vocab": [
+      [
+        "unit price",
+        "単価・一定量あたりの価格",
+        "Compare the unit prices of these two bags."
+      ],
+      [
+        "go bad",
+        "食べ物が傷む",
+        "These vegetables may go bad soon."
+      ],
+      [
+        "at once",
+        "一度に",
+        "I cannot carry all these bags at once."
+      ],
+      [
+        "make sense",
+        "理にかなっている",
+        "Buying a smaller bag makes sense for me."
+      ],
+      [
+        "over time",
+        "時間がたつにつれて",
+        "You can improve your shopping habits over time."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-03-1200.jpg",
+    "image_alt": "スーパーで大小の米袋を比べる買い物客",
+    "image_prompt": "Use case: illustration-story. Asset type: English learning essay key visual. Create a wide 16:9 calm editorial illustration of an adult shopper in a supermarket comparing a small plain rice bag and a larger plain rice bag, with a shopping basket containing a modest amount of fresh vegetables. Show the thoughtful act of comparing useful amounts, rather than buying the largest package. Three-quarter aisle view, soft daylight, muted sage green and warm cream, subtle paper texture, clean elegant shapes. No text, letters, numbers, logos, price labels, or watermark."
   }
 ]
