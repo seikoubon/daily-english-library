@@ -487,5 +487,41 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-04-1700.jpg",
     "image_alt": "開店前のカフェで、二人の店員が確認表と決済端末の案内を確認する風景",
     "image_prompt": "Use case: illustration-story. Wide 16:9 refined editorial illustration for an English essay about The Checklist Manifesto. A quiet small cafe just before opening, two adult coworkers in muted teal aprons standing beside the entrance counter, one reading a short clipboard checklist with only four abstract check marks, the other placing a blank notice next to a small card payment reader. Customers not yet present. Make the clipboard, payment reader, and blank notice clearly part of a practical pre-opening check. View from near the door, morning daylight, warm cream and sage palette with restrained ochre, sophisticated subtle paper texture. No text, letters, numbers, brands, logos or watermark."
+  },
+  {
+    "date": "2026-11-05",
+    "category": "科学",
+    "title": "[07:00] Why Our Shadows Change",
+    "ja_title": "影の長さはどうして変わるの？",
+    "en": "On a sunny morning, Hana walked to school with her brother. She saw a long, dark shape on the road. \"Look! My shadow is taller than I am,\" she said. Her brother looked at his shadow. It was long, too.\n\nAt noon, they went outside again. The shadows were much shorter. Did their bodies change? Of course not. The Sun was in a different place in the sky.\n\nA shadow appears when an object stops light. The Sun sends light to Earth. When we stand in the sunlight, our bodies stop some of that light. The dark area behind us is our shadow.\n\nIn the morning, the Sun is low in the sky. Its light comes from the side. So our shadows are long. Around the middle of the day, the Sun is higher. Its light comes from above, and our shadows become shorter. In the late afternoon, the Sun gets low again. Our shadows grow longer.\n\nHana wanted to see this change for herself. On Saturday, she put a small stick in the ground in her garden. She chose a place with sunlight. She drew a line at the end of the stick's shadow and wrote down the time. She did this in the morning, at noon, and in the afternoon.\n\nAt the end of the day, she looked at the lines. They pointed in different directions, and their lengths were different, too. She was surprised. One small stick had helped her learn about the Sun.\n\n\"The Sun moves across the sky,\" said her brother. \"Does it really travel around us?\"\n\nHana remembered something from science class. Earth turns slowly every day. Because Earth turns, the Sun seems to move across the sky. The Sun is not going around Earth once every day.\n\nHana also learned that the shortest shadow is not always at twelve o'clock. It depends on where you live and the time of year.\n\nThe next morning, Hana took a picture of her long shadow. She did not need a big lab or an expensive tool. She only needed a sunny day, a stick, and a little time.\n\nScience often begins with a simple question. When you see something strange, stop and look again. You may find a new idea in a place you know well.",
+    "ja": "晴れた朝、ハナは弟と一緒に学校へ歩いていました。道に長くて暗い形があるのを見つけました。「見て！ 私の影、私の背より高いよ」とハナは言いました。弟も自分の影を見ました。弟の影も長かったのです。\n\n正午に、二人はまた外へ出ました。影はずっと短くなっていました。二人の体が変わったのでしょうか。もちろん違います。太陽が空の違う位置にあったのです。\n\n影は、物が光をさえぎるとできます。太陽は地球に光を送っています。私たちが日光の中に立つと、体がその光の一部をさえぎります。私たちの後ろにできる暗い部分が影です。\n\n朝は、太陽が空の低い位置にあります。光は横から来ます。だから影は長くなります。昼ごろになると、太陽はより高い位置にあります。光は上から来るので、影は短くなります。夕方遅くなると、太陽はまた低くなります。影も再び長くなります。\n\nハナはこの変化を自分で確かめたくなりました。土曜日、庭の地面に小さな棒を立てました。日光が当たる場所を選びました。棒の影の先に線を引き、時刻を書きました。朝、正午、午後に同じことをしました。\n\n一日の終わりに、ハナは線を見ました。線はそれぞれ違う方向を向いていて、長さも違っていました。ハナは驚きました。小さな棒一本が、太陽について学ぶ助けになったのです。\n\n「太陽は空を動いていくね」と弟が言いました。「本当に太陽が僕たちの周りを回っているのかな？」\n\nハナは理科の授業で習ったことを思い出しました。地球は毎日ゆっくり回転しています。地球が回るので、太陽が空を動いているように見えるのです。太陽が毎日一回、地球の周りを回っているわけではありません。\n\nハナはまた、一番短い影が必ずしも12時ちょうどにできるわけではないことを知りました。住んでいる場所や季節によって変わります。\n\n翌朝、ハナは自分の長い影の写真を撮りました。大きな実験室も高価な道具も必要ありませんでした。必要なのは、晴れた日と棒一本、そして少しの時間だけでした。\n\n科学は、ちょっとした疑問から始まることがよくあります。不思議なことを見つけたら、立ち止まってもう一度見てみましょう。よく知っている場所で、新しい発見ができるかもしれません。",
+    "vocab": [
+      [
+        "shadow",
+        "影",
+        "My shadow is long in the morning."
+      ],
+      [
+        "sunlight",
+        "日光",
+        "The garden gets a lot of sunlight."
+      ],
+      [
+        "direction",
+        "方向",
+        "The shadow points in a different direction."
+      ],
+      [
+        "seem to",
+        "～のように見える",
+        "The Sun seems to move across the sky."
+      ],
+      [
+        "depend on",
+        "～によって決まる",
+        "The length of a shadow can depend on the time."
+      ]
+    ],
+    "is_preview": false
   }
 ]
