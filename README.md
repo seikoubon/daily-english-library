@@ -20,7 +20,7 @@ GitHubの Settings → Pages → Build and deployment で、Source を「Deploy 
 - `daily_english_articles.json`: 全記事のJSON配列。`is_preview: true` は短縮サンプルです。
 
 ## 毎日の更新
-ChatGPTの朝・昼・夕の3タスクが、GitHub→所有者専用サイト→Driveの順に独立して保存します。Driveの失敗はGitHub更新を妨げません。GitHub側で新たに英文を生成する処理やAI APIは使いません。
+ChatGPTの定期タスクが朝・昼・夕に、GitHubと所有者専用サイトへ独立して保存します。Google Driveへのバックアップは行いません。GitHub側で新たに英文を生成する処理やAI APIは使いません。
 HTMLでは最初の `let articles=[…],idx=0` の配列だけを全記事で置換します。JSON内の `<` は `\u003c` にしてscript要素の終端を防ぎます。既存記事を保持し、正式記事は日付＋配信枠で更新します。
 
 既存の連携ツールのスキーマを保つため、JSONのtitleは `[07:00] English Title`、`[12:00] English Title`、`[17:00] English Title` とします。サイトでは接頭辞を外してタイトルを表示し、時刻・難易度を別に表示します。キーは `article|YYYY-MM-DD|HH:MM`。接頭辞のない従来記事は `article|YYYY-MM-DD` の独立した記事として残します。サンプルのキーは日付＋タイトルです。同じ枠の再実行だけが更新となり、他の枠は保持されます。
