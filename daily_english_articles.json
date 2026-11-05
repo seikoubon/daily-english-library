@@ -526,5 +526,41 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-05-0700.png",
     "image_alt": "庭で棒の影の変化を調べる姉と弟",
     "image_prompt": "A sister and younger brother observe and mark a stick's changing shadow in a sunny garden, calm editorial illustration, no text."
+  },
+  {
+    "date": "2026-11-05",
+    "category": "科学",
+    "title": "[17:00] The Quiet Work of Yeast: Why Bread Rises",
+    "ja_title": "パンがふくらむ理由――酵母が働く小さな科学",
+    "en": "Early on a rainy Saturday, Maya mixes flour, water, yeast, and a little salt in a bowl. At first, the dough looks like a heavy ball. She covers it with a towel and leaves it on the kitchen counter. An hour later, it is almost twice as large. Nothing was added, so where did the extra volume come from?\n\nPart of the answer is yeast. Yeast is a tiny living organism, a type of fungus. When it has enough warmth, water, and food, it becomes active. It uses sugars in the dough and releases carbon dioxide gas. Thousands of small gas bubbles form inside the dough.\n\nFlour contains proteins that can form gluten when mixed with water and worked. Gluten makes an elastic network, rather like a flexible net. It catches many of those gas bubbles. As more gas collects, the dough stretches and grows. Yeast produces gas, but the structure of the dough helps keep it inside.\n\nThis explains why kneading matters for many kinds of wheat bread. Kneading helps develop the gluten network. However, different breads require different methods. Some doughs rise with very little kneading, while others use ingredients such as baking powder instead of yeast.\n\nTemperature also changes the process. A cold kitchen generally makes yeast work more slowly. A warm place can make the dough rise faster, but very high heat can damage or kill the yeast. Bakers pay attention to time and temperature rather than simply watching the clock.\n\nWhen Maya presses the dough gently, it feels soft and full of air. She shapes it and lets it rest again. Then she puts it in the oven. In the first part of baking, gases expand and the loaf may rise further. Later, heat sets the bread's structure, and the crust becomes brown.\n\nShe cuts the loaf too soon and notices that the inside is slightly sticky. Next time, she waits for it to cool. Cooling allows the inside to become firmer and easier to slice. The bread is not just a collection of ingredients; it is the result of several changes working together.\n\nThe experiment also teaches her a useful lesson about science. We cannot see the yeast cells moving around in ordinary dough, but we can observe their effects. We can change one condition, such as temperature, and compare the results. This is one way to turn a simple question into an investigation.\n\nNext time you see a loaf of bread, think about the invisible activity that helped create its soft texture. Everyday food can be a small science laboratory.",
+    "ja": "雨の土曜日の朝早く、マヤはボウルに小麦粉、水、酵母、少量の塩を入れて混ぜます。最初、生地は重たい球のように見えます。マヤはふきんをかけて台所の調理台に置きます。1時間後、生地はほぼ2倍の大きさになっています。何も加えていないのに、この増えた体積はどこから来たのでしょうか。\n\n答えの一部は酵母にあります。酵母は菌類の一種で、とても小さな生き物です。十分な温かさと水と食べ物があると、酵母は活動を始めます。生地の中の糖分を利用し、二酸化炭素の気体を放出します。すると、何千もの小さな気泡が生地の中にできます。\n\n小麦粉には、水と混ぜてこねるとグルテンを形成できるたんぱく質が含まれています。グルテンは、しなやかな網のような弾力のある構造を作ります。その網が多くの気泡を閉じ込めます。気体が増えるにつれ、生地は伸びて大きくなります。酵母が気体を作りますが、それを内側に保つのは生地の構造なのです。\n\nこのことから、多くの小麦パンでこねる作業が重要な理由がわかります。こねるとグルテンの網目が発達します。ただし、パンの種類によって作り方は異なります。ほとんどこねなくてもふくらむ生地もあれば、酵母の代わりにベーキングパウダーなどを使うものもあります。\n\n温度もこの過程を変えます。寒い台所では一般に酵母の働きが遅くなります。温かい場所では生地が早くふくらむことがありますが、非常に高い熱は酵母を傷めたり死滅させたりします。パン職人は、ただ時計を見るのではなく、時間と温度の両方に注意を払います。\n\nマヤが生地を優しく押すと、柔らかく、空気をたくさん含んでいるように感じます。マヤは生地の形を整え、もう一度休ませます。それからオーブンに入れます。焼き始めには気体が膨張し、パンがさらにふくらむことがあります。その後、熱によってパンの構造が固まり、表面の皮は茶色くなります。\n\nマヤはパンを早く切りすぎて、中が少しべたついていることに気づきます。次は冷めるまで待つことにします。冷ますことで内側がよりしっかりし、切りやすくなります。パンは単に材料を集めたものではありません。いくつもの変化が組み合わさった結果なのです。\n\nこの実験は、マヤに科学についても大切なことを教えてくれます。普通のパン生地の中で動く酵母の細胞は見えませんが、その働きの結果は観察できます。温度など一つの条件を変え、結果を比べることもできます。これは、単純な疑問を調査へと変える一つの方法です。\n\n次にパンを見かけたら、その柔らかな食感を生み出す助けになった、目に見えない活動を思い浮かべてください。毎日の食べ物も、小さな科学実験室になり得るのです。",
+    "vocab": [
+      [
+        "dough",
+        "パンなどの生地",
+        "The dough grew while it rested."
+      ],
+      [
+        "release",
+        "放出する",
+        "Yeast releases carbon dioxide gas."
+      ],
+      [
+        "elastic",
+        "弾力のある",
+        "Gluten makes the dough elastic."
+      ],
+      [
+        "expand",
+        "膨張する",
+        "Gas bubbles expand in the oven."
+      ],
+      [
+        "observe",
+        "観察する",
+        "We can observe how the dough changes."
+      ]
+    ],
+    "is_preview": false
   }
 ]
