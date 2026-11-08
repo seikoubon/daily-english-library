@@ -604,5 +604,44 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-08-1700.png",
     "image_alt": "屋外の共有本棚で本を読む女性と本を整理する男性",
     "image_prompt": "A calm editorial illustration of a community book-sharing shelf, with a reader and a person tending books, warm muted colors, landscape, no text."
+  },
+  {
+    "date": "2026-11-08",
+    "category": "米国ベストセラー書籍",
+    "title": "[12:00] A Walk Through the Pages",
+    "ja_title": "本のページから始まる散歩",
+    "en": "On a quiet Sunday, Emi opened a book she had borrowed from a friend. It described a woman who walked through her town and wrote down the small things she noticed. Emi liked the idea, but she wondered whether there was anything interesting to see near her own home.\n\nThe next morning, she took the same road she used every day. Usually, she looked at her phone or thought about her plans. This time, she left her phone in her bag and walked more slowly.\n\nAt first, everything seemed familiar. Then she noticed a tiny green plant growing beside an old wall. Farther down the street, a shopkeeper was placing flowers outside her store. A man stopped to say hello to her. Emi had passed the shop many times, but she had never noticed the flowers or their morning conversation.\n\nWhen she returned home, she wrote three sentences in a notebook. They were not beautiful sentences, and she did not plan to show them to anyone. Still, writing helped her remember the walk. She began to think about how many details she had missed while hurrying from one place to another.\n\nA book does not have to give us a complete plan for changing our lives. Sometimes one small idea is enough. A story can suggest a question, introduce a different way of looking, or encourage us to try something for ourselves. What happens after we close the book can be as interesting as what happens on its pages.\n\nA week later, Emi walked along the same street again. The plant was still there, but several of its leaves had changed color. She wondered how long it would survive as the weather became colder. She decided to look for it the next time she passed.\n\nNot every walk brings a surprising discovery. Some days, Emi is busy and simply takes the fastest route. On other days, she has a few minutes to look around. She no longer expects every walk to be special.\n\nThe book did not change her town. It changed the attention she gave it. Sometimes reading takes us to distant places; sometimes it helps us see the place outside our door with fresh eyes.",
+    "ja": "静かな日曜日、エミは友人から借りた本を開きました。そこには、町を歩きながら気づいた小さなことを書き留める女性が描かれていました。エミはその考えが気に入りましたが、自分の家の近くに面白いものがあるだろうかと思いました。\n\n翌朝、エミはいつも使っている道を歩きました。普段はスマートフォンを見たり、その日の予定を考えたりしています。今回はスマートフォンをかばんにしまい、いつもよりゆっくり歩きました。\n\n最初は、すべて見慣れた景色に思えました。すると、古い壁のそばに小さな緑の植物が生えていることに気づきました。もう少し進むと、店の人が店先に花を並べています。通りかかった男性が立ち止まり、その人にあいさつしました。エミはその店の前を何度も通っていましたが、花にも朝の会話にも気づいたことがありませんでした。\n\n家に帰ると、エミはノートに三つの文を書きました。美しい文章ではなく、誰かに見せるつもりもありません。それでも、書くことで散歩を思い出しやすくなりました。急いで移動している間に、どれほど多くの細かなことを見逃していたのだろうと考え始めました。\n\n本は、人生を変えるための完全な計画を与えてくれなくても構いません。小さな考え一つで十分なこともあります。物語は疑問を投げかけたり、違う見方を教えたり、自分で何かを試すよう促したりします。本を閉じた後に起こることも、ページの中で起こることと同じくらい面白いかもしれません。\n\n一週間後、エミは再び同じ通りを歩きました。植物はまだありましたが、葉のいくつかは色が変わっていました。寒くなるにつれて、いつまで生きられるだろうと思いました。次に通るときも探してみようと決めました。\n\n散歩のたびに驚くような発見があるわけではありません。忙しくて、ただ最短の道を通る日もあります。周りを見る時間が少しある日もあります。エミは、毎回の散歩が特別であることを期待しなくなりました。\n\n本が町を変えたのではありません。町に向けるエミの注意を変えたのです。読書は遠くへ連れて行ってくれることもあれば、家のすぐ外の景色を新鮮な目で見る助けになることもあります。",
+    "vocab": [
+      [
+        "write down",
+        "書き留める",
+        "She wrote down what she noticed."
+      ],
+      [
+        "familiar",
+        "見慣れた、よく知っている",
+        "The street looked familiar."
+      ],
+      [
+        "pass",
+        "～の前を通る",
+        "I pass the shop every morning."
+      ],
+      [
+        "encourage",
+        "促す、励ます",
+        "The book encouraged her to take a walk."
+      ],
+      [
+        "with fresh eyes",
+        "新鮮な目で",
+        "He saw his town with fresh eyes."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-08-1200.png",
+    "image_alt": "秋の住宅街で壁際の小さな植物に目を留める人",
+    "image_prompt": "A person on a familiar neighborhood walk notices a small plant beside a wall, warm autumn light, muted colors, painterly illustration, landscape, no text."
   }
 ]
