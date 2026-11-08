@@ -12,7 +12,7 @@
     "resolution": "開始時刻06:57 JSTの前後45分以内の最寄り枠"
   },
   "status": "started",
-  "last_completed_stage": "image_file",
+  "last_completed_stage": "github_image",
   "stages": {
     "resolve_slot": {
       "status": "succeeded",
@@ -114,15 +114,22 @@
       "error": null
     },
     "github_image": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-08T22:01:44.867Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-08T22:02:06.341Z",
+      "evidence": {
+        "sha": "0c53db0876c49f07bfb10a57bd58bc6d27886972",
+        "count": 26,
+        "readback_verified": true,
+        "history_preserved": true,
+        "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-09-0700.jpg",
+        "blob_sha": "a07cbac08390b713d2f687bed4d02583adf3cb3b"
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
+      "status": "started",
+      "started_at": "2026-11-08T22:02:06.341Z",
       "finished_at": null,
       "evidence": {},
       "error": null
