@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "attempt_id": "420150e4-c591-4a8e-9222-71cc48b37f90",
+  "platform_run_id": null,
+  "invocation_kind": "manual_logging_probe",
+  "started_at": "2026-11-08T10:56:05.631Z",
+  "status": "started",
+  "stages": {
+    "log_write": {
+      "status": "started",
+      "evidence": {
+        "purpose": "Log persistence test only; no essay generated or posted"
+      }
+    }
+  }
+}
