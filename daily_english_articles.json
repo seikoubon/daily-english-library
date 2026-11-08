@@ -565,5 +565,41 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-05-1700.jpg",
     "image_alt": "雨の日の台所で、発酵してふくらんだパン生地を見つめる女性",
     "image_prompt": "A cozy, painterly kitchen scene shows a young woman watching bubbly dough rise in a glass bowl under a cloth. Flour, yeast, salt, water and a golden loaf sit nearby, beside a rain-streaked window. Warm home-baking atmosphere, horizontal 16:9, no text or logos."
+  },
+  {
+    "date": "2026-11-08",
+    "category": "米国ベストセラー書籍",
+    "title": "[17:00] What a Shared Bookshelf Can Teach Us",
+    "ja_title": "みんなの本棚が教えてくれること",
+    "en": "A bookshelf in a station or community center can tell us something about the people who live nearby. Someone leaves a novel that made them laugh. Another person adds a book about cooking. A visitor takes one home and returns it a week later, perhaps with a different book to share.\n\nThis simple exchange is different from buying a book online. A website can offer thousands of choices in seconds, and that is useful. But a shared shelf gives us a smaller collection chosen by real people in a particular place. We may pick up a book that we would never have searched for ourselves.\n\nA reader might even find a popular novel such as The God of the Woods by Liz Moore. This American bestseller begins with a teenager disappearing from a summer camp. Readers who enjoy mysteries may be drawn into the story, then want to discuss its family secrets with someone else.\n\nImagine a student who usually reads only mystery stories. One day, she finds a book about growing vegetables on the shelf. She takes it home because the cover looks interesting. The next spring, she plants tomatoes with her grandfather. A chance discovery has created a new conversation between them.\n\nOf course, a shared bookshelf does not work simply because someone puts a shelf in a building. People need to know that they can use it, and the books need to be kept clean and reasonably organized. Someone may also have to remove damaged books or make room when the shelf becomes too full. Even a small public resource depends on quiet work.\n\nThere is also a question of fairness. A shelf is most useful when people can reach it easily and understand how it works. Clear signs and books for different ages can help. The aim is not to build a perfect collection, but to make it easy for more people to take part.\n\nA shared shelf may never replace a library or a bookstore. It offers something different: a small invitation to trust others and explore an unexpected idea. The books move from hand to hand, and each reader leaves a small mark on the life of the place.\n\nNext time you finish a book, consider what you want to do with it. You might keep it, lend it to a friend, or place it on a community shelf where sharing is welcome. A story that has finished for you may be just beginning for someone else.",
+    "ja": "駅や地域の施設にある本棚からは、近くに住む人たちのことが少し見えてきます。誰かが笑顔になれた小説を置き、別の人が料理の本を加えます。訪れた人が一冊を家に持ち帰り、一週間後に返すとき、別の本を持ってくるかもしれません。\n\nこうしたささやかな交換は、オンラインで本を買うこととは異なります。ウェブサイトなら数秒で何千もの選択肢を示してくれますし、それは便利です。しかし共有の本棚には、ある場所にいる実際の人々が選んだ、もっと小さな蔵書があります。自分では決して検索しなかったような本を手に取るかもしれません。\n\nリズ・ムーアの『The God of the Woods』のような人気小説が見つかることもあるでしょう。このアメリカのベストセラーは、サマーキャンプで一人の少女が行方不明になる場面から始まります。ミステリー好きの読者なら物語に引き込まれ、家族の秘密について誰かと話したくなるかもしれません。\n\n普段はミステリーしか読まない生徒を想像してください。ある日、彼女は本棚で野菜の育て方の本を見つけます。表紙が面白そうなので家に持ち帰り、次の春には祖父とトマトを植えました。偶然の発見が、二人の新しい会話を生んだのです。\n\nもちろん、建物に棚を置くだけで共有の本棚が機能するわけではありません。使ってよいことを人々に知らせ、本を清潔に、ある程度整理しておく必要があります。傷んだ本を取り除いたり、棚がいっぱいになったら場所を空けたりする人も必要かもしれません。小さな公共の資源でさえ、目立たない仕事に支えられています。\n\n公平さも考える必要があります。棚に簡単に行けて、使い方が分かるとき、本棚は最も役立ちます。分かりやすい案内や、さまざまな年齢向けの本が助けになるでしょう。目標は完璧な蔵書を作ることではなく、より多くの人が参加しやすくすることです。\n\n共有の本棚が図書館や書店に取って代わることはないかもしれません。それは、人を信頼し、思いがけない考えに触れてみようという小さな誘いを与えてくれます。本は人から人へと渡り、読者はそれぞれ、その場所の暮らしに小さな足跡を残します。\n\n次に本を読み終えたら、その本をどうしたいか考えてみてください。手元に置くことも、友人に貸すことも、共有が歓迎されている地域の本棚に置くこともできます。あなたにとって読み終えた物語が、別の誰かにとっては始まったばかりかもしれません。",
+    "vocab": [
+      [
+        "pick up",
+        "手に取る",
+        "She picked up a book about gardening."
+      ],
+      [
+        "a chance discovery",
+        "偶然の発見",
+        "A chance discovery led him to a new hobby."
+      ],
+      [
+        "make room",
+        "場所を空ける",
+        "We made room for more books."
+      ],
+      [
+        "take part",
+        "参加する",
+        "Everyone can take part in the exchange."
+      ],
+      [
+        "from hand to hand",
+        "人から人へ",
+        "The book passed from hand to hand."
+      ]
+    ],
+    "is_preview": false
   }
 ]
