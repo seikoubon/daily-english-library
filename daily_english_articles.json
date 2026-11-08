@@ -715,5 +715,77 @@
         "You can ask a friend for help."
       ]
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "category": "AI・テクノロジー",
+    "title": "[12:00] When a Translation Needs a Second Look",
+    "ja_title": "翻訳をもう一度見直すとき",
+    "is_preview": false,
+    "en": "Aya is helping at a small neighborhood festival. A visitor asks her in English where to leave a borrowed cup. Aya knows the answer in Japanese, but she cannot find the right English words. She types a short sentence into a translation app and shows the screen to the visitor.\n\nThe message helps, and the cup reaches the correct table. This is a useful example of technology supporting a conversation. However, imagine that the translation says \"throw away\" instead of \"return.\" One small difference could send a reusable cup into the rubbish.\n\nTranslation is more than replacing each word with a word from another language. A message also depends on the situation, the speaker's purpose, and the relationship between people. A friendly joke may sound rude when its words are translated without that background.\n\nConsider a sign that says, \"Please take one.\" Does it refer to a leaflet, a ticket, or a piece of cake? A person standing beside the table can probably tell. A tool that receives only those four words may not have enough information to make every part of the message clear.\n\nAya can improve her request by describing the situation. She might write, \"This is an instruction for visitors at a festival. They should return their reusable cups to the collection table.\" Giving relevant background makes the intended meaning easier to understand.\n\nShe can also check the result in practical ways. Does the translation name the right object? Does it ask the visitor to do the right action? Are the place and time correct? Translating the result back into Japanese might reveal a problem, but a smooth second translation does not prove that the first one was accurate.\n\nFor a simple conversation, pointing to the collection table may solve the problem quickly. For instructions that many visitors will read, asking a capable speaker to review the wording is more useful. The amount of checking should fit the consequences of a mistake.\n\nTechnology can reduce the fear of speaking another language. It gives us a starting point when we would otherwise stay silent. Still, we should remain interested in whether the other person actually understood.\n\nAt the end of the festival, Aya remembers the visitor's smile and the correct phrase. The app helped her complete one task, and the experience taught her something she could use again. A good translation tool can open a conversation. Paying attention to meaning helps us keep that conversation going.",
+    "ja": "アヤは地域の小さなお祭りを手伝っています。来場者が英語で、借りたコップをどこに置けばよいか尋ねます。日本語なら答えは分かりますが、英語が出てきません。短い文を翻訳アプリに入力し、画面を見せます。\n\n伝言は役立ち、コップは正しいテーブルに戻りました。技術が会話を助けた例です。しかし「返す」が「捨てる」と訳されたらどうでしょう。小さな違い一つで、再利用できるコップがごみ箱に入るかもしれません。\n\n翻訳は、単語を別の言語の単語に置き換えるだけではありません。意味は状況、話し手の目的、人間関係にも左右されます。親しみのある冗談も、背景なしに言葉だけ訳すと失礼に聞こえるかもしれません。\n\n「一つお取りください」という表示を考えましょう。チラシ、チケット、ケーキのどれでしょうか。テーブルのそばにいる人なら分かるでしょう。しかし、その言葉だけを受け取る道具には、意味をすべて明確にする情報が足りないかもしれません。\n\nアヤは状況を説明することで依頼を改善できます。「お祭りの来場者への案内です。再利用するコップを回収用テーブルに返してもらいます」と書けます。関連する背景があると、意図を理解しやすくなります。\n\n実用的な確認もできます。正しい物の名前になっていますか。してほしい動作を伝えていますか。場所や時間は正しいですか。日本語に訳し直すと問題が見つかることもありますが、自然な日本語になったからといって最初の訳が正しい証明にはなりません。\n\n簡単な会話なら、回収用テーブルを指させばすぐ解決するかもしれません。多くの来場者が読む案内なら、その言語をよく使える人に確認してもらう方が役立ちます。確認の程度は、間違った場合の影響に合わせるべきです。\n\n技術は外国語を話す怖さを減らせます。黙ってしまう場面で、話し始めるきっかけをくれます。それでも、相手が本当に理解したかに注意を向け続ける必要があります。\n\nお祭りの終わりに、アヤは来場者の笑顔と正しい表現を覚えています。アプリで一つの仕事を終え、その経験から次にも使えることを学びました。優れた翻訳道具は会話を始める助けになります。意味に注意することで、その会話を続けられるのです。",
+    "vocab": [
+      [
+        "borrowed",
+        "借りた",
+        "Return the borrowed cup here."
+      ],
+      [
+        "refer to",
+        "～を指す",
+        "What does this word refer to?"
+      ],
+      [
+        "relevant",
+        "関連する",
+        "Give the app relevant information."
+      ],
+      [
+        "consequence",
+        "結果・影響",
+        "Think about the consequences of a mistake."
+      ],
+      [
+        "keep going",
+        "続ける",
+        "A question can keep the conversation going."
+      ]
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "category": "AI・テクノロジー",
+    "title": "[17:00] A Summary Is a Map, Not the Whole Journey",
+    "ja_title": "要約は地図であり、旅のすべてではない",
+    "is_preview": false,
+    "en": "Suppose a neighborhood group has written a long report about improving a park. It includes interviews, cost estimates, photographs, and several possible designs. You want to join the discussion, but you have only twenty minutes before the meeting. An AI summary seems like the perfect solution.\n\nA useful summary could help you identify the main proposals quickly. You might learn that residents want more shade, better paths, and a place for children to play. With this overview, you can decide which sections of the report deserve your limited time.\n\nThe difficulty is that every summary leaves something out. This is not automatically a mistake; choosing what to omit is the purpose of summarizing. However, a missing detail can change your understanding. A proposal may sound inexpensive until you discover that the estimate excludes maintenance.\n\nImagine that most interviewees supported a playground, while several nearby residents worried about evening noise. A summary that says \"residents support a playground\" may describe part of the evidence but hide an important disagreement. Smooth wording can make a complicated decision appear simpler than it really is.\n\nYou can ask for a more useful result by specifying what you need. Instead of requesting only the main points, ask for the proposals, the evidence supporting each one, the objections, and any unanswered questions. Ask the tool to point to the relevant sections of the original report.\n\nThose references still need checking. Open the cited passage and see whether it supports the summary. Pay particular attention to numbers, exceptions, and words that express uncertainty. \"Could reduce costs\" does not mean \"will reduce costs,\" and an estimate is not the same as a final price.\n\nA practical approach is to use the summary to choose where to read closely. If your main concern is access for older residents, examine the section about paths and entrances. You do not have to read every page equally carefully to make responsible use of the report.\n\nIt also helps to separate the report's claims from your own ideas. You may have a suggestion that does not appear in the document. That can improve the discussion, as long as you do not present it as something the report already established.\n\nBefore the meeting begins, you now have both an overview and a few verified details. The summary has saved time without becoming your only source. Like a map, it helps you find a route. Understanding the most important parts still requires looking at the ground beneath your feet.",
+    "ja": "地域の団体が、公園の改善について長い報告書を書いたとします。聞き取り調査、費用の見積もり、写真、複数の設計案が含まれます。話し合いに参加したいものの、会議まで20分しかありません。AIによる要約は最適な解決策に見えます。\n\n役立つ要約なら、主な提案を素早くつかめます。住民が日陰、歩きやすい道、子どもの遊び場を求めていると分かるでしょう。全体像があれば、限られた時間でどの部分を読むか決められます。\n\n難しいのは、どんな要約も何かを省くことです。省く内容を選ぶのが要約の目的なので、それ自体は間違いではありません。しかし、細部が欠けると理解が変わることがあります。維持費が含まれていないと分かるまでは、安い提案に聞こえるかもしれません。\n\n聞き取りに答えた大半の人は遊び場に賛成し、近隣住民の数人は夕方の騒音を心配していたとします。「住民は遊び場を支持している」という要約は、証拠の一部を表していても、重要な意見の違いを隠すかもしれません。滑らかな文章が、複雑な判断を実際より簡単に見せることがあります。\n\n必要なものを指定すれば、より役立つ結果を求められます。要点だけでなく、各提案、それを支える証拠、反対意見、未解決の疑問を挙げてもらいましょう。元の報告書の該当箇所も示してもらいます。\n\nその参照先も確認が必要です。引用先を開き、要約を裏づけているか見ます。数字、例外、不確実性を表す言葉には特に注意しましょう。「費用を減らせる可能性がある」は「必ず減る」とは違い、見積もりは確定価格とは違います。\n\n実用的なのは、詳しく読む場所を選ぶために要約を使う方法です。高齢者の利用しやすさが気になるなら、園路や入口の部分を読みます。報告書を適切に使うために、すべてのページを同じ詳しさで読む必要はありません。\n\n報告書の主張と自分の考えを分けることも役立ちます。文書にない提案を思いつくかもしれません。報告書ですでに確認された事実として扱わなければ、その提案は議論をよくするでしょう。\n\n会議が始まる前に、全体像と確認済みの具体的な情報が手に入りました。要約だけに頼らず、時間を節約できたのです。要約は地図のように道を探す助けになります。大切な部分を理解するには、足元の実際の地面を見る必要もあります。",
+    "vocab": [
+      [
+        "leave out",
+        "省く",
+        "A short summary leaves out some details."
+      ],
+      [
+        "maintenance",
+        "維持管理",
+        "The estimate does not include maintenance."
+      ],
+      [
+        "objection",
+        "反対意見",
+        "The report includes several objections."
+      ],
+      [
+        "uncertainty",
+        "不確実性",
+        "This phrase expresses uncertainty."
+      ],
+      [
+        "establish",
+        "確認する・明らかにする",
+        "The interviews did not establish everyone's opinion."
+      ]
+    ]
   }
 ]
