@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "attempt_id": "af5d062d-391c-4361-b5d1-8beb299c3e78",
+  "platform_run_id": null,
+  "invocation_kind": "scheduled",
+  "scheduled_for": null,
+  "started_at": "2026-11-08T21:58:45.776Z",
+  "finished_at": null,
+  "target": null,
+  "status": "started",
+  "last_completed_stage": null,
+  "stages": {
+    "resolve_slot": {
+      "status": "started",
+      "started_at": "2026-11-08T21:58:45.776Z",
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    }
+  },
+  "draft_path": null,
+  "logging_errors": []
+}
