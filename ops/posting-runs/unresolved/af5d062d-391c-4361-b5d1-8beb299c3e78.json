@@ -12,7 +12,7 @@
     "resolution": "開始時刻06:57 JSTの前後45分以内の最寄り枠"
   },
   "status": "started",
-  "last_completed_stage": "read_sources",
+  "last_completed_stage": "prepare_text",
   "stages": {
     "resolve_slot": {
       "status": "succeeded",
@@ -43,15 +43,23 @@
       "error": null
     },
     "prepare_text": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-08T21:59:48.982Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-08T21:59:50.188Z",
+      "evidence": {
+        "mode": "generated",
+        "word_count": 387,
+        "translation": true,
+        "vocab_count": 5,
+        "title": "[07:00] A Small Repair, a New Friend",
+        "genre_day_mod8": 7,
+        "fictional_story": true
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
+      "status": "started",
+      "started_at": "2026-11-08T21:59:50.188Z",
       "finished_at": null,
       "evidence": {},
       "error": null
@@ -113,6 +121,6 @@
       "error": null
     }
   },
-  "draft_path": null,
+  "draft_path": "ops/posting-drafts/2026-11-09/0700/af5d062d-391c-4361-b5d1-8beb299c3e78.json",
   "logging_errors": []
 }
