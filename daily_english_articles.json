@@ -859,5 +859,77 @@
         "Access may matter more than ownership."
       ]
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "category": "投資・経済",
+    "title": "[17:00] The Invisible Cost of an Empty Seat",
+    "ja_title": "空席に隠れた費用",
+    "is_preview": false,
+    "en": "Imagine a small town offering a free workshop on repairing bicycles. Twenty places are available, and all are reserved within a day. The organizer prepares tools and asks two volunteers to help. On Saturday, however, only twelve people arrive. Several others wanted to attend but were told the workshop was full.\n\nNo ticket money has been lost, so it may seem that the empty seats do not matter. Yet the workshop has used time, space, and materials. More importantly, the eight unused reservations prevented other people from taking part. A price of zero does not mean that an activity has no cost.\n\nEconomists use the idea of opportunity cost to describe the value of the best alternative we give up when making a choice. In this example, holding an unused place can mean giving up the opportunity for another resident to learn a useful skill. The loss is real even when it does not appear on a receipt.\n\nCharging a fee might reduce casual reservations, but it would create another problem. Some residents who would benefit from the workshop might be unable or unwilling to pay. The organizer wants people to take their reservations seriously without making participation unnecessarily difficult.\n\nOne possible approach is a clear cancellation process. A reminder sent before the event could include a simple way to release a place. A waiting list could then offer that place to someone else. These changes would not guarantee full attendance, but they could make better use of limited space.\n\nThe organizer should also avoid assuming that everyone who misses the workshop is careless. People can become ill, face transport problems, or have unexpected responsibilities. A useful system makes room for these situations while helping participants communicate changes.\n\nThis example shows why economic decisions involve more than collecting money. Rules influence behavior, and every rule can create advantages and disadvantages. A strict policy may reduce empty seats but discourage people from signing up. A very flexible policy may welcome more people while leaving the organizer uncertain about numbers.\n\nAfter the workshop, the organizer reviews the attendance and asks participants about the booking process. Rather than introducing several new rules at once, she decides to test reminders and easier cancellations at the next event.\n\nThe aim is not to punish people for changing their plans. It is to connect an available place with someone who can use it. When resources are limited, a small improvement in coordination can create value without buying anything new. Sometimes the most important cost is the useful activity that never happened.",
+    "ja": "小さな町が、自転車修理の無料講習会を開くとします。定員20人は一日で予約が埋まりました。主催者は道具を用意し、ボランティア二人に協力を頼みます。しかし土曜日に来たのは12人だけでした。参加したかったのに満員と告げられた人も何人かいました。\n\n入場料の収入を失ったわけではないので、空席は問題ないように思えるかもしれません。しかし、講習会には時間、場所、材料が使われています。さらに、使われなかった8人分の予約が、ほかの人の参加を妨げました。価格がゼロでも、活動に費用がないわけではありません。\n\n経済学では、ある選択のために諦める最善の代替案の価値を「機会費用」と呼びます。この例では、使わない席を確保し続けることで、ほかの住民が技能を学ぶ機会が失われます。領収書に現れなくても、その損失は存在します。\n\n料金を取れば気軽な予約は減るかもしれませんが、別の問題が生じます。講習会が役立つ住民の中には、支払えない人や支払いたくない人もいるでしょう。主催者は、参加を必要以上に難しくせず、予約を大切にしてもらいたいのです。\n\n方法の一つは、分かりやすいキャンセル手続きです。開催前の通知に、簡単に席を返せる手段を含められます。キャンセル待ちの人に、その席を案内できるでしょう。全員出席は保証できなくても、限られた場所をより有効に使えるかもしれません。\n\n欠席者全員が無責任だと決めつけるべきでもありません。体調を崩したり、交通の問題や急な用事が生じたりします。役立つ仕組みはそうした事情を受け止めつつ、変更を連絡しやすくします。\n\nこの例は、経済的な判断が集金だけの話ではないことを示します。ルールは行動に影響し、それぞれに利点と欠点が生まれます。厳しい方針は空席を減らしても申し込みをためらわせるかもしれません。柔軟な方針は参加を歓迎する一方で、主催者が人数を予測しにくくなります。\n\n講習会の後、主催者は出席状況を振り返り、予約手続きについて参加者に尋ねます。複数のルールを一度に導入せず、次回は事前通知と簡単なキャンセルを試すことにしました。\n\n目的は予定が変わった人を罰することではありません。空いている席を使える人につなぐことです。資源が限られているとき、連絡や調整を少し改善すれば、新しく何も買わずに価値を生み出せます。最も重要な費用が、実現しなかった有益な活動である場合もあるのです。",
+    "vocab": [
+      [
+        "reserve",
+        "予約する",
+        "Twenty people reserved places."
+      ],
+      [
+        "opportunity cost",
+        "機会費用",
+        "An unused place can have an opportunity cost."
+      ],
+      [
+        "release",
+        "手放す・空ける",
+        "Please release your place if you cannot attend."
+      ],
+      [
+        "participation",
+        "参加",
+        "The fee may discourage participation."
+      ],
+      [
+        "coordination",
+        "連絡・調整",
+        "Better coordination can reduce empty seats."
+      ]
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "category": "米国ベストセラー書籍",
+    "title": "[07:00] Two Friends, Two Ways to Think About Money",
+    "ja_title": "二人の友人、お金についての二つの考え方",
+    "is_preview": false,
+    "en": "Why do two people make different choices with the same amount of money? One person buys something today. Another keeps the money for later. It is easy to think that one person is right and the other is wrong. A book can help us ask a better question.\n\nThe Psychology of Money is a book by Morgan Housel. It explores how people think and behave when they make decisions about money. The book uses short stories to discuss these ideas. Here is a separate, imaginary example that we can use to think about the subject.\n\nYuki and Tom each receive three thousand yen for helping at a family event. Yuki wants to buy a train ticket and visit a friend in another town. Tom wants to keep his money in an envelope. They are surprised by each other's plans.\n\n\"Why not enjoy the money?\" Yuki asks. Tom says he is saving for a bicycle. He likes watching the amount in his envelope grow. To him, keeping the money is not doing nothing. It is moving closer to something he wants.\n\nYuki explains her choice too. Her friend will soon move far away, so this may be their last chance to meet for a while. The train ride is not simply a way to spend money. It gives her time with someone important.\n\nNeither friend could understand the other's choice by looking only at the amount of money. They needed to hear about the purpose behind it. Their different plans began to make sense when they shared more of their stories.\n\nThis does not mean that every purchase is a good idea. We still need to know what something costs and whether we can pay for it. But numbers alone do not tell us what a choice means to the person making it.\n\nWhen you read a book about money, you do not have to copy every example. You can pause and ask how an idea connects with your own life. What do you want your money to help you do? Which choices make you feel satisfied later, not only at the moment?\n\nYuki buys her train ticket, and Tom adds his money to the envelope. They still choose different things, but they no longer think the difference is strange. A useful book does not always give everyone the same answer. Sometimes it teaches us to listen more carefully and to understand the question before we try to answer it.",
+    "ja": "同じ金額を持つ二人が、なぜ違う選択をするのでしょう。一人は今日何かを買い、もう一人は後のために残します。一方が正しく、他方が間違いだと考えるのは簡単です。本は、もっとよい問いを考える助けになります。\n\n『The Psychology of Money（サイコロジー・オブ・マネー）』はモーガン・ハウセルの本です。お金の判断をするときの考え方や行動を探り、短い物語を使って論じています。ここからは、そのテーマを考えるための、本とは別の架空の例です。\n\nユキとトムは、家族の行事を手伝い、それぞれ3000円をもらいました。ユキは電車の切符を買って別の町の友人に会いたいと思っています。トムは封筒にお金を残したいと思っています。二人は互いの予定に驚きます。\n\n「どうしてお金を使って楽しもうとしないの」とユキが尋ねます。トムは自転車のためにためていると答えます。封筒の中の金額が増えるのを見るのが好きなのです。彼にとって、お金を残すのは何もしないことではありません。欲しい物に近づくことです。\n\nユキも自分の選択を説明します。友人はもうすぐ遠くに引っ越すので、しばらく会えなくなる前の最後の機会かもしれません。電車に乗るのは、単にお金を使うことではありません。大切な人と過ごす時間を得ることです。\n\n金額だけを見ても、二人は相手の選択を理解できませんでした。背後にある目的を聞く必要がありました。事情を話すと、違う計画にも納得できるようになりました。\n\nこれは、どんな買い物もよいという意味ではありません。値段と、支払えるかどうかは確認する必要があります。しかし、数字だけでは、選んだ本人にとっての意味までは分かりません。\n\nお金の本を読むとき、すべての例をまねする必要はありません。立ち止まり、その考えが自分の生活とどうつながるか考えられます。お金に何を助けてほしいでしょうか。その瞬間だけでなく、後でも満足できるのはどんな選択でしょうか。\n\nユキは切符を買い、トムは封筒にお金を足します。選んだものは違うままですが、その違いを変だとは思わなくなりました。役立つ本は、いつも全員に同じ答えを与えるわけではありません。丁寧に耳を傾け、答える前に問いを理解することを教えてくれる場合もあります。",
+    "vocab": [
+      [
+        "amount",
+        "金額・量",
+        "They received the same amount of money."
+      ],
+      [
+        "save for",
+        "～のために貯める",
+        "Tom is saving for a bicycle."
+      ],
+      [
+        "purpose",
+        "目的",
+        "Ask about the purpose of the choice."
+      ],
+      [
+        "make sense",
+        "納得できる・意味が分かる",
+        "Her plan began to make sense."
+      ],
+      [
+        "satisfied",
+        "満足している",
+        "I felt satisfied with my choice."
+      ]
+    ]
   }
 ]
