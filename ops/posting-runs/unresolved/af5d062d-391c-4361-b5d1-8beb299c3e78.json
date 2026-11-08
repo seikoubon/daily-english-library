@@ -12,7 +12,7 @@
     "resolution": "開始時刻06:57 JSTの前後45分以内の最寄り枠"
   },
   "status": "started",
-  "last_completed_stage": "image_generate",
+  "last_completed_stage": "image_file",
   "stages": {
     "resolve_slot": {
       "status": "succeeded",
@@ -101,15 +101,21 @@
       "error": null
     },
     "image_file": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-08T22:01:34.925Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-08T22:01:44.867Z",
+      "evidence": {
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 392269,
+        "validated": true
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
+      "status": "started",
+      "started_at": "2026-11-08T22:01:44.867Z",
       "finished_at": null,
       "evidence": {},
       "error": null
