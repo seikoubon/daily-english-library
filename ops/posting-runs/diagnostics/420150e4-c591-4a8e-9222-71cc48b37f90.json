@@ -4,13 +4,15 @@
   "platform_run_id": null,
   "invocation_kind": "manual_logging_probe",
   "started_at": "2026-11-08T10:56:05.631Z",
-  "status": "started",
+  "status": "completed",
   "stages": {
     "log_write": {
-      "status": "started",
+      "status": "succeeded",
       "evidence": {
-        "purpose": "Log persistence test only; no essay generated or posted"
+        "purpose": "Log persistence test only; no essay generated or posted",
+        "readback_verified": true
       }
     }
-  }
+  },
+  "finished_at": "2026-11-08T10:56:07.507Z"
 }
