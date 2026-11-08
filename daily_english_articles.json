@@ -643,5 +643,77 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-08-1200.png",
     "image_alt": "秋の住宅街で壁際の小さな植物に目を留める人",
     "image_prompt": "A person on a familiar neighborhood walk notices a small plant beside a wall, warm autumn light, muted colors, painterly illustration, landscape, no text."
+  },
+  {
+    "date": "2026-11-05",
+    "category": "科学",
+    "title": "[12:00] Where Do the Drops on a Cold Glass Come From?",
+    "ja_title": "冷たいコップの水滴はどこから来る？",
+    "is_preview": false,
+    "en": "You put a glass of cold water on the table. A few minutes later, its outside is wet. You wipe it with a towel, but small drops appear again. Is the water passing through the glass? Or is something happening in the air around it?\n\nThe drops usually come from water vapor in the air. Water vapor is water in the form of a gas, and we cannot see it directly. When the surface of the glass cools the nearby air enough, some of that vapor changes into liquid water. This change is called condensation.\n\nYou can explore this with two dry glasses. Fill one with cold water and ice. Put water at room temperature in the other. Place them beside each other and watch their outer surfaces. Depending on the room's conditions, you may notice more drops on the colder glass.\n\nBefore starting, write down what you expect. Then record what actually happens. If neither glass becomes wet, that is useful information too. The air may be quite dry, or the cold glass may not be cold enough. An experiment does not become a failure simply because the result is different from your prediction.\n\nTo make the comparison clearer, use glasses of the same size and material. Keep them in the same place for the same amount of time. If you change many things at once, it becomes harder to explain which change caused the difference.\n\nYou may recognize condensation in other places. A bathroom mirror can become cloudy after a warm shower. Water may appear on the inside of a cold window. These examples involve water vapor becoming liquid on a cooler surface, although the amount of water and the surrounding conditions can differ.\n\nThis small observation also teaches a useful habit of thought. The place where we see something is not always the place where it began. Water on the outside of a glass does not necessarily mean that the glass has a hole.\n\nWhen something surprising happens, start with a question. Think of a possible explanation, make a prediction, and look for evidence. You do not need expensive equipment to practice these steps. A table, two glasses, and a little patience can turn an ordinary moment into a science lesson.\n\nThe next time you reach for a cold drink, take a closer look. Those tiny drops can remind you that the air around us contains things our eyes cannot easily see.",
+    "ja": "冷たい水の入ったコップをテーブルに置きます。数分後、外側がぬれています。タオルで拭いても、小さな水滴がまた現れます。水がガラスを通り抜けているのでしょうか。それとも周りの空気で何かが起きているのでしょうか。\n\n水滴は通常、空気中の水蒸気から生まれます。水蒸気は気体の状態の水で、直接見ることはできません。コップの表面が近くの空気を十分に冷やすと、水蒸気の一部が液体の水に変わります。この変化を凝結といいます。\n\n乾いたコップを二つ使って調べられます。一つには冷たい水と氷を入れ、もう一つには室温の水を入れます。隣に置いて外側を観察しましょう。部屋の条件によりますが、冷たい方に多くの水滴がつくかもしれません。\n\n始める前に予想を書き、その後で実際に起きたことを記録します。どちらもぬれなかった場合も、それは役立つ情報です。空気がかなり乾いているか、コップが十分に冷たくないのかもしれません。予想と違っただけで実験が失敗になるわけではありません。\n\n比較を分かりやすくするため、同じ大きさと材質のコップを使いましょう。同じ場所に同じ時間置きます。一度に多くの条件を変えると、どの変化が違いを生んだか説明しにくくなります。\n\nほかの場所でも凝結を見かけるでしょう。温かいシャワーの後で浴室の鏡が曇ったり、冷たい窓の内側に水がついたりします。水の量や周囲の条件は異なっても、これらは水蒸気がより冷たい表面で液体になる例です。\n\nこの小さな観察は、役立つ考え方も教えてくれます。何かが見える場所と、それが生まれた場所は必ずしも同じではありません。コップの外側の水は、穴が開いていることを意味するとは限りません。\n\n不思議なことが起きたら、疑問から始めましょう。考えられる説明を挙げ、予想し、証拠を探します。高価な機器は必要ありません。テーブルと二つのコップ、少しの根気で、日常の一場面を科学の学習に変えられます。\n\n次に冷たい飲み物を手に取るときは、よく見てみてください。小さな水滴は、周囲の空気に目では簡単に見えないものが含まれていることを思い出させてくれます。",
+    "vocab": [
+      [
+        "water vapor",
+        "水蒸気",
+        "Water vapor in the air can become liquid."
+      ],
+      [
+        "at room temperature",
+        "室温で",
+        "Keep the second glass at room temperature."
+      ],
+      [
+        "depending on",
+        "～によって",
+        "The result changes depending on the conditions."
+      ],
+      [
+        "at once",
+        "一度に",
+        "Do not change everything at once."
+      ],
+      [
+        "take a closer look",
+        "もっとよく見る",
+        "Take a closer look at the tiny drops."
+      ]
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "category": "AI・テクノロジー",
+    "title": "[07:00] A Robot Needs Clear Directions",
+    "ja_title": "ロボットには分かりやすい指示が必要",
+    "is_preview": false,
+    "en": "Imagine that a small robot comes to your classroom. It can move, turn, and pick up light objects. Your teacher puts a red box on a table and asks you to tell the robot what to do. You say, \"Please put that over there.\"\n\nNothing happens. Your friend knows what you mean because you are looking at the box and pointing at a shelf. But this robot only follows a few spoken commands. It does not know what \"that\" or \"there\" means. You need to choose clearer words.\n\nYou try again. \"Pick up the red box. Turn left. Move to the low shelf. Put the box on the shelf.\" This time, the robot can follow the steps. A task that seemed very simple has become a lesson about communication.\n\nNow imagine that there are two red boxes. Which one should the robot choose? You might add, \"Pick up the red box nearest the door.\" If the robot cannot understand that instruction, you will need another way to explain. Clear instructions must match the abilities of the listener.\n\nThis classroom story is imaginary, but you can try a similar game with a friend. Put a pencil and a notebook on a desk. Ask your friend to follow only your words. Do not point or move the objects yourself. See whether your instructions lead to the result you wanted.\n\nYou may discover that you leave out many small details. People often fill these gaps because they know the situation. A computer program may need those details written down. This is one reason making a useful program can take more work than we first expect.\n\nHowever, the answer is not always to make every instruction longer. Too many unnecessary words can make a task harder to understand. It helps to name the object, describe the action, and give the steps in a useful order.\n\nAfter the robot finishes, check the result. Is the box on the correct shelf? Is it standing safely? Following an instruction and reaching the right result are not always the same thing.\n\nLearning to give clear directions can help us outside the classroom too. We can explain a game to a younger child, ask someone for help, or write a better shopping list. The robot does not need to be very clever to teach us something important. Sometimes the first thing we need to improve is our own explanation.",
+    "ja": "小さなロボットが教室に来たと想像してください。動いたり、向きを変えたり、軽い物を持ち上げたりできます。先生がテーブルに赤い箱を置き、ロボットに指示するよう頼みます。あなたは「それをあそこに置いてください」と言います。\n\n何も起こりません。友人なら、あなたが箱を見て棚を指しているので意味が分かります。しかし、このロボットは数種類の音声指示にしか従えません。「それ」や「あそこ」が何か分からないのです。もっと分かりやすい言葉が必要です。\n\nもう一度試します。「赤い箱を持ち上げて。左を向いて。低い棚まで進んで。箱を棚に置いて」。今度は手順に従えます。とても簡単に思えた作業が、伝え方の授業になりました。\n\nでは、赤い箱が二つあったらどうでしょう。どちらを選ぶべきでしょうか。「ドアに近い赤い箱を持ち上げて」と付け加えるかもしれません。それを理解できなければ、別の説明が必要です。明確な指示は、聞き手の能力に合っていなければなりません。\n\nこの教室の話は想像ですが、友人と似たゲームができます。机に鉛筆とノートを置き、言葉だけに従ってもらいましょう。指さしや、自分で物を動かすことはせず、望んだ結果になるか試します。\n\n細かな情報をたくさん省いていることに気づくかもしれません。人は状況を知っているため、足りない部分を補うことがよくあります。コンピュータープログラムには、その詳細を書く必要があるかもしれません。便利なプログラム作りが予想より大変になる理由の一つです。\n\nただし、すべての指示を長くすればよいとは限りません。不要な言葉が多すぎると、作業を理解しにくくなります。対象の名前、すること、分かりやすい順序を示すと役立ちます。\n\nロボットが終えたら結果を確認しましょう。箱は正しい棚にありますか。安全に置かれていますか。指示に従うことと、正しい結果に到達することは必ずしも同じではありません。\n\n明確な指示を出す練習は教室の外でも役立ちます。小さな子にゲームを教えたり、人に助けを頼んだり、買い物リストを分かりやすく書いたりできます。ロボットは、とても賢くなくても大切なことを教えてくれます。まず改善すべきなのは、自分の説明であることもあるのです。",
+    "vocab": [
+      [
+        "pick up",
+        "持ち上げる",
+        "Pick up the red box."
+      ],
+      [
+        "follow the steps",
+        "手順に従う",
+        "Follow the steps carefully."
+      ],
+      [
+        "leave out",
+        "省く",
+        "Do not leave out an important detail."
+      ],
+      [
+        "in order",
+        "順番に",
+        "Put these actions in order."
+      ],
+      [
+        "ask someone for help",
+        "人に助けを求める",
+        "You can ask a friend for help."
+      ]
+    ]
   }
 ]
