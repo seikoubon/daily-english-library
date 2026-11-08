@@ -5,14 +5,14 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-08T21:58:45.776Z",
-  "finished_at": null,
+  "finished_at": "2026-11-08T22:03:14.246Z",
   "target": {
     "date": "2026-11-09",
     "slot": "07:00",
     "resolution": "開始時刻06:57 JSTの前後45分以内の最寄り枠"
   },
-  "status": "started",
-  "last_completed_stage": "owner_image",
+  "status": "partial",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
       "status": "succeeded",
@@ -167,10 +167,15 @@
       }
     },
     "report": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-08T22:03:12.922Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-08T22:03:14.246Z",
+      "evidence": {
+        "english": true,
+        "japanese_translation": true,
+        "vocab_count": 5,
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
