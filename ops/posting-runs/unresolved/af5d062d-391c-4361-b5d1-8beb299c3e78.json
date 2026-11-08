@@ -139,15 +139,36 @@
       "error": null
     },
     "public_verify": {
-      "status": "started",
+      "status": "unknown",
       "started_at": "2026-11-08T22:02:11.766Z",
-      "finished_at": null,
-      "evidence": {},
-      "error": null
+      "finished_at": "2026-11-08T22:03:12.922Z",
+      "evidence": {
+        "attempts": 2,
+        "public_html": {
+          "http": 200,
+          "article_count": 25,
+          "target_present": false
+        },
+        "public_image": {
+          "http": 404
+        },
+        "github_image": {
+          "sha": "a07cbac08390b713d2f687bed4d02583adf3cb3b",
+          "bytes": 392269,
+          "verified": true
+        }
+      },
+      "error": {
+        "tool": "exec_command / urllib.request",
+        "code": "HTTP_404",
+        "message": "Public image returned 404; public HTML still contains 25 articles. Deployment not confirmed.",
+        "retry_count": 1,
+        "outcome_known": true
+      }
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
+      "status": "started",
+      "started_at": "2026-11-08T22:03:12.922Z",
       "finished_at": null,
       "evidence": {},
       "error": null
