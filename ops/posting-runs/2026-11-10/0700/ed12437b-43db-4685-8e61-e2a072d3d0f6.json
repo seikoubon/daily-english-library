@@ -9,94 +9,199 @@
     "slot": "07:00",
     "resolution": "開始時刻07:00 JSTに最も近い45分以内の枠"
   },
-  "status": "started",
+  "status": "completed",
   "stages": {
     "resolve_slot": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-09T22:01:28.676Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-09T22:01:42.389Z",
+      "evidence": {
+        "date": "2026-11-10",
+        "slot": "07:00",
+        "resolution": "開始時刻07:00 JSTに最も近い45分以内の枠"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:01:42.389Z",
+      "finished_at": "2026-11-09T22:01:47.587Z",
+      "evidence": {
+        "github_count": 28,
+        "owner_count": 28,
+        "target_exists": false,
+        "prior_logs_checked": 3,
+        "tools": [
+          "github_fetch_file",
+          "read_english_archive"
+        ]
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:01:47.587Z",
+      "finished_at": "2026-11-09T22:02:43.663Z",
+      "evidence": {
+        "mode": "generated",
+        "word_count": 405,
+        "translation": true,
+        "vocab_count": 5,
+        "fiction": true,
+        "genre_day_mod8": 0
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:02:43.663Z",
+      "finished_at": "2026-11-09T22:02:45.113Z",
+      "evidence": {
+        "readback_verified": true
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:02:45.113Z",
+      "finished_at": "2026-11-09T22:02:50.273Z",
+      "evidence": {
+        "sha": "5d57746f6802449f33b3d05fef8c07d5284d6237",
+        "count": 29,
+        "readback_verified": true,
+        "history_preserved": true
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:02:50.273Z",
+      "finished_at": "2026-11-09T22:02:59.843Z",
+      "evidence": {
+        "readback_verified": true,
+        "history_preserved": true,
+        "count": 29
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:02:59.843Z",
+      "finished_at": "2026-11-09T22:04:09.882Z",
+      "evidence": {
+        "tool": "image_gen",
+        "generated": true,
+        "displayed": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:04:09.882Z",
+      "finished_at": "2026-11-09T22:04:10.525Z",
+      "evidence": {
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 421188,
+        "tool": "exec_command/Pillow"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:04:10.525Z",
+      "finished_at": "2026-11-09T22:04:17.256Z",
+      "evidence": {
+        "sha": "224569c894a5eda72b2c61a019a2487cadd916e1",
+        "count": 29,
+        "readback_verified": true,
+        "history_preserved": true,
+        "blob_sha": "aa43c44f7e618084a402849a0789a123f3b7ff14",
+        "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-10-0700.jpg"
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:04:17.256Z",
+      "finished_at": "2026-11-09T22:04:21.813Z",
+      "evidence": {
+        "readback_verified": true,
+        "history_preserved": true,
+        "count": 29
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:04:21.813Z",
+      "finished_at": "2026-11-09T22:05:47.708Z",
+      "evidence": {
+        "checks": [
+          {
+            "time": "2026-11-09T22:04:22.531794+00:00",
+            "page": {
+              "http": 200,
+              "count": 29,
+              "match": false
+            },
+            "image": {
+              "http": 200,
+              "format": "JPEG",
+              "bytes": 421188,
+              "size": [
+                1672,
+                941
+              ]
+            }
+          },
+          {
+            "time": "2026-11-09T22:05:07.617105+00:00",
+            "page": {
+              "http": 200,
+              "count": 29,
+              "match": true
+            },
+            "image": {
+              "http": 200,
+              "format": "JPEG",
+              "bytes": 421188,
+              "size": [
+                1672,
+                941
+              ]
+            }
+          }
+        ],
+        "deployment": {
+          "sha": "224569c894a5eda72b2c61a019a2487cadd916e1",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/seikoubon/daily-english-library/actions/runs/42708418149"
+        },
+        "tool": "github_fetch and exec_command/urllib/Pillow"
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-09T22:05:47.708Z",
+      "finished_at": "2026-11-09T22:05:47.708Z",
+      "evidence": {
+        "english": true,
+        "translation": true,
+        "vocab_count": 5,
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
   "draft_path": "ops/posting-drafts/2026-11-10/0700/ed12437b-43db-4685-8e61-e2a072d3d0f6.json",
   "logging_errors": [],
-  "logging_policy": "Start and final GitHub writes; interruption can lose intermediate details."
+  "logging_policy": "Start and final GitHub writes; interruption can lose intermediate details.",
+  "last_completed_stage": "report",
+  "finished_at": "2026-11-09T22:05:47.708Z",
+  "invocation_kind": "scheduled",
+  "spec_override": "Latest user policy: start and final GitHub writes only."
 }
