@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "attempt_id": "22e23af6-beeb-45c0-8964-04c44603019b",
+  "platform_run_id": null,
+  "scheduled_for": null,
+  "started_at": "2026-11-10T02:56:06.370Z",
+  "target": {
+    "date": "2026-11-10",
+    "slot": "12:00",
+    "resolution": "開始時刻11:55 JSTから45分以内の最寄り枠"
+  },
+  "status": "started",
+  "stages": {
+    "resolve_slot": {
+      "status": "started",
+      "started_at": "2026-11-10T02:56:06.370Z",
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    }
+  },
+  "draft_path": "ops/posting-drafts/2026-11-10/1200/22e23af6-beeb-45c0-8964-04c44603019b.json",
+  "logging_errors": [],
+  "logging_policy": "Start and final GitHub writes; interruption can lose intermediate details."
+}
