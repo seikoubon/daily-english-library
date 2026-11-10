@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "attempt_id": "7a2b50b3-3a32-41e2-8005-68e25be16dc3",
+  "platform_run_id": null,
+  "started_at": "2026-11-10T07:59:24.223Z",
+  "status": "started",
+  "target": {
+    "date": "2026-11-10",
+    "slot": "17:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "logging_policy": "Start and final GitHub writes only; intermediate details held in memory and may be lost if interrupted.",
+  "stages": {
+    "resolve_slot": {
+      "status": "started",
+      "started_at": "2026-11-10T07:59:24.223Z",
+      "finished_at": null
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null
+    }
+  }
+}
