@@ -1150,5 +1150,41 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-10-1200.jpg",
     "image_alt": "地図アプリを手に、通行止めの道と別の歩道を見比べる女性",
     "image_prompt": "Wide 16:9 calm editorial watercolor and pencil illustration. A young adult woman at a quiet city street junction beside a small station, holding a smartphone with a simple abstract blue route line and no labels. She looks up thoughtfully at a temporary pedestrian barrier blocking a narrow side street, and notices a clear alternative sidewalk leading past small shops. Eye-level outdoor composition with the woman to one side and the fork in the street clearly visible. Soft midday light, muted blue, sage green and warm cream, paper texture. No text, letters, logos, watermark, or readable signs. Convey comparing digital directions with real surroundings, not danger."
+  },
+  {
+    "date": "2026-11-10",
+    "category": "AI・テクノロジー",
+    "title": "[17:00] A Second Copy of a Family Memory",
+    "ja_title": "家族の思い出に、もう一つのコピーを",
+    "en": "When Emi offered to organize her family's digital photographs, she expected an easy weekend project. There were pictures of birthdays, summer trips, and a dog that had once been small enough to sleep in a shoe. The files filled several folders on her father's old computer. Finding a particular photograph often took longer than anyone expected.\n\nEmi began by giving the folders clear names that included the year and event. She also kept the original files, even when she made brighter versions of some pictures. Soon, the collection was easier to explore. Her father called it a success, but her grandmother asked a different question: \"What happens if the computer stops working?\"\n\nEmi pointed to a second folder on the same computer. \"I copied everything here,\" she said. Then she paused. If the machine failed completely, both folders might become unavailable. Two copies were useful, but their location mattered as much as their number. She realized that an organized collection was not necessarily a protected one.\n\nThe family decided to make another copy on a separate storage device. After checking the files, they disconnected it and put it somewhere safe. They also discussed which photographs could be stored online and who should have access to them. Some pictures included private family moments, so they did not want every file to become part of a shared album.\n\nBefore finishing, Emi tried a small experiment. She chose one photograph and opened its saved copy on another computer. The picture appeared clearly. This simple test gave her more confidence than merely seeing a folder with a familiar name. A copy that nobody can open will not help much when the original disappears.\n\nThe project still needed a routine. New photographs would arrive after every holiday, and a copy made only once would gradually become incomplete. The family agreed to update their saved collection regularly. They wrote down the steps so that the task would not depend entirely on Emi's memory or free time.\n\nThat evening, everyone gathered to look through the photographs. The technology stayed mostly in the background while the stories came forward. A badly framed picture could still bring back a wonderful afternoon. Emi understood that protecting digital files was not simply about managing machines. It was about giving people a better chance to keep something they could never create in exactly the same way again. The extra copy did not replace care, but it made that care practical.",
+    "ja": "エミは家族のデジタル写真を整理すると申し出たとき、週末に簡単に片づく作業だと思っていました。誕生日や夏の旅行、かつては靴の中で眠れるほど小さかった犬の写真がありました。ファイルは父親の古いパソコンのいくつものフォルダーに入っていました。特定の写真を見つけるには、皆が思う以上に時間がかかることがよくありました。\n\nエミはまず、年と行事を含む分かりやすい名前をフォルダーにつけました。いくつかの写真を明るく加工したときも、元のファイルを残しました。やがて写真を探しやすくなりました。父親は大成功だと言いましたが、祖母は別のことを尋ねました。「パソコンが動かなくなったら、どうなるの？」\n\nエミは同じパソコン内の別のフォルダーを指さしました。「全部ここにコピーしたよ」と言った後、ふと考え込みました。機械が完全に故障したら、両方のフォルダーを使えなくなるかもしれません。コピーが二つあることは役立ちますが、その数と同じくらい保存場所も重要でした。整理された写真集が、必ずしも守られた写真集ではないと気づいたのです。\n\n家族は、別の記憶装置にもう一つコピーを作ることにしました。ファイルを確認した後、その装置をパソコンから取り外して安全な場所にしまいました。また、どの写真ならオンラインに保存してよいか、誰がアクセスできるようにするかも話し合いました。家族の私的な場面を写した写真もあったので、すべてのファイルを共有アルバムに入れたいわけではありませんでした。\n\n作業を終える前に、エミは小さな実験をしました。写真を一枚選び、その保存済みのコピーを別のパソコンで開いたのです。写真ははっきりと表示されました。この簡単な確認によって、見覚えのある名前のフォルダーをただ見るだけの場合よりも安心できました。誰も開けないコピーは、元のファイルがなくなったときにあまり役立ちません。\n\nこの作業には、まだ習慣づくりが必要でした。休暇のたびに新しい写真が増えるため、一度だけ作ったコピーでは、次第にすべてを含まなくなってしまいます。家族は、保存した写真を定期的に更新することにしました。作業がエミの記憶や空き時間だけに頼るものにならないよう、手順を書き留めました。\n\nその晩、皆で集まって写真を見返しました。技術はほとんど目立たないところで働き、思い出話が主役になりました。構図のよくない写真でも、すてきな午後の記憶をよみがえらせることがあります。エミは、デジタルファイルを守ることは単に機械を管理することではないと理解しました。まったく同じ形では二度と作れないものを、人々が残せる可能性を高めることなのです。追加のコピーは大切に扱う気持ちの代わりにはなりませんが、その気持ちを具体的な行動に変えてくれました。",
+    "vocab": [
+      [
+        "as much as",
+        "〜と同じくらい",
+        "The location matters as much as the number of copies."
+      ],
+      [
+        "have access to",
+        "〜を利用・閲覧できる",
+        "Only family members have access to this album."
+      ],
+      [
+        "depend entirely on",
+        "全面的に〜に頼る",
+        "The task should not depend entirely on one person."
+      ],
+      [
+        "bring back",
+        "（記憶などを）よみがえらせる",
+        "This photograph brings back memories of our summer trip."
+      ],
+      [
+        "in the background",
+        "目立たないところで、裏側で",
+        "The software works in the background."
+      ]
+    ],
+    "is_preview": false
   }
 ]
