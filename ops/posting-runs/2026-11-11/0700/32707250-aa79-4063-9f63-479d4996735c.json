@@ -10,93 +10,207 @@
     "slot": "07:00",
     "resolution": "予定枠"
   },
-  "status": "started",
+  "status": "completed",
   "draft_path": "ops/posting-drafts/2026-11-11/0700/32707250-aa79-4063-9f63-479d4996735c.json",
   "logging_errors": [],
   "stages": {
     "resolve_slot": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-10T21:57:36.617Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-10T21:58:00.110Z",
+      "evidence": {
+        "tool": "calendar",
+        "date": "2026-11-11",
+        "slot": "07:00",
+        "offset": 9,
+        "mod8": 1
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T21:58:00.110Z",
+      "finished_at": "2026-11-10T21:58:08.888Z",
+      "evidence": {
+        "tools": [
+          "github_fetch",
+          "github_fetch_file",
+          "read_english_archive"
+        ],
+        "github": 31,
+        "owner": 31,
+        "github_matches": 0,
+        "owner_matches": 0,
+        "head": "6e5497401a1b0a220ab1f84ca1f60427caec510b",
+        "tree": "6e5497401a1b0a220ab1f84ca1f60427caec510b"
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T21:58:08.888Z",
+      "finished_at": "2026-11-10T21:58:56.743Z",
+      "evidence": {
+        "tool": "Codex",
+        "mode": "generated",
+        "title": "[07:00] The Money in the Blue Tin",
+        "words": 394,
+        "translation": true,
+        "vocab": 5
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T21:58:56.743Z",
+      "finished_at": "2026-11-10T21:58:58.416Z",
+      "evidence": {
+        "tools": [
+          "github_create_file",
+          "github_fetch_file"
+        ],
+        "readback": true,
+        "commit_sha": "d8b794d349382ed7097a84987a27c87603550da0"
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T21:58:58.416Z",
+      "finished_at": "2026-11-10T21:59:29.021Z",
+      "evidence": {
+        "sha": "c8db1326607bc00ef17f042abab618ef9b3d4482",
+        "count": 32,
+        "history_preserved": true,
+        "tool": "github_create_tree/create_commit/update_ref/fetch_file",
+        "readback": true
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T21:59:29.021Z",
+      "finished_at": "2026-11-10T21:59:35.794Z",
+      "evidence": {
+        "count": 32,
+        "readback": true,
+        "history_preserved": true,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T21:59:35.794Z",
+      "finished_at": "2026-11-10T22:00:43.136Z",
+      "evidence": {
+        "tool": "image_gen__imagegen",
+        "displayed": true,
+        "generated": 1
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T22:00:43.136Z",
+      "finished_at": "2026-11-10T22:00:43.899Z",
+      "evidence": {
+        "tool": "Pillow",
+        "source": "PNG",
+        "source_bytes": 3200942,
+        "format": "JPEG",
+        "size": [
+          1672,
+          941
+        ],
+        "bytes": 392869,
+        "sha256": "5ba7368992766303308027069af1f3243647420e85c829dfceb215935b60cc16"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T22:00:43.899Z",
+      "finished_at": "2026-11-10T22:00:55.099Z",
+      "evidence": {
+        "sha": "07e73da768defc44a42977a12513bd669df35d3a",
+        "count": 32,
+        "history_preserved": true,
+        "tool": "github_create_tree/create_commit/update_ref/fetch_file",
+        "readback": true,
+        "blob": "c56de7aae04bd5f5b154aea2e5542ec5982fb42d",
+        "binary_verified": true
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T22:00:55.099Z",
+      "finished_at": "2026-11-10T22:01:01.834Z",
+      "evidence": {
+        "count": 32,
+        "readback": true,
+        "history_preserved": true,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T22:01:01.834Z",
+      "finished_at": "2026-11-10T22:01:45.453Z",
+      "evidence": {
+        "tools": [
+          "github_fetch",
+          "urllib",
+          "Pillow"
+        ],
+        "checks": [
+          {
+            "page": 200,
+            "image": [
+              200,
+              "JPEG",
+              [
+                1672,
+                941
+              ],
+              392869,
+              "5ba7368992766303308027069af1f3243647420e85c829dfceb215935b60cc16"
+            ],
+            "checked_at": "2026-11-10T22:01:18.754Z",
+            "text_matches": true,
+            "article_matches": true,
+            "image_matches": true,
+            "deploy": {
+              "status": "in_progress",
+              "conclusion": null,
+              "url": "https://github.com/seikoubon/daily-english-library/actions/runs/42910522570"
+            }
+          }
+        ],
+        "deployment": {
+          "status": "completed",
+          "conclusion": "success",
+          "sha": "07e73da768defc44a42977a12513bd669df35d3a",
+          "url": "https://github.com/seikoubon/daily-english-library/actions/runs/42910522570"
+        }
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-10T22:01:45.453Z",
+      "finished_at": "2026-11-10T22:01:45.453Z",
+      "evidence": {
+        "tool": "Codex",
+        "full_text": true,
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
-  }
+  },
+  "last_completed_stage": "report",
+  "finished_at": "2026-11-10T22:01:45.454Z",
+  "logging_policy": "開始と終了のみGitHubへ保存。途中停止では詳細が失われうる。"
 }
