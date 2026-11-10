@@ -1111,5 +1111,41 @@
     "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-10-0700.jpg",
     "image_alt": "学校の庭の動画をパソコンとスマートフォンで確認する二人",
     "image_prompt": "Wide 16:9 calm editorial watercolor and pencil illustration for an English essay about checking automatic video captions. Two school-age friends sit at a wooden desk beside a bright window overlooking their school garden. Over-the-shoulder composition focuses on a laptop showing a video of flowers and three small green trees; subtitle area indicated only by a simple pale blank bar, no lettering. One child points thoughtfully at the video while the other compares it with a smartphone. A small camera and a potted seedling on the desk. Warm morning light, muted sage green, soft blue and cream paper texture. Natural thoughtful mood, no text, no letters, no logos, no watermark."
+  },
+  {
+    "date": "2026-11-10",
+    "category": "AI・テクノロジー",
+    "title": "[12:00] When the Map Meets the Street",
+    "ja_title": "地図と目の前の道が違うとき",
+    "en": "On her way to a friend's birthday lunch, Nina follows a map on her phone. The blue line leads her toward a narrow street beside the station. The screen says that the restaurant is only five minutes away. Then she looks up and sees a fence across the entrance. Workers are repairing the road, and nobody can walk through.\n\nFor a moment, Nina keeps looking at the screen. The route still seems clear there. However, the fence in front of her is real. She steps aside, checks a sign, and chooses another street. Her phone soon offers a new route. She arrives a little later, but she also arrives with a useful question: what can a digital map tell us, and what can it miss?\n\nA map is a simplified picture of a place. It can show roads, stations, and the distance between two points. A navigation app can use this information to suggest a route. However, a place can change faster than its digital picture. A temporary fence, a closed gate, or a crowded entrance may not appear on the screen.\n\nThere is another problem: the shortest route is not always the best route for every person. Steps may be easy for one traveler but difficult for someone with a heavy suitcase. A dark path may be less comfortable than a busy street. The app's suggestion becomes more useful when we compare it with our own needs.\n\nAfter lunch, Nina and her friend walk to a museum. This time, they look at the whole route before starting. They notice that it crosses a large park. Since rain is beginning to fall, they choose a slightly longer route near shops where they can find shelter. The map helps them understand their choices instead of making the choice for them.\n\nThey also save the museum's address before leaving the restaurant. If the phone loses its connection, they can still show the address to someone and ask for help. This small step gives them another way to reach their destination.\n\nTechnology can make an unfamiliar city easier to explore. Yet using it well does not mean following every instruction without thinking. It means noticing when the information on a screen does not match the world around us.\n\nNina still uses her map on the journey home. She simply looks up more often. The best guide is not always one tool or one person. Sometimes it is a useful combination of digital information, careful attention, and a simple question asked at the right time.",
+    "ja": "友達の誕生日ランチへ向かう途中、ニナはスマートフォンの地図に従って歩いています。青い線は駅のそばの細い通りへと続いています。画面には、レストランまであと5分と表示されています。ところが顔を上げると、入口をふさぐ柵が見えます。道路工事中で、誰も通り抜けることができません。\n\nニナは少しの間、画面を見続けます。そこでは道がまだ通れるように見えます。しかし、目の前の柵は現実にあります。彼女は脇によけ、案内板を確認して、別の通りを選びます。すると、スマートフォンはすぐに新しい経路を示します。少し遅れて到着しますが、有益な問いも得ました。デジタル地図は何を教えてくれて、何を見落とすのでしょうか。\n\n地図は、ある場所を簡略化して表したものです。道路や駅、二つの地点の間の距離を示すことができます。ナビゲーションアプリは、こうした情報を使って経路を提案できます。しかし、現実の場所はデジタル上の姿よりも速く変化することがあります。仮設の柵、閉まった門、混雑した入口は、画面に出ていないかもしれません。\n\nもう一つ問題があります。最短の経路が、すべての人にとって最善とは限りません。ある旅行者には簡単な階段でも、重いスーツケースを持った人には大変かもしれません。暗い道は、人通りの多い通りよりも不安に感じられることがあります。アプリの提案は、自分の必要に照らし合わせることで、より役立つものになります。\n\n昼食の後、ニナと友達は博物館へ歩いて向かいます。今度は出発前に経路全体を見ます。大きな公園を横切ることに気づきます。雨が降り始めたので、雨宿りのできる店が近くにある、少し長い経路を選びます。地図は二人に代わって選ぶのではなく、選択肢を理解する助けになっています。\n\n二人はまた、レストランを出る前に博物館の住所を保存します。スマートフォンの通信が途切れても、その住所を誰かに見せて助けを求めることができます。この小さな準備によって、目的地へたどり着く別の方法が得られます。\n\nテクノロジーは、なじみのない街の探索を楽にしてくれます。しかし、上手に使うとは、考えずにすべての指示に従うことではありません。画面の情報と周囲の現実が一致していないときに、それに気づくことです。\n\n帰り道でもニナは地図を使います。ただ、以前より頻繁に顔を上げます。最善の案内役が、いつも一つの道具や一人の人とは限りません。デジタル情報、注意深い観察、そして適切なタイミングで尋ねる簡単な質問を組み合わせることが、役立つ場合もあるのです。",
+    "vocab": [
+      [
+        "look up",
+        "顔を上げる",
+        "Nina looked up and saw a fence."
+      ],
+      [
+        "temporary",
+        "一時的な、仮設の",
+        "A temporary fence blocked the entrance."
+      ],
+      [
+        "compare A with B",
+        "AをBと比べる",
+        "Compare the route with your own needs."
+      ],
+      [
+        "find shelter",
+        "雨風をしのぐ場所を見つける",
+        "They found shelter near a shop."
+      ],
+      [
+        "destination",
+        "目的地",
+        "We reached our destination before noon."
+      ]
+    ],
+    "is_preview": false
   }
 ]
