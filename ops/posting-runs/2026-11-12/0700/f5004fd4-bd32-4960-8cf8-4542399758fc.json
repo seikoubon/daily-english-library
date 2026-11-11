@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "attempt_id": "f5004fd4-bd32-4960-8cf8-4542399758fc",
-  "platform_run_id": null,
+  "platform_run_id": "42e4caa3-318c-832e-8eb6-f9e88e5ebb80",
   "scheduled_for": "2026-11-12T07:00:00+09:00",
   "invocation_kind": "scheduled",
   "started_at": "2026-11-11T22:04:09.850Z",
-  "status": "started",
+  "status": "completed",
   "target": {
     "date": "2026-11-12",
     "slot": "07:00",
@@ -16,88 +16,195 @@
   "logging_policy": "開始・終了のみGitHub保存。途中停止時は詳細が失われうる。",
   "stages": {
     "resolve_slot": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-11T22:04:09.850Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-11T22:04:34.751Z",
+      "evidence": {
+        "tool": "automations_peek",
+        "day_offset": 10,
+        "slot": "07:00",
+        "platform_recorded_status": "in_progress"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:04:34.751Z",
+      "finished_at": "2026-11-11T22:04:40.262Z",
+      "evidence": {
+        "tools": [
+          "github_fetch",
+          "github_fetch_file",
+          "read_english_archive"
+        ],
+        "head": "4f87acff4893a12f48d678eb374bf6e927bd2e7f",
+        "tree": "4f87acff4893a12f48d678eb374bf6e927bd2e7f",
+        "github": 34,
+        "owner": 34,
+        "target_matches": [
+          0,
+          0
+        ]
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:04:40.262Z",
+      "finished_at": "2026-11-11T22:06:58.834Z",
+      "evidence": {
+        "tool": "Codex, web search",
+        "mode": "generated",
+        "title": "[07:00] The Wild Robot and a Place at the Table",
+        "words": 393,
+        "translation": true,
+        "vocabulary_entries": 5,
+        "source": "https://www.hachettebookgroup.com/articles/new-york-times-bestsellers/"
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:06:58.834Z",
+      "finished_at": "2026-11-11T22:07:00.214Z",
+      "evidence": {
+        "tool": "github_create_file/fetch_file",
+        "commit": {
+          "commit_sha": "2e5083301a45c26cd3f691444e0cabcb8dc75327"
+        },
+        "readback": true
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:07:00.214Z",
+      "finished_at": "2026-11-11T22:07:33.402Z",
+      "evidence": {
+        "sha": "c34f5dce510443098b4ffa09280b130ad9c39f61",
+        "count": 35,
+        "history_preserved": true,
+        "tool": "github_create_tree/create_commit/update_ref/fetch_file",
+        "readback": true
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:07:33.402Z",
+      "finished_at": "2026-11-11T22:07:39.025Z",
+      "evidence": {
+        "count": 35,
+        "readback": true,
+        "history_preserved": true,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:07:39.025Z",
+      "finished_at": "2026-11-11T22:08:31.050Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "generated": 1,
+        "chat_display": true,
+        "binary_source": "data URL"
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:08:31.050Z",
+      "finished_at": "2026-11-11T22:08:46.084Z",
+      "evidence": {
+        "tool": "Pillow",
+        "original_bytes": 3031246,
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 365439,
+        "sha256": "ee71bd2e7b1f380cfd73817cca3fed0345057e3d500fe2104e37fbc534e046ed"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:08:46.084Z",
+      "finished_at": "2026-11-11T22:09:16.742Z",
+      "evidence": {
+        "tool": "github_create_blob/create_tree/create_commit/update_ref/fetch_file",
+        "sha": "643e7a442bfcde58b1421aab434598fe97a611ee",
+        "blob": "0e4e7e72937aa5f1e2deb0af34374a091d36ff1b",
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-12-0700.jpg",
+        "count": 35,
+        "readback": true,
+        "history_preserved": true,
+        "recovered_error": "github_fetch_file: UnicodeDecodeError on UTF-8 read; base64 read succeeded"
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:09:16.742Z",
+      "finished_at": "2026-11-11T22:09:22.326Z",
+      "evidence": {
+        "count": 35,
+        "readback": true,
+        "history_preserved": true,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:09:22.326Z",
+      "finished_at": "2026-11-11T22:10:28.725Z",
+      "evidence": {
+        "tool": "urllib/Pillow/github_fetch",
+        "checks": [
+          {
+            "at": "2026-11-11T22:09:39.992291+00:00",
+            "page": {
+              "http": 200,
+              "count": 35,
+              "matches": 1,
+              "match": true
+            },
+            "image": {
+              "http": 200,
+              "sha256": "ee71bd2e7b1f380cfd73817cca3fed0345057e3d500fe2104e37fbc534e046ed",
+              "size": [
+                1672,
+                941
+              ],
+              "format": "JPEG"
+            },
+            "deploy": {
+              "status": "completed",
+              "conclusion": "success",
+              "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43109288631"
+            }
+          }
+        ],
+        "image_matches_saved_bytes": true
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-11T22:10:28.725Z",
+      "finished_at": "2026-11-11T22:10:28.725Z",
+      "evidence": {
+        "tool": "Codex",
+        "full_text_prepared": true,
+        "translation": true,
+        "vocab": 5,
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
-  }
+  },
+  "last_completed_stage": "report",
+  "finished_at": "2026-11-11T22:10:28.725Z"
 }
