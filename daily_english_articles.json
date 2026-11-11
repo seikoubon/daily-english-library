@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-11-12",
+    "category": "米国ベストセラー書籍",
+    "title": "[07:00] The Wild Robot and a Place at the Table",
+    "ja_title": "『野生のロボット』と、食卓の空いた席",
+    "en": "What can a robot learn from a small animal? In The Wild Robot, a book by Peter Brown, a robot named Roz opens her eyes on an island. There are no people there to tell her what to do. The animals know the island well, but they are afraid of her. Being big and strong does not make Roz a good neighbor. She has to watch the animals and learn how they live. Little by little, some of them become her friends.\n\nThat part of the book made me think about a much smaller problem. How do you join a group when everyone else already knows what to do? Imagine a girl named Emi on her first day at a new school. At lunch, she sees an empty chair at the end of a table. A boy has put his bag on it. Emi could walk past. Instead, she stops and asks, “Can I sit here?” The boy picks up his bag.\n\nFor a while, Emi just eats her lunch. The other children are talking about a game. She knows the game, but they play it in a different way at this school. She wants to tell them the rules she knows. Then she hears one girl say, “Yesterday even our teacher played!” Emi puts down her spoon. “Did she win?” she asks. The girl laughs. Soon everyone is telling Emi about the teacher who ran the wrong way. Now Emi is laughing too.\n\nOn Friday, another new student comes into the lunchroom. This time Emi is the one with a bag on the empty chair. She sees the student look at the chair and then at the floor. Before he has to ask, she moves her bag. “You can sit here,” she says. She remembers how hard it was to say those first four words on Monday.\n\nEmi is a girl I imagined. You will not find her in Roz’s story. Still, when I think of Roz learning from the animals, I think of Emi putting down her spoon to listen. And when I think of the animals getting to know Roz, I remember the boy who moved his bag. I like the book because it makes me look at both sides of that lunch table. On some days I need a seat. On other days I can make room for someone.",
+    "ja": "小さな動物から、ロボットは何を学べるでしょうか。ピーター・ブラウンの本『野生のロボット』では、ロズというロボットが、ある島で目を開けます。そこには、何をすればいいか教えてくれる人はいません。動物たちは島のことをよく知っていますが、ロズを怖がっています。体が大きくて力が強いというだけで、よい隣人になれるわけではありません。ロズは動物たちを観察し、どんなふうに暮らしているかを学ばなければなりません。少しずつ、動物の中にロズの友達ができていきます。\n\n本のそのくだりを読んで、私はもっとささやかな困りごとを思い浮かべました。自分以外のみんながどうすればいいかもう知っているとき、どうやってその輪に入ればいいのでしょう。エミという女の子が、新しい学校で初めての一日を迎えたと想像してください。お昼に、エミはテーブルの端に誰も座っていない椅子を見つけます。男の子がそこにかばんを置いています。そのまま通り過ぎることもできます。でもエミは立ち止まり、「ここに座ってもいい？」とたずねます。男の子はかばんを持ち上げます。\n\nしばらくの間、エミはただお昼を食べています。ほかの子たちは、ある遊びの話をしています。エミもその遊びを知っていますが、この学校では遊び方が少し違います。自分の知っているルールを教えたくなります。すると、一人の女の子が「昨日は先生まで一緒に遊んだんだよ！」と言うのが聞こえます。エミはスプーンを置きます。「先生、勝ったの？」と聞くと、その子は笑います。たちまちみんなが、先生が間違った方向へ走っていった話をエミに聞かせてくれます。今ではエミも笑っています。\n\n金曜日、また一人、新しい生徒が食堂に入ってきます。今度は、空いた椅子にかばんを置いているのはエミです。その子が椅子を見て、それから床に目を落とすのにエミは気づきます。その子がたずねる前に、エミはかばんをどけます。「ここに座っていいよ」と声をかけます。月曜日、最初に “Can I sit here?” の四語を口にするのに、どれほど勇気がいったかを覚えているのです。\n\nエミは私が想像した女の子です。ロズの物語には登場しません。それでも、動物たちから学ぶロズのことを考えると、スプーンを置いて耳を傾けるエミの姿が浮かびます。そして、動物たちがロズのことを少しずつ知っていく様子を考えると、かばんをどけてくれた男の子を思い出します。私がこの本を好きなのは、あの昼食のテーブルを両方の立場から見せてくれるからです。座る場所がほしい日もあれば、誰かのために席を空けてあげられる日もあります。",
+    "vocab": [
+      [
+        "little by little",
+        "少しずつ",
+        "Little by little, I learned the names of my classmates."
+      ],
+      [
+        "walk past",
+        "そばを通り過ぎる",
+        "I walk past the library on my way to school."
+      ],
+      [
+        "pick up",
+        "持ち上げる、拾い上げる",
+        "Can you pick up that bag?"
+      ],
+      [
+        "put down",
+        "手に持っているものを置く",
+        "I put down my pencil and looked at the teacher."
+      ],
+      [
+        "make room for",
+        "～のために場所を空ける",
+        "We moved our chairs to make room for Ken."
+      ]
+    ],
+    "is_preview": false
+  },
+  {
     "date": "2026-11-02",
     "category": "AI・テクノロジー",
     "title": "An AI Study Partner: Useful, but Not a Shortcut",
