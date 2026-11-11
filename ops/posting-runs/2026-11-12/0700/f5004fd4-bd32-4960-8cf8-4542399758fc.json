@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "attempt_id": "f5004fd4-bd32-4960-8cf8-4542399758fc",
+  "platform_run_id": null,
+  "scheduled_for": "2026-11-12T07:00:00+09:00",
+  "invocation_kind": "scheduled",
+  "started_at": "2026-11-11T22:04:09.850Z",
+  "status": "started",
+  "target": {
+    "date": "2026-11-12",
+    "slot": "07:00",
+    "resolution": "予定枠"
+  },
+  "draft_path": "ops/posting-drafts/2026-11-12/0700/f5004fd4-bd32-4960-8cf8-4542399758fc.json",
+  "logging_errors": [],
+  "logging_policy": "開始・終了のみGitHub保存。途中停止時は詳細が失われうる。",
+  "stages": {
+    "resolve_slot": {
+      "status": "started",
+      "started_at": "2026-11-11T22:04:09.850Z",
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    }
+  }
+}
