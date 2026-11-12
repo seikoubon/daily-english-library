@@ -31,100 +31,516 @@
         }
       ],
       "tools": [],
-      "errors": []
+      "errors": [],
+      "finished_at": "2026-11-12T08:03:51.383Z",
+      "evidence": [
+        {
+          "date": "2026-11-12",
+          "time": "17:00",
+          "timezone": "Asia/Tokyo",
+          "basis": "Provided scheduled local datetime; 17:00 slot",
+          "category": "米国ベストセラー書籍",
+          "level": "英検2級・CEFR B1",
+          "days_from_base": 10,
+          "mod8": 2
+        }
+      ],
+      "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:04:04.697Z",
+      "ended_at": "2026-11-12T08:04:33.309Z",
+      "results": [
+        {
+          "github_count": 36,
+          "owner_count": 36,
+          "target_count": 0,
+          "previous_target_attempts": 0,
+          "logging_spec_read": true,
+          "logging_override": "User requires only start/final GitHub log writes; stages recorded in runtime memory"
+        }
+      ],
+      "tools": [
+        "github_fetch_file",
+        "read_english_archive",
+        "github_fetch",
+        "search_service_web_run"
+      ],
+      "errors": [
+        {
+          "tool": "search_service_web_run.open",
+          "code": "TimeoutError",
+          "message": "Publisher library-marketing page timed out; official publisher book page successfully read instead",
+          "retry_count": 0,
+          "outcome_known": true
+        },
+        {
+          "tool": "github_fetch",
+          "code": "NOT_FOUND",
+          "message": "No prior drafts directory for target 1700 slot",
+          "retry_count": 0,
+          "outcome_known": true
+        }
+      ],
+      "finished_at": "2026-11-12T08:04:33.309Z",
+      "evidence": [
+        {
+          "github_count": 36,
+          "owner_count": 36,
+          "target_count": 0,
+          "previous_target_attempts": 0,
+          "logging_spec_read": true,
+          "logging_override": "User requires only start/final GitHub log writes; stages recorded in runtime memory"
+        }
+      ],
+      "error": [
+        {
+          "tool": "search_service_web_run.open",
+          "code": "TimeoutError",
+          "message": "Publisher library-marketing page timed out; official publisher book page successfully read instead",
+          "retry_count": 0,
+          "outcome_known": true
+        },
+        {
+          "tool": "github_fetch",
+          "code": "NOT_FOUND",
+          "message": "No prior drafts directory for target 1700 slot",
+          "retry_count": 0,
+          "outcome_known": true
+        }
+      ]
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:05:36.574Z",
+      "ended_at": "2026-11-12T08:05:36.574Z",
+      "results": [
+        {
+          "mode": "new",
+          "title": "[17:00] The Photograph Outside the Frame",
+          "word_count": 405,
+          "translation": true,
+          "vocab_count": 5
+        }
+      ],
+      "tools": [
+        "authored"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "mode": "new",
+          "title": "[17:00] The Photograph Outside the Frame",
+          "word_count": 405,
+          "translation": true,
+          "vocab_count": 5
+        }
+      ],
+      "finished_at": "2026-11-12T08:05:36.574Z",
+      "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:05:36.574Z",
+      "ended_at": "2026-11-12T08:05:39.579Z",
+      "results": [
+        {
+          "readback_match": true,
+          "path": "ops/posting-drafts/2026-11-12/1700/6a145acc-2660-4270-a136-a2115545cbdc.json"
+        }
+      ],
+      "tools": [
+        "github_create_file",
+        "github_fetch_file"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "readback_match": true,
+          "path": "ops/posting-drafts/2026-11-12/1700/6a145acc-2660-4270-a136-a2115545cbdc.json"
+        }
+      ],
+      "finished_at": "2026-11-12T08:05:39.579Z",
+      "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:06:01.548Z",
+      "ended_at": "2026-11-12T08:06:23.486Z",
+      "results": [
+        {
+          "commit": "c182b617ad1e1f04b85ef6ac45067364c0944fa1",
+          "files": [
+            {
+              "path": "daily_english_articles.json",
+              "count": 37,
+              "match": true
+            },
+            {
+              "path": "index.html",
+              "count": 37,
+              "match": true
+            },
+            {
+              "path": "daily_english_library.html",
+              "count": 37,
+              "match": true
+            }
+          ]
+        }
+      ],
+      "tools": [
+        "github_create_tree",
+        "github_create_commit",
+        "github_update_ref",
+        "github_fetch_file"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "commit": "c182b617ad1e1f04b85ef6ac45067364c0944fa1",
+          "files": [
+            {
+              "path": "daily_english_articles.json",
+              "count": 37,
+              "match": true
+            },
+            {
+              "path": "index.html",
+              "count": 37,
+              "match": true
+            },
+            {
+              "path": "daily_english_library.html",
+              "count": 37,
+              "match": true
+            }
+          ]
+        }
+      ],
+      "finished_at": "2026-11-12T08:06:23.486Z",
+      "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:06:23.486Z",
+      "ended_at": "2026-11-12T08:06:27.393Z",
+      "results": [
+        {
+          "count": 37,
+          "match": true,
+          "preserved": true
+        }
+      ],
+      "tools": [
+        "sync_english_articles",
+        "read_english_archive"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "count": 37,
+          "match": true,
+          "preserved": true
+        }
+      ],
+      "finished_at": "2026-11-12T08:06:27.393Z",
+      "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:06:27.393Z",
+      "ended_at": "2026-11-12T08:07:29.394Z",
+      "results": [
+        {
+          "generated": true,
+          "displayed_in_chat": true,
+          "local_path": "generated_images/exec-85dee791-1832-42d6-a89d-dd77bd881213.png"
+        }
+      ],
+      "tools": [
+        "image_gen.imagegen"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "generated": true,
+          "displayed_in_chat": true,
+          "local_path": "generated_images/exec-85dee791-1832-42d6-a89d-dd77bd881213.png"
+        }
+      ],
+      "finished_at": "2026-11-12T08:07:29.394Z",
+      "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:07:29.394Z",
+      "ended_at": "2026-11-12T08:07:42.562Z",
+      "results": [
+        {
+          "format": "JPEG",
+          "width": 1672,
+          "height": 941,
+          "bytes": 389017,
+          "sha256": "f33d3ae3b3317055a9f707cd526f3042e0550b91f5c85914079ff2c29ad406f9"
+        }
+      ],
+      "tools": [
+        "exec_command",
+        "Pillow"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "format": "JPEG",
+          "width": 1672,
+          "height": 941,
+          "bytes": 389017,
+          "sha256": "f33d3ae3b3317055a9f707cd526f3042e0550b91f5c85914079ff2c29ad406f9"
+        }
+      ],
+      "finished_at": "2026-11-12T08:07:42.562Z",
+      "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:07:42.562Z",
+      "ended_at": "2026-11-12T08:08:14.595Z",
+      "results": [
+        {
+          "commit": "34b06a4b2206f681de23c4e73cbe69e6d45611da",
+          "blob": "ca48d25cb1b705da96836f88882f210758828699",
+          "readbacks": [
+            {
+              "path": "daily_english_articles.json",
+              "article_match": true,
+              "count": 37
+            },
+            {
+              "path": "index.html",
+              "article_match": true,
+              "count": 37
+            },
+            {
+              "path": "daily_english_library.html",
+              "article_match": true,
+              "count": 37
+            },
+            {
+              "path": "assets/key-visuals/2026-11-12-1700.jpg",
+              "binary_match": true
+            }
+          ],
+          "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-12-1700.jpg"
+        }
+      ],
+      "tools": [
+        "github_create_blob",
+        "github_create_tree",
+        "github_create_commit",
+        "github_update_ref",
+        "github_fetch_file"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "commit": "34b06a4b2206f681de23c4e73cbe69e6d45611da",
+          "blob": "ca48d25cb1b705da96836f88882f210758828699",
+          "readbacks": [
+            {
+              "path": "daily_english_articles.json",
+              "article_match": true,
+              "count": 37
+            },
+            {
+              "path": "index.html",
+              "article_match": true,
+              "count": 37
+            },
+            {
+              "path": "daily_english_library.html",
+              "article_match": true,
+              "count": 37
+            },
+            {
+              "path": "assets/key-visuals/2026-11-12-1700.jpg",
+              "binary_match": true
+            }
+          ],
+          "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-12-1700.jpg"
+        }
+      ],
+      "finished_at": "2026-11-12T08:08:14.595Z",
+      "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:08:14.595Z",
+      "ended_at": "2026-11-12T08:08:17.829Z",
+      "results": [
+        {
+          "match": true,
+          "preserved": true,
+          "count": 37
+        }
+      ],
+      "tools": [
+        "sync_english_articles",
+        "read_english_archive"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "match": true,
+          "preserved": true,
+          "count": 37
+        }
+      ],
+      "finished_at": "2026-11-12T08:08:17.829Z",
+      "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:08:17.829Z",
+      "ended_at": "2026-11-12T08:08:55.200Z",
+      "results": [
+        {
+          "at": "2026-11-12T08:08:36.086Z",
+          "deployment": "in_progress",
+          "workflow_id": 43180445493,
+          "html_http": 200,
+          "html_image_present": false,
+          "target_present": true,
+          "image_http": 200,
+          "image_decoded": true,
+          "image_sha256_match": true
+        },
+        {
+          "at": "2026-11-12T08:08:55.200Z",
+          "deployment": "success",
+          "workflow_id": 43180445493,
+          "commit": "34b06a4b2206f681de23c4e73cbe69e6d45611da",
+          "html_http": 200,
+          "all_target_fields_match": true,
+          "target_count": 1,
+          "image_http": 200,
+          "image_decoded": true,
+          "image_sha256_match": true
+        }
+      ],
+      "tools": [
+        "github_fetch",
+        "exec_command",
+        "urllib.request",
+        "Pillow"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "at": "2026-11-12T08:08:36.086Z",
+          "deployment": "in_progress",
+          "workflow_id": 43180445493,
+          "html_http": 200,
+          "html_image_present": false,
+          "target_present": true,
+          "image_http": 200,
+          "image_decoded": true,
+          "image_sha256_match": true
+        },
+        {
+          "at": "2026-11-12T08:08:55.200Z",
+          "deployment": "success",
+          "workflow_id": 43180445493,
+          "commit": "34b06a4b2206f681de23c4e73cbe69e6d45611da",
+          "html_http": 200,
+          "all_target_fields_match": true,
+          "target_count": 1,
+          "image_http": 200,
+          "image_decoded": true,
+          "image_sha256_match": true
+        }
+      ],
+      "finished_at": "2026-11-12T08:08:55.200Z",
+      "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:08:55.201Z",
+      "ended_at": "2026-11-12T08:08:55.201Z",
+      "results": [
+        {
+          "english": true,
+          "translation": true,
+          "vocab_count": 5,
+          "stage_table": true,
+          "notification_delivery": "unknown",
+          "posting_success": true
+        }
+      ],
+      "tools": [
+        "assistant"
+      ],
+      "errors": [],
+      "evidence": [
+        {
+          "english": true,
+          "translation": true,
+          "vocab_count": 5,
+          "stage_table": true,
+          "notification_delivery": "unknown",
+          "posting_success": true
+        }
+      ],
+      "finished_at": "2026-11-12T08:08:55.201Z",
+      "error": null
     }
   },
   "limitations": [
     "Only start and final logs committed; intermediate details may be lost on interruption.",
     "Stops before initial log are not captured; absent logs do not prove absent text generation.",
     "Notification delivery is not verified."
-  ]
+  ],
+  "schema_version": 1,
+  "attempt_id": "6a145acc-2660-4270-a136-a2115545cbdc",
+  "platform_run_id": null,
+  "invocation_kind": "scheduled",
+  "scheduled_for": "2026-11-12T17:00:00+09:00",
+  "target": {
+    "date": "2026-11-12",
+    "slot": "17:00",
+    "resolution": "Provided scheduled run context"
+  },
+  "draft_path": "ops/posting-drafts/2026-11-12/1700/6a145acc-2660-4270-a136-a2115545cbdc.json",
+  "logging_errors": [],
+  "status": "completed",
+  "last_completed_stage": "report",
+  "prelog_errors": [
+    {
+      "tool": "functions.exec",
+      "code": "ReferenceError",
+      "message": "crypto is not defined; UUID subsequently generated with Python uuid4",
+      "outcome_known": true
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.penguinrandomhouse.com/books/575653/the-midnight-library-a-gma-book-club-pick-by-matt-haig/",
+      "verified": "author, title, novel premise and US bestseller",
+      "accessed_at": "2026-11-12T08:06:47.489Z"
+    }
+  ],
+  "preliminary_public_verify": [
+    {
+      "at": "2026-11-12T08:07:17.974Z",
+      "html_http": 200,
+      "target_present": true,
+      "text_deployment": "success",
+      "commit": "c182b617ad1e1f04b85ef6ac45067364c0944fa1",
+      "workflow_url": "https://github.com/seikoubon/daily-english-library/actions/runs/43180208180"
+    }
+  ],
+  "finished_at": "2026-11-12T08:08:55.201Z",
+  "final_commit": "34b06a4b2206f681de23c4e73cbe69e6d45611da",
+  "log_path": "ops/posting-runs/2026-11-12/1700/6a145acc-2660-4270-a136-a2115545cbdc.json"
 }
