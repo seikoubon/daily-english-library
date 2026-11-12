@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "attempt_id": "bda2d410-1993-4a6c-bc75-18d437792470",
+  "platform_run_id": null,
+  "invocation_kind": "scheduled",
+  "scheduled_for": null,
+  "started_at": "2026-11-12T21:58:09.064Z",
+  "finished_at": null,
+  "target": {
+    "date": "2026-11-13",
+    "slot": "07:00",
+    "resolution": "Scheduled timestamp unavailable; nearest slot to provided start 06:57 JST within 45 minutes."
+  },
+  "status": "started",
+  "last_completed_stage": null,
+  "stages": {
+    "resolve_slot": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    }
+  },
+  "draft_path": "ops/posting-drafts/2026-11-13/0700/bda2d410-1993-4a6c-bc75-18d437792470.json",
+  "logging_errors": [],
+  "limitations": "Only start and final log are committed per current user instruction. In-flight stage detail may be lost on interruption. Failures before first log are not captured.",
+  "spec_override": "Current user instructions require two log commits only; overrides per-stage GitHub persistence in POSTING_LOGGING.md."
+}
