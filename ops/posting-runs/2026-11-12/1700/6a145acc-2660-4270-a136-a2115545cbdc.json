@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "uuid": "6a145acc-2660-4270-a136-a2115545cbdc",
+  "run_id": null,
+  "started_at": "2026-11-12T08:03:51.383Z",
+  "slot": {
+    "date": "2026-11-12",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "basis": "Provided scheduled local datetime; 17:00 slot",
+    "category": "米国ベストセラー書籍",
+    "level": "英検2級・CEFR B1",
+    "days_from_base": 10,
+    "mod8": 2
+  },
+  "stages": {
+    "resolve_slot": {
+      "status": "succeeded",
+      "started_at": "2026-11-12T08:03:51.383Z",
+      "ended_at": "2026-11-12T08:03:51.383Z",
+      "results": [
+        {
+          "date": "2026-11-12",
+          "time": "17:00",
+          "timezone": "Asia/Tokyo",
+          "basis": "Provided scheduled local datetime; 17:00 slot",
+          "category": "米国ベストセラー書籍",
+          "level": "英検2級・CEFR B1",
+          "days_from_base": 10,
+          "mod8": 2
+        }
+      ],
+      "tools": [],
+      "errors": []
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    }
+  },
+  "limitations": [
+    "Only start and final logs committed; intermediate details may be lost on interruption.",
+    "Stops before initial log are not captured; absent logs do not prove absent text generation.",
+    "Notification delivery is not verified."
+  ]
+}
