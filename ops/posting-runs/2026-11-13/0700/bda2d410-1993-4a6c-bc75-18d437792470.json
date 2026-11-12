@@ -5,97 +5,239 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-12T21:58:09.064Z",
-  "finished_at": null,
+  "finished_at": "2026-11-12T22:02:14.782Z",
   "target": {
     "date": "2026-11-13",
     "slot": "07:00",
     "resolution": "Scheduled timestamp unavailable; nearest slot to provided start 06:57 JST within 45 minutes."
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "completed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T21:58:09.064Z",
+      "finished_at": "2026-11-12T21:58:23.244Z",
+      "evidence": {
+        "date": "2026-11-13",
+        "slot": "07:00",
+        "level": "英検3級",
+        "category": "科学",
+        "day_offset": 11,
+        "mod8": 3,
+        "tool": "provided run context",
+        "scheduled_for": null,
+        "resolution": "Scheduled occurrence timestamp not provided. Start 2026-11-13 06:57:02 JST: nearest slot 07:00 within 45 min."
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T21:58:23.244Z",
+      "finished_at": "2026-11-12T21:58:31.963Z",
+      "evidence": {
+        "tools": [
+          "github_fetch_file",
+          "read_english_archive",
+          "github_fetch"
+        ],
+        "github_count": 37,
+        "owner_count": 37,
+        "target_exists": false,
+        "logging_spec_read": true,
+        "previous_target_attempts": 0
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T21:58:31.963Z",
+      "finished_at": "2026-11-12T21:59:23.744Z",
+      "evidence": {
+        "mode": "generated",
+        "words": 400,
+        "translation": true,
+        "vocab_count": 5,
+        "title": "[07:00] Two Colors in One Sky",
+        "tools": [
+          "assistant",
+          "search_service_web_run"
+        ],
+        "sources": [
+          "https://www.weather.gov/fgz/SkyBlue",
+          "https://spaceplace.nasa.gov/blue-sky/en/"
+        ]
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T21:59:23.744Z",
+      "finished_at": "2026-11-12T21:59:25.918Z",
+      "evidence": {
+        "tool": "github_create_file / github_fetch_file",
+        "readback_match": true,
+        "path": "ops/posting-drafts/2026-11-13/0700/bda2d410-1993-4a6c-bc75-18d437792470.json"
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T21:59:25.918Z",
+      "finished_at": "2026-11-12T21:59:49.950Z",
+      "evidence": {
+        "tools": [
+          "github_create_tree",
+          "github_create_commit",
+          "github_update_ref",
+          "github_fetch_file"
+        ],
+        "commit": "b04a4b349b33347755771e714b3c1b548d5c5960",
+        "tree": "03c4ca64e2281387f6dee1b114edfbcf58c5d64d",
+        "count": 38,
+        "old_preserved": 37,
+        "all_three_match": true
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T21:59:49.950Z",
+      "finished_at": "2026-11-12T21:59:53.588Z",
+      "evidence": {
+        "tools": [
+          "sync_english_articles",
+          "read_english_archive"
+        ],
+        "count": 38,
+        "target_match": true,
+        "past_preserved": 37
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T21:59:53.588Z",
+      "finished_at": "2026-11-12T22:00:33.572Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "count": 1,
+        "chat_displayed": true,
+        "path_available": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T22:00:33.572Z",
+      "finished_at": "2026-11-12T22:00:56.496Z",
+      "evidence": {
+        "tools": [
+          "exec_command",
+          "Pillow"
+        ],
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 400807,
+        "sha256": "a8d0c947dda2f7c2870195eb876675c99114566976da14d64a4913b162ec0fa9"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T22:00:56.497Z",
+      "finished_at": "2026-11-12T22:01:18.552Z",
+      "evidence": {
+        "tools": [
+          "github_create_blob",
+          "github_create_tree",
+          "github_create_commit",
+          "github_update_ref",
+          "github_fetch_file"
+        ],
+        "parent": "b04a4b349b33347755771e714b3c1b548d5c5960",
+        "tree": "1c3e7e0c9dd1304afc9ae8d96201228a5ec65ba2",
+        "commit": "878b704a7a03462d79e172be0736ab0c9a17aa1e",
+        "all_three_match": true,
+        "image_bytes_match": true,
+        "past_preserved": 37,
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-13-0700.jpg"
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T22:01:18.552Z",
+      "finished_at": "2026-11-12T22:01:22.263Z",
+      "evidence": {
+        "tools": [
+          "sync_english_articles",
+          "read_english_archive"
+        ],
+        "count": 38,
+        "full_article_match": true,
+        "past_preserved": 37
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T22:01:22.263Z",
+      "finished_at": "2026-11-12T22:02:14.782Z",
+      "evidence": {
+        "tools": [
+          "github_fetch",
+          "exec_command",
+          "urllib.request",
+          "Pillow"
+        ],
+        "deployment": {
+          "id": 43315877311,
+          "head_sha": "878b704a7a03462d79e172be0736ab0c9a17aa1e",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43315877311"
+        },
+        "checks": [
+          {
+            "checked_at": "2026-11-12T22:01:38.511589+00:00",
+            "page": {
+              "http": 200,
+              "article_count": 38,
+              "target_count": 1,
+              "all_article_fields_match": true
+            },
+            "image": {
+              "http": 200,
+              "bytes": 400807,
+              "width": 1672,
+              "height": 941,
+              "decoded": true,
+              "sha256": "a8d0c947dda2f7c2870195eb876675c99114566976da14d64a4913b162ec0fa9",
+              "matches_saved": true
+            }
+          }
+        ]
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T22:02:14.782Z",
+      "finished_at": "2026-11-12T22:02:14.782Z",
+      "evidence": {
+        "tool": "assistant",
+        "prepared": [
+          "English 400 words",
+          "full Japanese translation",
+          "five expressions",
+          "stage table",
+          "log URL",
+          "draft URL"
+        ],
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
