@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "attempt_id": "c720d67d-0cfc-4c2f-b81b-f6c5c8654ba4",
+  "platform_run_id": "5fd16e34-49c8-832e-82e8-2759a1666ddd",
+  "invocation_kind": "scheduled",
+  "scheduled_for": "2026-11-12T03:00:00Z",
+  "started_at": "2026-11-12T02:58:49.955Z",
+  "target": {
+    "date": "2026-11-12",
+    "slot": "12:00",
+    "resolution": "予定日時"
+  },
+  "draft_path": "ops/posting-drafts/2026-11-12/1200/c720d67d-0cfc-4c2f-b81b-f6c5c8654ba4.json",
+  "status": "started",
+  "logging_errors": [],
+  "stages": {
+    "resolve_slot": {
+      "status": "started",
+      "started_at": "2026-11-12T02:58:49.955Z",
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    }
+  },
+  "last_completed_stage": null
+}
