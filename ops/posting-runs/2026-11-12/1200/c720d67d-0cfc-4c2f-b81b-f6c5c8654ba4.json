@@ -11,93 +11,207 @@
     "resolution": "予定日時"
   },
   "draft_path": "ops/posting-drafts/2026-11-12/1200/c720d67d-0cfc-4c2f-b81b-f6c5c8654ba4.json",
-  "status": "started",
+  "status": "completed",
   "logging_errors": [],
   "stages": {
     "resolve_slot": {
-      "status": "started",
+      "status": "succeeded",
       "started_at": "2026-11-12T02:58:49.955Z",
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-12T02:59:17.131Z",
+      "evidence": {
+        "tool": "automations_peek",
+        "offset_days": 10,
+        "mod8": 2
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T02:59:17.131Z",
+      "finished_at": "2026-11-12T02:59:22.606Z",
+      "evidence": {
+        "tool": "github_fetch, github_fetch_file, read_english_archive",
+        "head": "0b507bac6bdc9e7194762d44ee17b1ad17f6214e",
+        "tree": "d5d80fd0878d53b4748921ec2a596f76ce7a3cb0",
+        "counts": [
+          35,
+          35
+        ],
+        "target": [
+          0,
+          0
+        ],
+        "previous": [
+          "completed",
+          "completed",
+          "partial"
+        ],
+        "drafts": 0
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T02:59:22.606Z",
+      "finished_at": "2026-11-12T03:00:18.877Z",
+      "evidence": {
+        "tool": "Codex/web search",
+        "mode": "generated",
+        "words": 397,
+        "translation": true,
+        "vocab": 5,
+        "title": "[12:00] The Pencil Marks on the Wheel",
+        "source": "Penguin Random House"
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:00:18.877Z",
+      "finished_at": "2026-11-12T03:00:21.055Z",
+      "evidence": {
+        "tool": "github_create_file/fetch_file",
+        "commit_sha": "c2d3f9f4ac8a389443a90c1ad013b1a90cd16a74",
+        "readback": true
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:00:21.055Z",
+      "finished_at": "2026-11-12T03:00:54.994Z",
+      "evidence": {
+        "sha": "829e17f3314a1db69481cb202163224a0723f232",
+        "count": 36,
+        "history_preserved": true,
+        "tool": "github_create_tree/create_commit/update_ref/fetch_file",
+        "readback": true
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:00:54.994Z",
+      "finished_at": "2026-11-12T03:01:02.580Z",
+      "evidence": {
+        "count": 36,
+        "readback": true,
+        "history_preserved": true,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:01:02.580Z",
+      "finished_at": "2026-11-12T03:01:58.472Z",
+      "evidence": {
+        "tool": "image_gen",
+        "generated": 1,
+        "displayed": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:01:58.472Z",
+      "finished_at": "2026-11-12T03:02:20.749Z",
+      "evidence": {
+        "tool": "Pillow",
+        "format": "JPEG",
+        "size": [
+          1672,
+          941
+        ],
+        "bytes": 480241,
+        "sha256": "a073b4d2500f75850c261eb1b161525164504b9c7b27e56e9f7061bc55febd01"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:02:20.749Z",
+      "finished_at": "2026-11-12T03:02:26.432Z",
+      "evidence": {
+        "sha": "c15a8cb98b450933107bf8e0800752b63535568c",
+        "count": 36,
+        "history_preserved": true,
+        "tool": "github_create_tree/create_commit/update_ref/fetch_file",
+        "readback": true,
+        "blob": "191acb9135ee41e3d997b43a59fd11288edae31f",
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-12-1200.jpg",
+        "binary_readback": true
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:02:26.432Z",
+      "finished_at": "2026-11-12T03:02:33.404Z",
+      "evidence": {
+        "count": 36,
+        "readback": true,
+        "history_preserved": true,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:02:33.404Z",
+      "finished_at": "2026-11-12T03:03:10.161Z",
+      "evidence": {
+        "tool": "urllib/Pillow/github_fetch",
+        "checks": [
+          {
+            "page": {
+              "http": 200,
+              "count": 36,
+              "matches": 1,
+              "match": true
+            },
+            "image": {
+              "http": 200,
+              "size": [
+                1672,
+                941
+              ],
+              "sha256": "a073b4d2500f75850c261eb1b161525164504b9c7b27e56e9f7061bc55febd01",
+              "match": true
+            },
+            "at": "2026-11-12T03:02:57.934Z",
+            "deployment": {
+              "status": "in_progress",
+              "conclusion": null,
+              "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43145466203"
+            }
+          }
+        ],
+        "deployment": {
+          "at": "2026-11-12T03:03:02.411Z",
+          "status": "completed",
+          "conclusion": "success",
+          "sha": "c15a8cb98b450933107bf8e0800752b63535568c",
+          "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43145466203"
+        }
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-12T03:03:10.161Z",
+      "finished_at": "2026-11-12T03:03:10.161Z",
+      "evidence": {
+        "tool": "Codex",
+        "text": true,
+        "translation": true,
+        "vocabulary": 5,
+        "delivery_status": "unknown"
+      },
       "error": null
     }
   },
-  "last_completed_stage": null
+  "last_completed_stage": "report",
+  "finished_at": "2026-11-12T03:03:10.161Z",
+  "logging_policy": "途中停止時、開始記録のみが残り詳細が失われる場合がある。"
 }
