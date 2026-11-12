@@ -2,6 +2,42 @@
   {
     "date": "2026-11-12",
     "category": "米国ベストセラー書籍",
+    "title": "[12:00] The Pencil Marks on the Wheel",
+    "ja_title": "車輪につけた鉛筆の印",
+    "en": "In The Boy Who Harnessed the Wind, William Kamkwamba and Bryan Mealer tell the true story of a boy in Malawi who built a windmill. A drought had hurt his family's farm. William found ideas in science books at a library, and he found materials in things other people had thrown away. Parts of an old bicycle helped him bring electricity to his home. After reading about William, I began to wonder how much I really understood about the bicycle outside my own door.\n\nHere is an experiment you can picture. Imagine two sisters, Mari and Yui, sitting beside an old bicycle in their grandfather's yard. They have just read about William. Mari can draw a bicycle from memory, right down to the little bell. But when Yui asks how many times the back wheel turns each time the pedals go around once, Mari has no answer. She has drawn that wheel a hundred times without asking what makes it turn.\n\nTheir grandfather holds the back wheel off the ground. Yui makes a pencil mark on a piece of tape and sticks it near the edge of the wheel. Mari turns one pedal slowly. Yui tries to count, but the mark disappears behind the bicycle frame. They start over. This time they put the tape where Yui can see it and choose the top of the wheel as their starting point.\n\nOn this bicycle, in this gear, the mark passes the top twice before Mari brings the pedal back to its starting place. She draws two circles beside her picture. Then Yui changes the gear. “Do we need another drawing?” she asks. Mari reaches for her pencil, then stops. First she wants to watch the wheel. The bicycle looks almost exactly the same, yet the pencil mark tells a different story.\n\nThe sisters and their afternoon in the yard are imaginary. Their question is tiny compared with the problem William faced. Still, his book gave me a reason to look again at a familiar machine. I used to think I knew a bicycle because I could name its parts. Now I would like to know what happens between the moment my foot pushes down and the moment the wheel moves. A library book can send you a long way from home. Sometimes it can also send you back outside, carrying a pencil and a piece of tape.",
+    "ja": "『風をつかまえた少年』で、ウィリアム・カムクワンバとブライアン・ミーラーは、マラウイで風車を作った少年の実話を語っています。干ばつで、少年の家の農地は被害を受けていました。ウィリアムは図書館の科学の本からアイデアを得て、人々が捨てた物の中から材料を見つけました。古い自転車の部品も役に立ち、自宅に電気を引くことができました。ウィリアムの話を読んでから、私は自分の家のすぐ外にある自転車について、本当はどれくらい分かっているのだろうと思い始めました。\n\nこんな実験を思い浮かべてみてください。マリとユイという姉妹が、おじいさんの庭で古い自転車のそばに座っています。二人はウィリアムの話を読んだばかりです。マリは小さなベルに至るまで、自転車を何も見ずに描けます。ところがユイに「ペダルが一周するたびに、後ろの車輪は何回まわるの？」と聞かれると、マリは答えられません。もう百回もその車輪を描いてきたのに、何が車輪を動かすのか考えたことがなかったのです。\n\nおじいさんが後輪を地面から浮かせて支えます。ユイは短いテープに鉛筆で印をつけ、車輪の縁の近くに貼ります。マリは片方のペダルをゆっくりまわします。ユイは数えようとしますが、印は自転車のフレームに隠れてしまいます。二人は最初からやり直します。今度はユイから見える位置にテープを貼り、車輪のいちばん上を数え始める位置に決めます。\n\nこの自転車で、このギアを使うと、マリがペダルをもとの位置に戻すまでに、印は車輪のいちばん上を二回通ります。マリは自転車の絵の横に丸を二つ描きます。そこでユイがギアを変えます。「もう一枚、絵がいるかな？」とユイ。マリは鉛筆に手を伸ばしかけて、止めます。まず車輪を見たくなったのです。自転車の見た目はほとんど同じなのに、鉛筆の印が教えてくれることは違っています。\n\n姉妹も、二人が庭で過ごした午後も、想像上のものです。二人の疑問は、ウィリアムが直面した問題に比べたら小さなものです。それでも彼の本は、見慣れた機械をもう一度よく見るきっかけをくれました。以前の私は、部品の名前が言えれば自転車のことは分かっていると思っていました。今は、足でペダルを踏み込んだ瞬間から車輪が動く瞬間までに、何が起きるのか知りたくなりました。図書館の本は、家から遠く離れた場所へと連れていってくれます。そしてときには、鉛筆と短いテープを手に、もう一度家の外へ出るきっかけにもなるのです。",
+    "vocab": [
+      [
+        "throw away",
+        "捨てる",
+        "We used a box that someone had thrown away."
+      ],
+      [
+        "from memory",
+        "記憶を頼りに、何も見ずに",
+        "Can you draw your street from memory?"
+      ],
+      [
+        "each time",
+        "～するたびに",
+        "I hear a click each time the wheel turns."
+      ],
+      [
+        "start over",
+        "最初からやり直す",
+        "We lost count and had to start over."
+      ],
+      [
+        "compared with",
+        "～と比べると",
+        "This wheel is small compared with the other one."
+      ]
+    ],
+    "is_preview": false
+  },
+  {
+    "date": "2026-11-12",
+    "category": "米国ベストセラー書籍",
     "title": "[07:00] The Wild Robot and a Place at the Table",
     "ja_title": "『野生のロボット』と、食卓の空いた席",
     "en": "What can a robot learn from a small animal? In The Wild Robot, a book by Peter Brown, a robot named Roz opens her eyes on an island. There are no people there to tell her what to do. The animals know the island well, but they are afraid of her. Being big and strong does not make Roz a good neighbor. She has to watch the animals and learn how they live. Little by little, some of them become her friends.\n\nThat part of the book made me think about a much smaller problem. How do you join a group when everyone else already knows what to do? Imagine a girl named Emi on her first day at a new school. At lunch, she sees an empty chair at the end of a table. A boy has put his bag on it. Emi could walk past. Instead, she stops and asks, “Can I sit here?” The boy picks up his bag.\n\nFor a while, Emi just eats her lunch. The other children are talking about a game. She knows the game, but they play it in a different way at this school. She wants to tell them the rules she knows. Then she hears one girl say, “Yesterday even our teacher played!” Emi puts down her spoon. “Did she win?” she asks. The girl laughs. Soon everyone is telling Emi about the teacher who ran the wrong way. Now Emi is laughing too.\n\nOn Friday, another new student comes into the lunchroom. This time Emi is the one with a bag on the empty chair. She sees the student look at the chair and then at the floor. Before he has to ask, she moves her bag. “You can sit here,” she says. She remembers how hard it was to say those first four words on Monday.\n\nEmi is a girl I imagined. You will not find her in Roz’s story. Still, when I think of Roz learning from the animals, I think of Emi putting down her spoon to listen. And when I think of the animals getting to know Roz, I remember the boy who moved his bag. I like the book because it makes me look at both sides of that lunch table. On some days I need a seat. On other days I can make room for someone.",
