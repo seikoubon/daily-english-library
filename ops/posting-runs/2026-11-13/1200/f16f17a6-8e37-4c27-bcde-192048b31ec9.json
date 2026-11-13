@@ -4,7 +4,7 @@
   "date": "2026-11-13",
   "slot": "12:00",
   "started_at": "2026-11-13T02:59:27.114Z",
-  "status": "started",
+  "status": "completed",
   "limitations": "Intermediate details are held in memory; interruption may leave only this start log. Stops before initial log are not captured. No log does not prove text was not generated.",
   "stages": {
     "resolve_slot": {
@@ -15,95 +15,408 @@
         "Scheduled timestamp not provided; runtime start 2026-11-13 11:58:17 JST is within 45 minutes of 12:00. day offset 11, mod8=3, science, Eiken pre-2."
       ],
       "tools": [],
-      "errors": []
+      "errors": [],
+      "finished_at": "2026-11-13T02:59:27.115Z",
+      "evidence": [
+        "Scheduled timestamp not provided; runtime start 2026-11-13 11:58:17 JST is within 45 minutes of 12:00. day offset 11, mod8=3, science, Eiken pre-2."
+      ],
+      "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T02:59:38.682Z",
+      "ended_at": "2026-11-13T03:00:01.754Z",
+      "results": [
+        {
+          "github": 38,
+          "owner": 38,
+          "target": 0,
+          "drafts": 0,
+          "spec_read": true,
+          "spec_override": "User requests memory stage logging and only start/end GitHub writes; overrides older document."
+        }
+      ],
+      "tools": [
+        "github_fetch_file",
+        "github_fetch",
+        "read_english_archive"
+      ],
+      "errors": [
+        {
+          "tool": "web.open",
+          "code": "Request Rejected",
+          "message": "Smithsonian page returned a rejection notice. Science facts verified using NASA educational PDF instead.",
+          "retry_count": 0,
+          "outcome_known": true
+        }
+      ],
+      "finished_at": "2026-11-13T03:00:01.754Z",
+      "evidence": [
+        {
+          "github": 38,
+          "owner": 38,
+          "target": 0,
+          "drafts": 0,
+          "spec_read": true,
+          "spec_override": "User requests memory stage logging and only start/end GitHub writes; overrides older document."
+        }
+      ],
+      "error": [
+        {
+          "tool": "web.open",
+          "code": "Request Rejected",
+          "message": "Smithsonian page returned a rejection notice. Science facts verified using NASA educational PDF instead.",
+          "retry_count": 0,
+          "outcome_known": true
+        }
+      ]
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:00:01.758Z",
+      "ended_at": "2026-11-13T03:00:51.483Z",
+      "results": [
+        {
+          "mode": "new",
+          "title": "[12:00] The Music at the Edge of a Desk",
+          "words": 410,
+          "translation": true,
+          "vocab": 5
+        }
+      ],
       "tools": [],
-      "errors": []
+      "errors": [],
+      "finished_at": "2026-11-13T03:00:51.483Z",
+      "evidence": [
+        {
+          "mode": "new",
+          "title": "[12:00] The Music at the Edge of a Desk",
+          "words": 410,
+          "translation": true,
+          "vocab": 5
+        }
+      ],
+      "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:00:51.483Z",
+      "ended_at": "2026-11-13T03:01:32.383Z",
+      "results": [
+        {
+          "saved": true,
+          "readback": true
+        }
+      ],
+      "tools": [
+        "github_create_file",
+        "github_fetch_file"
+      ],
+      "errors": [
+        {
+          "tool": "functions.exec",
+          "code": "ReferenceError",
+          "message": "Helper scope error after successful draft readback; corrected before content saves.",
+          "retry_count": 1,
+          "outcome_known": true
+        }
+      ],
+      "finished_at": "2026-11-13T03:01:32.383Z",
+      "evidence": [
+        {
+          "saved": true,
+          "readback": true
+        }
+      ],
+      "error": [
+        {
+          "tool": "functions.exec",
+          "code": "ReferenceError",
+          "message": "Helper scope error after successful draft readback; corrected before content saves.",
+          "retry_count": 1,
+          "outcome_known": true
+        }
+      ]
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:01:32.383Z",
+      "ended_at": "2026-11-13T03:01:37.187Z",
+      "results": [
+        {
+          "commit": "db9f6c632d01bd298f8a3001bd373b3a7677de12",
+          "count": 39,
+          "all_three_equal": true,
+          "past_preserved": 38
+        }
+      ],
+      "tools": [
+        "github_fetch",
+        "github_fetch_file",
+        "github_create_tree",
+        "github_create_commit",
+        "github_update_ref"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T03:01:37.187Z",
+      "evidence": [
+        {
+          "commit": "db9f6c632d01bd298f8a3001bd373b3a7677de12",
+          "count": 39,
+          "all_three_equal": true,
+          "past_preserved": 38
+        }
+      ],
+      "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:01:37.187Z",
+      "ended_at": "2026-11-13T03:01:42.436Z",
+      "results": [
+        {
+          "count": 39,
+          "target_equal": true,
+          "past_preserved": true
+        }
+      ],
+      "tools": [
+        "sync_english_articles",
+        "read_english_archive"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T03:01:42.436Z",
+      "evidence": [
+        {
+          "count": 39,
+          "target_equal": true,
+          "past_preserved": true
+        }
+      ],
+      "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:01:42.436Z",
+      "ended_at": "2026-11-13T03:02:43.217Z",
+      "results": [
+        {
+          "generated": 1,
+          "chat_display": true,
+          "source": "local PNG"
+        }
+      ],
+      "tools": [
+        "image_gen.imagegen"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T03:02:43.217Z",
+      "evidence": [
+        {
+          "generated": 1,
+          "chat_display": true,
+          "source": "local PNG"
+        }
+      ],
+      "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:02:43.217Z",
+      "ended_at": "2026-11-13T03:03:03.786Z",
+      "results": [
+        {
+          "format": "JPEG",
+          "width": 1672,
+          "height": 941,
+          "bytes": 336391,
+          "sha256": "b2328d5fc5e45ee33bdf93ed420dd0c189660ba917151123306e7cb1d0c6ebc8"
+        }
+      ],
+      "tools": [
+        "exec_command",
+        "Pillow"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T03:03:03.786Z",
+      "evidence": [
+        {
+          "format": "JPEG",
+          "width": 1672,
+          "height": 941,
+          "bytes": 336391,
+          "sha256": "b2328d5fc5e45ee33bdf93ed420dd0c189660ba917151123306e7cb1d0c6ebc8"
+        }
+      ],
+      "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:03:03.786Z",
+      "ended_at": "2026-11-13T03:03:09.224Z",
+      "results": [
+        {
+          "commit": "4065c921f59773ca643c3b83cd74496d04cc86dc",
+          "blob": "d33d3ab84ec081e0c7a0cfb1bab9eec457b4a0f2",
+          "count": 39,
+          "readback_bytes_equal": true,
+          "all_three_equal": true
+        }
+      ],
+      "tools": [
+        "github_create_blob",
+        "github_create_tree",
+        "github_create_commit",
+        "github_update_ref",
+        "github_fetch_file"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T03:03:09.224Z",
+      "evidence": [
+        {
+          "commit": "4065c921f59773ca643c3b83cd74496d04cc86dc",
+          "blob": "d33d3ab84ec081e0c7a0cfb1bab9eec457b4a0f2",
+          "count": 39,
+          "readback_bytes_equal": true,
+          "all_three_equal": true
+        }
+      ],
+      "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:03:09.224Z",
+      "ended_at": "2026-11-13T03:03:14.323Z",
+      "results": [
+        {
+          "article_equal": true,
+          "count": 39
+        }
+      ],
+      "tools": [
+        "sync_english_articles",
+        "read_english_archive"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T03:03:14.323Z",
+      "evidence": [
+        {
+          "article_equal": true,
+          "count": 39
+        }
+      ],
+      "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:03:14.323Z",
+      "ended_at": "2026-11-13T03:03:58.508Z",
+      "results": [
+        {
+          "checked_at": "2026-11-13T03:03:42Z",
+          "page_http": 200,
+          "target_count": 1,
+          "article_equal": true,
+          "image_http": 200,
+          "image_decoded": true,
+          "format": "JPEG",
+          "bytes": 336391,
+          "image_sha256_equal": true,
+          "deployment": {
+            "run_id": 43356315376,
+            "status": "completed",
+            "conclusion": "success",
+            "commit": "4065c921f59773ca643c3b83cd74496d04cc86dc",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43356315376"
+          }
+        }
+      ],
+      "tools": [
+        "exec_command/urllib",
+        "Pillow",
+        "github_fetch"
+      ],
+      "errors": [
+        {
+          "tool": "exec_command",
+          "code": "ModuleNotFoundError",
+          "message": "requests not installed; retried successfully with Python standard library urllib.",
+          "retry_count": 1,
+          "outcome_known": true
+        }
+      ],
+      "finished_at": "2026-11-13T03:03:58.508Z",
+      "evidence": [
+        {
+          "checked_at": "2026-11-13T03:03:42Z",
+          "page_http": 200,
+          "target_count": 1,
+          "article_equal": true,
+          "image_http": 200,
+          "image_decoded": true,
+          "format": "JPEG",
+          "bytes": 336391,
+          "image_sha256_equal": true,
+          "deployment": {
+            "run_id": 43356315376,
+            "status": "completed",
+            "conclusion": "success",
+            "commit": "4065c921f59773ca643c3b83cd74496d04cc86dc",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43356315376"
+          }
+        }
+      ],
+      "error": [
+        {
+          "tool": "exec_command",
+          "code": "ModuleNotFoundError",
+          "message": "requests not installed; retried successfully with Python standard library urllib.",
+          "retry_count": 1,
+          "outcome_known": true
+        }
+      ]
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": [],
+      "status": "succeeded",
+      "started_at": "2026-11-13T03:03:58.508Z",
+      "ended_at": "2026-11-13T03:04:06.898Z",
+      "results": [
+        {
+          "english_words": 410,
+          "translation": true,
+          "vocab": 5,
+          "stage_table_prepared": true,
+          "notification_delivery": "unknown"
+        }
+      ],
       "tools": [],
-      "errors": []
+      "errors": [],
+      "finished_at": "2026-11-13T03:04:06.898Z",
+      "evidence": [
+        {
+          "english_words": 410,
+          "translation": true,
+          "vocab": 5,
+          "stage_table_prepared": true,
+          "notification_delivery": "unknown"
+        }
+      ],
+      "error": null
     }
-  }
+  },
+  "schema_version": 1,
+  "attempt_id": "f16f17a6-8e37-4c27-bcde-192048b31ec9",
+  "platform_run_id": null,
+  "scheduled_for": null,
+  "invocation_kind": "scheduled",
+  "target": {
+    "date": "2026-11-13",
+    "slot": "12:00",
+    "resolution": "Scheduled timestamp not provided; runtime start 2026-11-13 11:58:17 JST is within 45 minutes of 12:00. day offset 11, mod8=3, science, Eiken pre-2."
+  },
+  "logging_errors": [],
+  "draft_path": "ops/posting-drafts/2026-11-13/1200/f16f17a6-8e37-4c27-bcde-192048b31ec9.json",
+  "finished_at": "2026-11-13T03:04:06.898Z",
+  "last_completed_stage": "report",
+  "logging_mode": "Start and final GitHub writes only; intermediate stage details held in execution memory per user instructions."
 }
