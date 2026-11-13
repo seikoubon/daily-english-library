@@ -17,95 +17,387 @@
         "category": "科学"
       },
       "tools": [],
-      "errors": []
+      "errors": [],
+      "finished_at": "2026-11-13T08:08:23.361Z",
+      "evidence": {
+        "date": "2026-11-13",
+        "slot": "17:00",
+        "basis": "Scheduled timestamp absent; nearest slot to provided start 17:06:59 JST within 45 minutes",
+        "days": 11,
+        "mod8": 3,
+        "category": "科学"
+      },
+      "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:08:33.968Z",
+      "ended_at": "2026-11-13T08:09:02.674Z",
+      "results": {
+        "github": {
+          "count": 39,
+          "target": 0
+        },
+        "owner": {
+          "count": 39,
+          "target": 0
+        },
+        "draft": {
+          "target": 0
+        },
+        "prior_run": {
+          "status": "completed"
+        },
+        "logging_spec": "Read; current user two-commit logging instruction overrides older per-stage persistence rule"
+      },
+      "tools": [
+        "github.fetch_file",
+        "github.fetch",
+        "daily_english_library.read_english_archive"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:09:02.674Z",
+      "evidence": {
+        "github": {
+          "count": 39,
+          "target": 0
+        },
+        "owner": {
+          "count": 39,
+          "target": 0
+        },
+        "draft": {
+          "target": 0
+        },
+        "prior_run": {
+          "status": "completed"
+        },
+        "logging_spec": "Read; current user two-commit logging instruction overrides older per-stage persistence rule"
+      },
+      "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:09:02.674Z",
+      "ended_at": "2026-11-13T08:10:02.275Z",
+      "results": {
+        "mode": "generated",
+        "word_count": 416,
+        "translation": true,
+        "vocab": 5,
+        "title": "[17:00] The Cold Handle in a Warm Room",
+        "sources": [
+          "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html",
+          "https://www.aps.org/learning-resources/getting-warmer-colder"
+        ]
+      },
       "tools": [],
-      "errors": []
+      "errors": [],
+      "finished_at": "2026-11-13T08:10:02.275Z",
+      "evidence": {
+        "mode": "generated",
+        "word_count": 416,
+        "translation": true,
+        "vocab": 5,
+        "title": "[17:00] The Cold Handle in a Warm Room",
+        "sources": [
+          "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html",
+          "https://www.aps.org/learning-resources/getting-warmer-colder"
+        ]
+      },
+      "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:10:02.275Z",
+      "ended_at": "2026-11-13T08:10:05.365Z",
+      "results": {
+        "readback_match": true,
+        "path": "ops/posting-drafts/2026-11-13/1700/5d44aca1-85af-4190-85a7-886cd8eaa62a.json"
+      },
+      "tools": [
+        "github.create_file",
+        "github.fetch_file"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:10:05.365Z",
+      "evidence": {
+        "readback_match": true,
+        "path": "ops/posting-drafts/2026-11-13/1700/5d44aca1-85af-4190-85a7-886cd8eaa62a.json"
+      },
+      "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:10:28.479Z",
+      "ended_at": "2026-11-13T08:10:34.119Z",
+      "results": {
+        "commit": "19512e1bc63ae396855c28fab55504d55048feb6",
+        "tree": "41f735d6bb369380928a1b83447b9a4cccf79b05",
+        "articles": 40,
+        "past_preserved": 39,
+        "readback": true
+      },
+      "tools": [
+        "github.fetch",
+        "github.fetch_file",
+        "github.create_tree",
+        "github.create_commit",
+        "github.update_ref"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:10:34.119Z",
+      "evidence": {
+        "commit": "19512e1bc63ae396855c28fab55504d55048feb6",
+        "tree": "41f735d6bb369380928a1b83447b9a4cccf79b05",
+        "articles": 40,
+        "past_preserved": 39,
+        "readback": true
+      },
+      "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:10:44.089Z",
+      "ended_at": "2026-11-13T08:10:50.891Z",
+      "results": {
+        "count": 40,
+        "match": true,
+        "past_preserved": 39
+      },
+      "tools": [
+        "daily_english_library.sync_english_articles",
+        "daily_english_library.read_english_archive"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:10:50.891Z",
+      "evidence": {
+        "count": 40,
+        "match": true,
+        "past_preserved": 39
+      },
+      "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:10:50.891Z",
+      "ended_at": "2026-11-13T08:11:46.710Z",
+      "results": {
+        "generated": true,
+        "chat_displayed": true,
+        "path": "generated_images/exec-505de91f-356c-4041-ab10-da63d39a5b5d.png"
+      },
+      "tools": [
+        "image_gen.imagegen"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:11:46.710Z",
+      "evidence": {
+        "generated": true,
+        "chat_displayed": true,
+        "path": "generated_images/exec-505de91f-356c-4041-ab10-da63d39a5b5d.png"
+      },
+      "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:11:46.710Z",
+      "ended_at": "2026-11-13T08:12:01.427Z",
+      "results": {
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 406434,
+        "sha256": "ae40675c96f8fedb5512c68943005697d4a24a46104554f1768ecc3c1266d435"
+      },
+      "tools": [
+        "exec_command",
+        "Pillow"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:12:01.427Z",
+      "evidence": {
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 406434,
+        "sha256": "ae40675c96f8fedb5512c68943005697d4a24a46104554f1768ecc3c1266d435"
+      },
+      "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:12:01.427Z",
+      "ended_at": "2026-11-13T08:12:11.448Z",
+      "results": {
+        "commit": "73274e82b47891ed317626dbc23146d4cf2eef57",
+        "tree": "e8d3d0ae13a387275f6500f413db72e180403ae2",
+        "articles": 40,
+        "past_preserved": 39,
+        "readback": true,
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 406434,
+        "sha256": "ae40675c96f8fedb5512c68943005697d4a24a46104554f1768ecc3c1266d435",
+        "blob_sha": "19f1dd37c462fa4729020015c91700d4b3649cdb",
+        "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-13-1700.jpg",
+        "bytes_match": true
+      },
+      "tools": [
+        "github.create_blob",
+        "github.create_tree",
+        "github.create_commit",
+        "github.update_ref",
+        "github.fetch_file"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:12:11.448Z",
+      "evidence": {
+        "commit": "73274e82b47891ed317626dbc23146d4cf2eef57",
+        "tree": "e8d3d0ae13a387275f6500f413db72e180403ae2",
+        "articles": 40,
+        "past_preserved": 39,
+        "readback": true,
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 406434,
+        "sha256": "ae40675c96f8fedb5512c68943005697d4a24a46104554f1768ecc3c1266d435",
+        "blob_sha": "19f1dd37c462fa4729020015c91700d4b3649cdb",
+        "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-13-1700.jpg",
+        "bytes_match": true
+      },
+      "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:12:26.153Z",
+      "ended_at": "2026-11-13T08:12:33.046Z",
+      "results": {
+        "count": 40,
+        "full_article_match": true,
+        "past_preserved": 39
+      },
+      "tools": [
+        "daily_english_library.sync_english_articles",
+        "daily_english_library.read_english_archive"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:12:33.046Z",
+      "evidence": {
+        "count": 40,
+        "full_article_match": true,
+        "past_preserved": 39
+      },
+      "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
-      "tools": [],
-      "errors": []
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:12:33.047Z",
+      "ended_at": "2026-11-13T08:13:13.195Z",
+      "results": {
+        "checks": [
+          {
+            "at": "2026-11-13T08:12:33.047Z",
+            "deployment": {
+              "id": 43391375096,
+              "status": "in_progress",
+              "head": "73274e82b47891ed317626dbc23146d4cf2eef57"
+            }
+          }
+        ],
+        "checked_at": "2026-11-13T08:13:13.195Z",
+        "deployment": {
+          "id": 43391375096,
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43391375096",
+          "head": "73274e82b47891ed317626dbc23146d4cf2eef57"
+        },
+        "public_page": {
+          "http_status": 200,
+          "count": 40,
+          "slot_count": 1,
+          "all_fields_match": true
+        },
+        "image": {
+          "http_status": 200,
+          "decoded": true,
+          "format": "JPEG",
+          "width": 1672,
+          "height": 941,
+          "bytes": 406434,
+          "sha256": "ae40675c96f8fedb5512c68943005697d4a24a46104554f1768ecc3c1266d435"
+        }
+      },
+      "tools": [
+        "github.fetch",
+        "exec_command",
+        "urllib.request",
+        "Pillow"
+      ],
+      "errors": [],
+      "finished_at": "2026-11-13T08:13:13.195Z",
+      "evidence": {
+        "checks": [
+          {
+            "at": "2026-11-13T08:12:33.047Z",
+            "deployment": {
+              "id": 43391375096,
+              "status": "in_progress",
+              "head": "73274e82b47891ed317626dbc23146d4cf2eef57"
+            }
+          }
+        ],
+        "checked_at": "2026-11-13T08:13:13.195Z",
+        "deployment": {
+          "id": 43391375096,
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43391375096",
+          "head": "73274e82b47891ed317626dbc23146d4cf2eef57"
+        },
+        "public_page": {
+          "http_status": 200,
+          "count": 40,
+          "slot_count": 1,
+          "all_fields_match": true
+        },
+        "image": {
+          "http_status": 200,
+          "decoded": true,
+          "format": "JPEG",
+          "width": 1672,
+          "height": 941,
+          "bytes": 406434,
+          "sha256": "ae40675c96f8fedb5512c68943005697d4a24a46104554f1768ecc3c1266d435"
+        }
+      },
+      "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "ended_at": null,
-      "results": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:13:13.196Z",
+      "ended_at": "2026-11-13T08:13:13.196Z",
+      "results": {
+        "english": true,
+        "translation": true,
+        "vocabulary": 5,
+        "stage_table": true,
+        "notification_delivery": "unknown"
+      },
       "tools": [],
-      "errors": []
+      "errors": [],
+      "finished_at": "2026-11-13T08:13:13.196Z",
+      "evidence": {
+        "english": true,
+        "translation": true,
+        "vocabulary": 5,
+        "stage_table": true,
+        "notification_delivery": "unknown"
+      },
+      "error": null
     }
   },
   "limitations": [
@@ -118,5 +410,25 @@
       "code": "ReferenceError",
       "summary": "crypto unavailable in orchestrator; generated UUID with Python before initial log"
     }
-  ]
+  ],
+  "last_completed_stage": "report",
+  "attempt_id": "5d44aca1-85af-4190-85a7-886cd8eaa62a",
+  "platform_run_id": null,
+  "invocation_kind": "scheduled",
+  "scheduled_for": null,
+  "finished_at": "2026-11-13T08:13:13.196Z",
+  "target": {
+    "date": "2026-11-13",
+    "slot": "17:00",
+    "resolution": "Nearest slot to provided 17:06:59 JST start within 45 minutes; scheduled timestamp unavailable"
+  },
+  "status": "completed",
+  "draft_path": "ops/posting-drafts/2026-11-13/1700/5d44aca1-85af-4190-85a7-886cd8eaa62a.json",
+  "logging_errors": [
+    {
+      "code": "ReferenceError",
+      "summary": "crypto unavailable in orchestrator; generated UUID with Python before initial log"
+    }
+  ],
+  "logging_policy": "Current user instruction: GitHub start and final only; stages tracked in execution memory. No intermediate log commits."
 }
