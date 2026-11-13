@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "execution_uuid": "5d44aca1-85af-4190-85a7-886cd8eaa62a",
+  "started_at": "2026-11-13T08:08:23.361Z",
+  "scheduled_run_id": null,
+  "stages": {
+    "resolve_slot": {
+      "status": "succeeded",
+      "started_at": "2026-11-13T08:08:23.361Z",
+      "ended_at": "2026-11-13T08:08:23.361Z",
+      "results": {
+        "date": "2026-11-13",
+        "slot": "17:00",
+        "basis": "Scheduled timestamp absent; nearest slot to provided start 17:06:59 JST within 45 minutes",
+        "days": 11,
+        "mod8": 3,
+        "category": "科学"
+      },
+      "tools": [],
+      "errors": []
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": {},
+      "tools": [],
+      "errors": []
+    }
+  },
+  "limitations": [
+    "Only start and final logs persisted to GitHub. Intermediate detail may be lost on interruption.",
+    "Failures before initial logging are not captured; absence of logs does not establish absence of generation."
+  ],
+  "notification_delivery": "unknown",
+  "bootstrap_errors": [
+    {
+      "code": "ReferenceError",
+      "summary": "crypto unavailable in orchestrator; generated UUID with Python before initial log"
+    }
+  ]
+}
