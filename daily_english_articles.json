@@ -2,6 +2,42 @@
   {
     "date": "2026-11-13",
     "category": "科学",
+    "title": "[17:00] The Cold Handle in a Warm Room",
+    "ja_title": "暖かい部屋の冷たい取っ手",
+    "en": "Before an evening meeting at the community center, Emi moves some chairs beside a wooden table. The room is comfortable, but a metal chair leg feels surprisingly cold. She touches the table, which feels warmer. “Someone must have brought these chairs in from outside,” she tells her friend Leo. He looks at the stack of chairs in the corner. “They have been here all afternoon,” he says.\n\nEmi has made a reasonable guess, but her hand has not measured temperature directly. It has responded to an exchange of energy. If the metal and wood have remained in the same room long enough, away from sunlight and heaters, they can be at nearly the same temperature. Yet they may feel quite different.\n\nThe reason involves conduction, the transfer of energy through direct contact. Emi's hand is warmer than the chair leg. When she touches it, energy flows from her hand into the metal. Metal carries that energy away from the point of contact relatively quickly, so her skin cools quickly. Wood transfers energy more slowly. Her hand therefore loses energy less rapidly when she touches the table.\n\nLeo suggests checking their explanation. They ask the center's caretaker, who brings a contact thermometer. After allowing each reading to settle, they find that the chair leg and tabletop have similar temperatures. The measurements do not mean that Emi imagined the cold feeling. Her feeling was real; her first explanation for it needed revision.\n\nThis distinction matters beyond a community room. A metal handle can feel colder than a wooden door even when both have spent the night indoors. In a warmer situation, a metal spoon left in hot soup can become uncomfortable to hold because energy travels along it. The same ability to transfer energy helps explain both experiences. Metal does not simply possess a special supply of cold.\n\nEmi and Leo are invented characters, but the puzzle can be explored with ordinary objects at room temperature. There is no need to touch anything extremely hot or cold. Compare a metal object with a wooden one that has been nearby for several hours. Predict what a thermometer would show before checking.\n\nWhen the meeting begins, Emi chooses a chair and opens her notebook. She writes down two questions: “What did I notice?” and “What did I conclude?” They are easy to confuse. Her hand gave her useful information about how quickly energy was leaving her skin. Understanding that information required a second question, and a different kind of measurement.",
+    "ja": "公民館での夕方の会合の前に、エミは木のテーブルのそばに椅子を運んでいます。部屋は快適ですが、金属製の椅子の脚に触れると、驚くほど冷たく感じます。テーブルに触れると、そちらは暖かく感じます。「誰かが外から椅子を運び込んだに違いない」と友人のレオに言います。レオは隅に積まれた椅子を見ます。「午後からずっとここにあったよ」と答えます。\n\nエミの推測にはもっともなところがありますが、手は温度を直接測ったわけではありません。エネルギーのやり取りに反応したのです。金属と木が、日光や暖房器具から離れた同じ部屋に十分長く置かれていれば、ほぼ同じ温度になることがあります。それでも、触った感じは大きく違うかもしれません。\n\n理由に関わるのは熱伝導、つまり直接の接触によるエネルギーの移動です。エミの手は椅子の脚よりも温かくなっています。触れると、エネルギーは手から金属へ流れます。金属は接触した場所から比較的速くエネルギーを運び去るため、皮膚は速く冷えます。木はもっとゆっくりエネルギーを伝えます。そのため、テーブルに触れたときには、手からエネルギーが失われる速さも小さくなります。\n\nレオは、説明が正しいか確かめようと提案します。二人が公民館の管理人に尋ねると、接触式の温度計を持ってきてくれます。それぞれの表示が安定するまで待つと、椅子の脚とテーブルの天板は似た温度でした。この測定結果は、エミが冷たさを空想したという意味ではありません。感覚は本物で、その最初の説明を修正する必要があったのです。\n\nこの区別は公民館の外でも役立ちます。金属製の取っ手は、木のドアと一晩中屋内にあったとしても、ドアより冷たく感じることがあります。もっと温かい状況では、熱いスープに入れたままの金属のスプーンが、エネルギーが柄に沿って伝わるために、持つとつらいほど熱くなることがあります。同じエネルギーの伝えやすさが、両方の経験を説明する手がかりになります。金属が特別な「冷たさ」を蓄えているわけではありません。\n\nエミとレオは創作の人物ですが、この疑問は室温の日用品で調べられます。極端に熱い物や冷たい物に触れる必要はありません。数時間近くに置いてあった金属の物と木の物を比べてみてください。確かめる前に、温度計が何を示すか予想してみましょう。\n\n会合が始まると、エミは椅子を選び、ノートを開きます。「何に気づいたか」「どんな結論を出したか」という二つの問いを書きます。二つは混同しやすいものです。手は、皮膚からどれほど速くエネルギーが失われていたかについて、役立つ情報を与えていました。その情報を理解するには、もう一つの問いと、別の種類の測定が必要だったのです。",
+    "vocab": [
+      [
+        "direct contact",
+        "直接の接触",
+        "Energy can move through direct contact."
+      ],
+      [
+        "relatively quickly",
+        "比較的速く",
+        "Metal transfers energy relatively quickly."
+      ],
+      [
+        "allow a reading to settle",
+        "測定値が安定するのを待つ",
+        "Allow the reading to settle before writing it down."
+      ],
+      [
+        "need revision",
+        "修正を必要とする",
+        "Our first explanation may need revision."
+      ],
+      [
+        "distinction",
+        "区別、違い",
+        "The distinction between feeling and temperature is useful."
+      ]
+    ],
+    "is_preview": false
+  },
+  {
+    "date": "2026-11-13",
+    "category": "科学",
     "title": "[12:00] The Music at the Edge of a Desk",
     "ja_title": "机の縁から聞こえる音楽",
     "en": "Mika is waiting for the art club to begin when she notices a plastic ruler on her desk. She holds one end against the desk and lets the other end hang over the edge. When she gently pulls down the free end and releases it, the ruler makes a low sound. Her friend Jun looks up. “Can you play a song with that?” he asks.\n\nMika tries again, but this time less of the ruler hangs over the edge. The sound is higher. She has not changed the ruler or the desk. She has changed the length of the part that can move. The two friends decide to find out whether the same thing happens each time.\n\nSound begins with vibration: a movement back and forth. The moving ruler pushes and pulls on the air beside it, creating changes in air pressure. These changes travel through the air as sound waves. When they reach our ears, they make our eardrums vibrate. Our hearing system turns that movement into signals that the brain can understand.\n\nThe number of vibrations in one second is called frequency. A faster vibration produces a higher pitch, while a slower vibration produces a lower pitch. In Mika's experiment, the shorter free section of the ruler vibrates faster. The longer section vibrates more slowly. This explains the difference she hears.\n\nJun suggests pulling the ruler down farther to make a higher note. Mika tries a small change, without bending it too much. The sound becomes louder, but its pitch stays nearly the same. A bigger movement and a faster movement are different things. Loudness and pitch are two different features of sound.\n\nTo compare their results fairly, they keep the ruler and desk the same and hold the ruler firmly each time. They change only the length that hangs over the edge. Jun writes down which lengths produce higher or lower sounds. Their notes will help them check the pattern instead of depending only on memory.\n\nMika and Jun are imaginary students, but you can investigate the same question with a suitable ruler and an adult's help if needed. Keep the movement gentle and your face away from the free end. You may not manage a song, but you can listen for a pattern. A ruler usually helps us measure something we can see. For a few minutes, it can also help us explore something we hear. The desk becomes a small place for testing an idea.",
