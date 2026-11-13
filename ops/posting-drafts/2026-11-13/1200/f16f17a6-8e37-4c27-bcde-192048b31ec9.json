@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-13",
+  "category": "科学",
+  "title": "[12:00] The Music at the Edge of a Desk",
+  "ja_title": "机の縁から聞こえる音楽",
+  "en": "Mika is waiting for the art club to begin when she notices a plastic ruler on her desk. She holds one end against the desk and lets the other end hang over the edge. When she gently pulls down the free end and releases it, the ruler makes a low sound. Her friend Jun looks up. “Can you play a song with that?” he asks.\n\nMika tries again, but this time less of the ruler hangs over the edge. The sound is higher. She has not changed the ruler or the desk. She has changed the length of the part that can move. The two friends decide to find out whether the same thing happens each time.\n\nSound begins with vibration: a movement back and forth. The moving ruler pushes and pulls on the air beside it, creating changes in air pressure. These changes travel through the air as sound waves. When they reach our ears, they make our eardrums vibrate. Our hearing system turns that movement into signals that the brain can understand.\n\nThe number of vibrations in one second is called frequency. A faster vibration produces a higher pitch, while a slower vibration produces a lower pitch. In Mika's experiment, the shorter free section of the ruler vibrates faster. The longer section vibrates more slowly. This explains the difference she hears.\n\nJun suggests pulling the ruler down farther to make a higher note. Mika tries a small change, without bending it too much. The sound becomes louder, but its pitch stays nearly the same. A bigger movement and a faster movement are different things. Loudness and pitch are two different features of sound.\n\nTo compare their results fairly, they keep the ruler and desk the same and hold the ruler firmly each time. They change only the length that hangs over the edge. Jun writes down which lengths produce higher or lower sounds. Their notes will help them check the pattern instead of depending only on memory.\n\nMika and Jun are imaginary students, but you can investigate the same question with a suitable ruler and an adult's help if needed. Keep the movement gentle and your face away from the free end. You may not manage a song, but you can listen for a pattern. A ruler usually helps us measure something we can see. For a few minutes, it can also help us explore something we hear. The desk becomes a small place for testing an idea.",
+  "ja": "美術部が始まるのを待っているミカは、机の上のプラスチック製の定規に気づきます。片方の端を机に押さえ、もう一方の端を机の縁からはみ出させます。自由に動く端をそっと下に引いて放すと、定規から低い音が出ます。友人のジュンが顔を上げます。「それで曲が弾ける？」と聞きます。\n\nミカはもう一度試します。ただし、今度は机からはみ出す部分を短くします。音は高くなります。定規も机も変えていません。変えたのは、動くことができる部分の長さです。二人は、毎回同じことが起きるのか調べることにします。\n\n音は振動、つまり行ったり来たりする動きから始まります。動いている定規はそばの空気を押したり引いたりして、空気の圧力に変化を生みます。この変化は音波として空気中を伝わります。耳に届くと、鼓膜を振動させます。聴覚の仕組みがその動きを、脳が理解できる信号に変えます。\n\n一秒間の振動の回数を周波数といいます。振動が速いと高い音に、遅いと低い音になります。ミカの実験では、定規の自由に動く部分が短いほど速く振動します。長い部分は、よりゆっくり振動します。これで、聞こえる音の違いを説明できます。\n\nジュンは、もっと高い音を出すために定規をさらに下に引いてみようと提案します。ミカは曲げすぎないように、少しだけ変えて試します。音は大きくなりますが、高さはほぼ同じです。大きな動きと速い動きは別のものです。音の大きさと高さは、音の二つの異なる特徴なのです。\n\n結果を公平に比較するため、二人は同じ定規と机を使い、毎回定規をしっかり押さえます。変えるのは、机からはみ出す部分の長さだけです。ジュンは、どの長さで高い音や低い音が出るかを書き留めます。この記録があれば、記憶だけに頼らずに規則性を確かめられます。\n\nミカとジュンは架空の生徒ですが、適した定規を使い、必要なら大人に手伝ってもらって、同じ疑問を調べられます。動きは小さくし、自由に動く端に顔を近づけないでください。曲を弾けないかもしれませんが、音の規則性を聞き取ることはできます。定規はふつう、目に見えるものを測るのに役立ちます。けれども、ほんの数分間、耳で聞くものを調べる助けにもなるのです。机が、考えを試す小さな場所に変わります。",
+  "vocab": [
+    [
+      "hang over the edge",
+      "縁からはみ出す",
+      "Let part of the ruler hang over the edge."
+    ],
+    [
+      "back and forth",
+      "行ったり来たり、前後に",
+      "The ruler moved back and forth."
+    ],
+    [
+      "pitch",
+      "音の高さ",
+      "A shorter ruler section produces a higher pitch."
+    ],
+    [
+      "hold firmly",
+      "しっかり押さえる、持つ",
+      "Hold the ruler firmly against the desk."
+    ],
+    [
+      "depend on",
+      "〜に頼る",
+      "We should not depend only on memory."
+    ]
+  ],
+  "is_preview": false
+}
