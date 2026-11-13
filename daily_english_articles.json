@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-11-14",
+    "category": "AI・テクノロジー",
+    "title": "[07:00] A Picture You Can Hear",
+    "ja_title": "耳で聞ける写真",
+    "en": "On Saturday morning, Nao helps her school garden club make a small website. She chooses a photograph from last week's work. In it, her friend Ken holds a basket of carrots. There is soil on his hands, and everyone is smiling. Nao puts the photograph above a short report. The page looks ready.\n\nHer older sister, Mari, comes into the room. She asks, “What will someone learn from this picture if they cannot see it?” Nao looks at the screen. The report says that the club worked in the garden, but it does not mention the carrots. Something is missing.\n\nMari explains that some people use a screen reader. This is a tool that reads information on a screen aloud. A website can include a short written description for an important picture. The tool can read that description. People often call it “alt text.” These words help share information that the picture gives.\n\nNao tries writing, “A nice picture.” Then she stops. Those words do not explain what happened. She changes them to, “Ken holds a basket of carrots from the school garden.” Now a reader can learn something useful without seeing the photograph. The description does not need to tell every small detail.\n\nMari asks Nao to close her eyes while she reads the page aloud. This is only a simple check. It does not show Nao everything about using a screen reader. Still, Nao notices that the photograph adds important news: the club has grown food that students can take home.\n\nNext, Nao looks at a small drawing of a leaf beside the report. It is only there to make the page look pretty. Mari explains that a picture used only for decoration can have empty alt text. Then a screen reader does not need to read a useless description. The job of each picture matters.\n\nBefore lunch, Ken comes to check the website. Nao shows him the photograph and reads her new sentence. “You forgot my dirty hands,” he says with a laugh. “I saw them,” she answers. “But the carrots are the important part of this report.”\n\nNao, Mari, and Ken are imaginary people, but their website question is real. When we share a picture, we can ask what it tells the reader. A few clear words can open another way to receive that information. Nao still likes her colorful page. Now she also thinks about how it sounds.",
+    "ja": "土曜日の朝、ナオは学校の園芸部が小さなウェブサイトを作るのを手伝っています。先週の作業の写真を選びます。写真の中では、友人のケンがニンジンの入ったかごを持っています。手には土がつき、みんな笑顔です。ナオは短い活動報告の上に写真を置きます。ページは完成したように見えます。\n\n姉のマリが部屋に入ってきます。「この写真が見えない人は、そこから何がわかるかな？」と尋ねます。ナオは画面を見ます。報告には、部員たちが畑で作業したと書いてありますが、ニンジンのことは出てきません。何かが足りません。\n\nマリは、スクリーンリーダーを使う人もいると説明します。これは画面上の情報を声に出して読む道具です。ウェブサイトでは、重要な画像に短い文章の説明をつけられます。その道具は説明を読み上げられます。この文章はよく「代替テキスト」と呼ばれます。写真が伝える情報を共有するのに役立ちます。\n\nナオは「すてきな写真」と書いてみます。それから手を止めます。その言葉では何が起きたのかわかりません。「ケンが学校の畑で採れたニンジンのかごを持っている」に変えます。これなら、写真を見なくても役立つことがわかります。説明に細かなことをすべて書く必要はありません。\n\nマリは、ページを声に出して読む間、ナオに目を閉じてもらいます。これは簡単な確認にすぎません。スクリーンリーダーを使うことのすべてがわかるわけではありません。それでもナオは、写真が大事な知らせを加えていることに気づきます。部員たちが、家に持ち帰れる食べ物を育てたのです。\n\n次に、ナオは報告の横にある小さな葉の絵を見ます。ページをきれいに見せるためだけに置かれています。マリは、飾りだけに使う画像には、空の代替テキストを設定できると説明します。そうすれば、スクリーンリーダーが役立たない説明を読む必要はありません。それぞれの画像の役割が大切なのです。\n\n昼食の前、ケンがウェブサイトを確認しに来ます。ナオは写真を見せ、新しい文を読みます。「ぼくの汚れた手を忘れているよ」と、ケンは笑いながら言います。「ちゃんと見たよ」とナオ。「でも、この報告で大切なのはニンジンなんだ。」\n\nナオ、マリ、ケンは架空の人物ですが、ウェブサイトについての問いは現実のものです。写真を共有するとき、それが読み手に何を伝えるか考えられます。いくつかのわかりやすい言葉が、その情報を受け取る別の道を開きます。ナオは今も色鮮やかなページが気に入っています。今では、そのページがどう聞こえるかも考えています。",
+    "vocab": [
+      [
+        "aloud",
+        "声に出して",
+        "Please read this sentence aloud."
+      ],
+      [
+        "description",
+        "説明、描写",
+        "Write a short description of the picture."
+      ],
+      [
+        "without doing",
+        "〜せずに",
+        "He understood the news without seeing the photograph."
+      ],
+      [
+        "take home",
+        "家に持ち帰る",
+        "We can take these carrots home."
+      ],
+      [
+        "make sure",
+        "確かめる",
+        "Make sure the words are clear."
+      ]
+    ],
+    "is_preview": false
+  },
+  {
     "date": "2026-11-13",
     "category": "科学",
     "title": "[17:00] The Cold Handle in a Warm Room",
