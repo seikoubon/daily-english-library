@@ -1,0 +1,109 @@
+{
+  "uuid": "f16f17a6-8e37-4c27-bcde-192048b31ec9",
+  "provided_run_id": null,
+  "date": "2026-11-13",
+  "slot": "12:00",
+  "started_at": "2026-11-13T02:59:27.114Z",
+  "status": "started",
+  "limitations": "Intermediate details are held in memory; interruption may leave only this start log. Stops before initial log are not captured. No log does not prove text was not generated.",
+  "stages": {
+    "resolve_slot": {
+      "status": "succeeded",
+      "started_at": "2026-11-13T02:59:27.114Z",
+      "ended_at": "2026-11-13T02:59:27.115Z",
+      "results": [
+        "Scheduled timestamp not provided; runtime start 2026-11-13 11:58:17 JST is within 45 minutes of 12:00. day offset 11, mod8=3, science, Eiken pre-2."
+      ],
+      "tools": [],
+      "errors": []
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "ended_at": null,
+      "results": [],
+      "tools": [],
+      "errors": []
+    }
+  }
+}
