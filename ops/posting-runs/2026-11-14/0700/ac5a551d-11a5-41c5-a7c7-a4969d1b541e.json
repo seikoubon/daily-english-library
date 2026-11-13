@@ -5,100 +5,248 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-13T22:04:21.068Z",
-  "finished_at": null,
+  "finished_at": "2026-11-13T22:09:22.654Z",
   "target": {
     "date": "2026-11-14",
     "slot": "07:00",
     "resolution": "予定日時の値が未提供。開始07:03 JSTから45分以内の最寄り枠。日差12、mod8=4、AI・テクノロジー。"
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "completed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:04:21.068Z",
+      "finished_at": "2026-11-13T22:04:30.075Z",
+      "evidence": {
+        "date": "2026-11-14",
+        "slot": "07:00",
+        "resolution": "予定日時の値が未提供。開始07:03 JSTから45分以内の最寄り枠。日差12、mod8=4、AI・テクノロジー。"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:04:30.075Z",
+      "finished_at": "2026-11-13T22:04:57.731Z",
+      "evidence": {
+        "github_count": 40,
+        "owner_count": 40,
+        "target_exists": false,
+        "tools": [
+          "github_fetch_file",
+          "read_english_archive"
+        ],
+        "spec": "Read; explicit user instruction overrides per-stage GitHub commits."
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:04:57.733Z",
+      "finished_at": "2026-11-13T22:05:37.223Z",
+      "evidence": {
+        "mode": "generated",
+        "word_count": 403,
+        "has_translation": true,
+        "vocabulary_count": 5,
+        "source": "https://www.w3.org/WAI/tutorials/images/",
+        "fiction": true
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:05:37.223Z",
+      "finished_at": "2026-11-13T22:05:45.664Z",
+      "evidence": {
+        "readback_equal": true,
+        "tool": "github_create_file/github_fetch_file"
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:05:45.664Z",
+      "finished_at": "2026-11-13T22:06:18.390Z",
+      "evidence": {
+        "commit": "2f314cf8c301b6c111d90241e4293106d8fa02af",
+        "all_three_files_equal": true,
+        "count": 41,
+        "past_preserved": 40,
+        "tools": [
+          "create_tree",
+          "create_commit",
+          "update_ref",
+          "fetch_file"
+        ],
+        "recovered_argument_errors": [
+          "create_tree missing tree_elements",
+          "update_ref missing branch_name"
+        ]
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:06:18.390Z",
+      "finished_at": "2026-11-13T22:06:35.326Z",
+      "evidence": {
+        "equal": true,
+        "preserved": true,
+        "count": 41,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:06:35.326Z",
+      "finished_at": "2026-11-13T22:07:31.324Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "generated": 1,
+        "chat_displayed": true,
+        "local_file_available": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:07:31.324Z",
+      "finished_at": "2026-11-13T22:07:42.973Z",
+      "evidence": {
+        "tool": "exec_command/Pillow",
+        "format": "JPEG",
+        "width": 1672,
+        "height": 941,
+        "bytes": 473413,
+        "sha256": "b66e0edbaaf134896286887e58f49fa569d567bb025824c6477ef35fb2996e81"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:07:42.973Z",
+      "finished_at": "2026-11-13T22:08:15.660Z",
+      "evidence": {
+        "commit": "edefebe2b4dd1ed03fa3e07f52ede1873b3ace67",
+        "three_files_equal": true,
+        "image_blob": "dd142c7be3b1cb8143cc2680aca556a422e712b7",
+        "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-14-0700.jpg",
+        "tool": "create_blob/create_tree/create_commit/update_ref/fetch_file",
+        "image_readback": {
+          "method": "public HTTPS byte SHA256 comparison",
+          "equal": true,
+          "blob_fetch_error": {
+            "error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte",
+            "error_code": "UNKNOWN"
+          }
+        }
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:08:15.660Z",
+      "finished_at": "2026-11-13T22:08:31.740Z",
+      "evidence": {
+        "equal": true,
+        "preserved": true,
+        "count": 41,
+        "tool": "sync_english_articles/read_english_archive"
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:08:31.740Z",
+      "finished_at": "2026-11-13T22:09:22.654Z",
+      "evidence": {
+        "checked_at": "2026-11-13T22:09:10.107Z",
+        "tool": "exec_command/urllib/Pillow; github_fetch",
+        "html": {
+          "http": 200,
+          "articles": 41,
+          "all_fields_equal": true,
+          "target_count": 1
+        },
+        "image": {
+          "http": 200,
+          "decoded": true,
+          "format": "JPEG",
+          "size": [
+            1672,
+            941
+          ],
+          "bytes": 473413,
+          "sha256_equal": true
+        },
+        "workflow_query": {
+          "tool": "fetch_commit_workflow_runs",
+          "runs": [],
+          "note": "Empty result does not establish deployment failure."
+        },
+        "deployment": {
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43516730819",
+          "sha": "edefebe2b4dd1ed03fa3e07f52ede1873b3ace67"
+        }
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-13T22:09:22.654Z",
+      "finished_at": "2026-11-13T22:09:22.654Z",
+      "evidence": {
+        "prepared": [
+          "English 403 words",
+          "full Japanese translation",
+          "five expressions",
+          "stage results",
+          "log and draft links"
+        ],
+        "notification_delivery": "unknown",
+        "tool": "assistant final response"
+      },
       "error": null
     }
   },
   "draft_path": "ops/posting-drafts/2026-11-14/0700/ac5a551d-11a5-41c5-a7c7-a4969d1b541e.json",
-  "logging_errors": []
+  "logging_errors": [],
+  "logging_policy": "GitHub start and final only; intermediate stage updates held in execution memory. A stop before final save may leave only start record. A stop before first save is not captured.",
+  "recovered_errors": [
+    {
+      "tool": "github_search_branches",
+      "code": "INVALID_ARGUMENT",
+      "message": "Missing owner/repo_name; corrected."
+    },
+    {
+      "tool": "github_create_tree",
+      "code": "INVALID_ARGUMENT",
+      "message": "Missing tree_elements; corrected."
+    },
+    {
+      "tool": "github_update_ref",
+      "code": "INVALID_ARGUMENT",
+      "message": "Missing branch_name; corrected."
+    },
+    {
+      "tool": "github_fetch_blob",
+      "code": "INVALID_ARGUMENT",
+      "message": "Missing blob_sha; corrected."
+    },
+    {
+      "tool": "github_fetch_blob",
+      "code": "UNKNOWN",
+      "message": "UnicodeDecodeError for JPEG; verified full image bytes via public HTTPS SHA256."
+    },
+    {
+      "tool": "github_fetch_commit_workflow_runs",
+      "code": "INVALID_ARGUMENT",
+      "message": "Missing repo_full_name/commit_sha; corrected; filtered endpoint returned empty; actions runs endpoint confirmed success."
+    }
+  ]
 }
