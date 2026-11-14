@@ -2,6 +2,42 @@
   {
     "date": "2026-11-14",
     "category": "AI・テクノロジー",
+    "title": "[12:00] The Message That Could Wait",
+    "ja_title": "待ってもよかったメッセージ",
+    "en": "Yui is packing her bag for a swimming lesson when her phone makes a sound. A message says that a delivery company could not bring her package. It asks her to confirm her address within thirty minutes. There is a link below the message. Yui is waiting for a new notebook, so the message seems to make sense.\n\nShe puts one shoe on and reaches for her phone. Her brother Toma notices her worried face. “Do you know that this message is really from the company?” he asks. “It knows I am waiting for something,” she replies. Then she thinks again. The message does not name her notebook or the shop.\n\nToma explains that a false message can describe a situation that happens to many people. Someone waiting for a package may feel that the message is personal. A short deadline can make that person act before checking. This kind of trick is often called phishing. It may lead people to share information with someone they do not trust.\n\nYui decides to check through another route. She does not use the link or the contact details in the message. Instead, she opens the shopping app she used to buy the notebook. Her order page says that the package will arrive on Monday. Today is Saturday. She also checks the delivery information provided there.\n\nThe two sets of information do not agree. Yui reports the suspicious message using her phone's reporting option, then deletes it. She has not proved who sent it, but she has found no reason to follow its instructions. Her notebook can wait until Monday, and her swimming lesson cannot.\n\nThat evening, Toma asks what made the message convincing. Yui says it was the timing. She already expected a delivery, and she was too busy to read carefully. Neither a strange spelling mistake nor an obvious threat had been necessary. The message had borrowed an ordinary worry from her day.\n\nYui and Toma are invented characters. Their experience suggests a useful habit: when a message demands quick action, check the request through a route you already know. If necessary, contact the company using a familiar app or a trusted website. Do not let the message choose the only way you can check it.\n\nYui writes this idea on a card near her desk. She wants to remember it when she is busy, not only when she is calm. A short pause can give her time to choose her next step.",
+    "ja": "水泳教室へ行くためにかばんを準備していると、ユイの電話が鳴ります。配送会社が荷物を届けられなかったというメッセージです。30分以内に住所を確認するよう求めています。メッセージの下にはリンクがあります。ユイは新しいノートを待っているので、つじつまが合うように感じます。\n\n片方の靴を履き、電話に手を伸ばします。兄のトウマが心配そうな顔に気づきます。「本当にその会社から来たメッセージだとわかる？」と尋ねます。「私が何かを待っているって知っているもの」と答えます。それから考え直します。メッセージには、ノートの名前も店の名前も書かれていません。\n\nトウマは、偽のメッセージでも、多くの人に起こる状況を書けると説明します。荷物を待っている人は、自分に向けたメッセージだと感じるかもしれません。短い期限があると、確認する前に行動してしまうことがあります。このような手口はよくフィッシングと呼ばれます。信頼していない相手に情報を渡してしまうきっかけになることがあります。\n\nユイは別の経路で確認することにします。メッセージのリンクも連絡先も使いません。代わりに、ノートを買ったときの買い物アプリを開きます。注文ページには、月曜日に荷物が届くと書いてあります。今日は土曜日です。そこに載っている配送情報も確認します。\n\n二つの情報は一致しません。ユイは電話の報告機能で不審なメッセージを報告し、削除します。誰が送ったかを証明したわけではありませんが、指示に従う理由は見つかりませんでした。ノートは月曜日まで待てますが、水泳教室は待ってくれません。\n\nその晩、トウマは、何がそのメッセージを信じられそうにしたのか尋ねます。ユイはタイミングだったと答えます。すでに配達を待っていて、忙しすぎて注意深く読めなかったのです。不自然なつづり間違いも、露骨な脅しも必要ありませんでした。メッセージは、その日のありふれた心配事を借りていたのです。\n\nユイとトウマは創作の人物です。二人の経験から、役立つ習慣が考えられます。メッセージが素早い行動を求めるときは、すでに知っている経路で要求を確かめましょう。必要なら、いつも使うアプリや信頼できるウェブサイトから会社に連絡します。確認する唯一の方法を、そのメッセージに決めさせないことです。\n\nユイは机の近くのカードに、この考えを書きます。落ち着いているときだけでなく、忙しいときに思い出したいのです。少し立ち止まれば、次の行動を選ぶ時間ができます。",
+    "vocab": [
+      [
+        "confirm",
+        "確認する",
+        "Please confirm the delivery date."
+      ],
+      [
+        "make sense",
+        "つじつまが合う、納得できる",
+        "Her explanation makes sense."
+      ],
+      [
+        "through another route",
+        "別の経路で",
+        "We checked the news through another route."
+      ],
+      [
+        "convincing",
+        "信じられそうな、説得力のある",
+        "The message sounded convincing."
+      ],
+      [
+        "a short pause",
+        "少しの間、短い中断",
+        "A short pause helped her think clearly."
+      ]
+    ],
+    "is_preview": false
+  },
+  {
+    "date": "2026-11-14",
+    "category": "AI・テクノロジー",
     "title": "[07:00] A Picture You Can Hear",
     "ja_title": "耳で聞ける写真",
     "en": "On Saturday morning, Nao helps her school garden club make a small website. She chooses a photograph from last week's work. In it, her friend Ken holds a basket of carrots. There is soil on his hands, and everyone is smiling. Nao puts the photograph above a short report. The page looks ready.\n\nHer older sister, Mari, comes into the room. She asks, “What will someone learn from this picture if they cannot see it?” Nao looks at the screen. The report says that the club worked in the garden, but it does not mention the carrots. Something is missing.\n\nMari explains that some people use a screen reader. This is a tool that reads information on a screen aloud. A website can include a short written description for an important picture. The tool can read that description. People often call it “alt text.” These words help share information that the picture gives.\n\nNao tries writing, “A nice picture.” Then she stops. Those words do not explain what happened. She changes them to, “Ken holds a basket of carrots from the school garden.” Now a reader can learn something useful without seeing the photograph. The description does not need to tell every small detail.\n\nMari asks Nao to close her eyes while she reads the page aloud. This is only a simple check. It does not show Nao everything about using a screen reader. Still, Nao notices that the photograph adds important news: the club has grown food that students can take home.\n\nNext, Nao looks at a small drawing of a leaf beside the report. It is only there to make the page look pretty. Mari explains that a picture used only for decoration can have empty alt text. Then a screen reader does not need to read a useless description. The job of each picture matters.\n\nBefore lunch, Ken comes to check the website. Nao shows him the photograph and reads her new sentence. “You forgot my dirty hands,” he says with a laugh. “I saw them,” she answers. “But the carrots are the important part of this report.”\n\nNao, Mari, and Ken are imaginary people, but their website question is real. When we share a picture, we can ask what it tells the reader. A few clear words can open another way to receive that information. Nao still likes her colorful page. Now she also thinks about how it sounds.",
