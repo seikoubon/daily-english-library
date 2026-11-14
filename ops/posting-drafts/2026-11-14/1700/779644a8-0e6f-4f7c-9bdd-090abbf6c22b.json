@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-14",
+  "category": "AI・テクノロジー",
+  "title": "[17:00] The Computer That Missed Its Break",
+  "ja_title": "休憩を逃したパソコン",
+  "en": "At the community center, Aki helps prepare a poster for a weekend concert. Before lunch, she leaves the computer showing a colorful pattern that moves across the screen. When she returns, the pattern is still moving. “At least it has been saving electricity,” she tells the volunteer beside her. He asks whether she has checked the power settings.\n\nAki has confused a screen saver with an energy-saving feature. A screen saver changes what appears on the display, but it is not a substitute for putting the computer and monitor into a low-power state. A moving picture can look peaceful while the equipment continues working.\n\nThey open the settings together. The computer can turn off its display after a period without input, and it can also enter sleep mode. These are separate choices. A dark screen does not, by itself, prove that the whole computer is asleep. Aki realizes that she has been judging its activity mainly by what she could see.\n\nThe volunteer suggests choosing settings that suit the center's work. A computer used for short writing sessions may be able to sleep during longer breaks. Another machine might need to remain awake for a planned task. The useful question is not simply, “Which setting saves the most?” It is also, “What must this machine keep doing?”\n\nBefore changing anything, they ask the staff member responsible for the computer. She checks that no important task needs to continue during lunch. Aki saves the poster, and they adjust the display and sleep settings. Later, they test whether the computer enters the expected state and wakes when needed. They do not assume that selecting an option guarantees the result.\n\nThe change does not make their electricity use disappear. Sleep mode still uses some power, and the amount saved depends on the equipment and how long it would otherwise remain active. They have not measured a month's savings, so they do not attach an impressive number to their afternoon.\n\nAki and the other volunteers are imaginary, but the distinction between screen savers and power management is real. Technology often offers useful settings that remain unnoticed because the familiar screen already seems to work.\n\nWhen the concert poster is finished, Aki looks around the room. The lights, chairs, and windows all suggest small decisions about how the space is used. The computer belongs in that conversation too. Improving a tool does not always require replacing it. Sometimes it begins with understanding when the tool can take a break.",
+  "ja": "公民館で、アキは週末の演奏会のポスター作りを手伝っています。昼食前、画面いっぱいに色鮮やかな模様が動く状態でパソコンを離れます。戻ってくると、模様はまだ動いています。「少なくとも節電にはなっていたね」と、隣のボランティアに言います。彼は電源設定を確認したか尋ねます。\n\nアキはスクリーンセーバーを省エネ機能と混同していました。スクリーンセーバーは画面に表示されるものを変えますが、パソコンとモニターを低消費電力の状態にする代わりにはなりません。動く映像は穏やかに見えても、機器は動き続けていることがあります。\n\n二人は一緒に設定を開きます。パソコンは、操作がない状態が一定時間続くと画面を消すことも、スリープ状態に入ることもできます。これらは別の選択です。画面が暗いだけでは、パソコン全体がスリープしている証拠にはなりません。アキは、主に目に見えるものから動作状態を判断していたことに気づきます。\n\nボランティアは、公民館の仕事に合う設定を選ぼうと提案します。短い文章作成に使うパソコンなら、長めの休憩中はスリープできるかもしれません。別の機械は、予定された処理のために動き続ける必要があるかもしれません。役立つ問いは、単に「どの設定がいちばん節約になるか」ではありません。「この機械は何を続ける必要があるか」でもあるのです。\n\n何かを変える前に、二人はパソコンを管理する職員に尋ねます。職員は、昼食中も続けなければならない重要な処理がないことを確かめます。アキはポスターを保存し、二人で画面とスリープの設定を調整します。その後、パソコンが想定した状態に入り、必要なときに復帰するか試します。項目を選べば必ずそのとおりになるとは思い込みません。\n\nこの変更で電力消費がなくなるわけではありません。スリープ中もいくらか電力を使いますし、節約できる量は機器や、変更しなければどれほど長く動作していたかによって異なります。一か月分の節約量を測ったわけではないので、その午後の作業に大きな数字をつけることはしません。\n\nアキたちボランティアは架空の人物ですが、スクリーンセーバーと電源管理の違いは現実のものです。テクノロジーには、見慣れた画面で問題なく使えているように思うため、気づかれないままの便利な設定がよくあります。\n\n演奏会のポスターが完成すると、アキは部屋を見回します。照明、椅子、窓のどれもが、空間の使い方についての小さな判断を思い起こさせます。パソコンもその話し合いに加えるべきものです。道具を改善するために、いつも買い替えが必要なわけではありません。ときには、その道具がいつ休憩できるか理解することから始まります。",
+  "vocab": [
+    [
+      "a substitute for",
+      "〜の代わりになるもの",
+      "A screen saver is not a substitute for sleep mode."
+    ],
+    [
+      "by itself",
+      "それだけで、単独で",
+      "A dark screen by itself does not explain everything."
+    ],
+    [
+      "remain active",
+      "動作し続ける",
+      "This computer must remain active during the test."
+    ],
+    [
+      "guarantee the result",
+      "結果を保証する",
+      "Changing one setting does not guarantee the result."
+    ],
+    [
+      "power management",
+      "電源管理",
+      "Check the power management settings before leaving."
+    ]
+  ],
+  "is_preview": false
+}
