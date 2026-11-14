@@ -5,97 +5,205 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-14T07:59:46.845Z",
-  "finished_at": null,
+  "finished_at": "2026-11-14T08:04:14.065Z",
   "target": {
     "date": "2026-11-14",
     "slot": "17:00",
     "resolution": "予定日時値未提供。開始16:58 JSTから45分以内の最寄り17:00枠。日差12 mod8=4。"
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "completed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T07:59:46.845Z",
+      "finished_at": "2026-11-14T08:00:01.035Z",
+      "evidence": {
+        "date": "2026-11-14",
+        "slot": "17:00",
+        "resolution": "予定日時値未提供。開始16:58 JSTから45分以内の最寄り17:00枠。日差12 mod8=4。",
+        "category": "AI・テクノロジー",
+        "tool": "runtime time context"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:00:01.035Z",
+      "finished_at": "2026-11-14T08:00:17.628Z",
+      "evidence": {
+        "tool": "github_fetch_file/github_fetch/read_english_archive",
+        "github_count": 42,
+        "owner_count": 42,
+        "target_exists": false,
+        "other_attempts_this_slot": 0,
+        "previous_slot_status": "completed",
+        "spec_read": true,
+        "logging_override": "Explicit user instruction: start/final GitHub only"
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:00:17.628Z",
+      "finished_at": "2026-11-14T08:01:04.083Z",
+      "evidence": {
+        "tool": "assistant/web_run",
+        "mode": "generated",
+        "title": "[17:00] The Computer That Missed Its Break",
+        "word_count": 414,
+        "translation": true,
+        "vocabulary_count": 5,
+        "source": "https://www.energy.gov/sites/prod/files/2022-08/energy-saver-guide-2022.pdf",
+        "fiction": true,
+        "source_page_failed": "HTML page inaccessible; official PDF obtained"
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:01:04.083Z",
+      "finished_at": "2026-11-14T08:01:21.256Z",
+      "evidence": {
+        "tool": "github_create_file/github_fetch_file",
+        "equal": true
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:01:21.256Z",
+      "finished_at": "2026-11-14T08:01:36.329Z",
+      "evidence": {
+        "tool": "create_tree/create_commit/update_ref/fetch_file",
+        "commit": "1a49270f26720ff5f1b5d3e59089ecfc6698a5bf",
+        "three_files_equal": true,
+        "past_preserved": 42,
+        "count": 43
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:01:36.329Z",
+      "finished_at": "2026-11-14T08:01:49.052Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 43
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:01:49.052Z",
+      "finished_at": "2026-11-14T08:02:35.728Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "generated": 1,
+        "chat_displayed": true,
+        "file_available": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:02:35.728Z",
+      "finished_at": "2026-11-14T08:02:37.564Z",
+      "evidence": {
+        "format": "JPEG",
+        "size": [
+          1672,
+          941
+        ],
+        "bytes": 365722,
+        "sha256": "70cad3bf2f8a05ff63fa2cb51a9838586d604cddf457c9767e2f60dbac693476",
+        "tool": "exec_command/Pillow"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:02:37.564Z",
+      "finished_at": "2026-11-14T08:03:06.221Z",
+      "evidence": {
+        "tool": "create_blob/create_tree/create_commit/update_ref/fetch_file",
+        "commit": "2d7eabfc2201b8f1e2d00ac8b5248907b268bac5",
+        "three_files_equal": true,
+        "image_blob": "70123554c9b2bc7664520e89d4c719bb0b8d7d78",
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-14-1700.jpg",
+        "image_readback": {
+          "method": "public HTTPS SHA256 comparison",
+          "equal": true,
+          "sha256": "70cad3bf2f8a05ff63fa2cb51a9838586d604cddf457c9767e2f60dbac693476"
+        }
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:03:06.221Z",
+      "finished_at": "2026-11-14T08:03:23.295Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 43
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:03:23.295Z",
+      "finished_at": "2026-11-14T08:04:14.065Z",
+      "evidence": {
+        "tool": "github_fetch;exec_command/urllib/Pillow",
+        "checked_at": "2026-11-14T08:03:23.656351+00:00",
+        "html": {
+          "status": 200,
+          "bytes": 276265
+        },
+        "image": {
+          "status": 200,
+          "bytes": 365722,
+          "format": "JPEG",
+          "size": [
+            1672,
+            941
+          ],
+          "sha256": "70cad3bf2f8a05ff63fa2cb51a9838586d604cddf457c9767e2f60dbac693476",
+          "decoded": true
+        },
+        "all_fields_equal": true,
+        "target_count": 1,
+        "image_sha256_equal": true,
+        "deployments": [
+          {
+            "status": "completed",
+            "conclusion": "success",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43573940829",
+            "sha": "2d7eabfc2201b8f1e2d00ac8b5248907b268bac5"
+          }
+        ]
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T08:04:14.065Z",
+      "finished_at": "2026-11-14T08:04:14.065Z",
+      "evidence": {
+        "tool": "assistant",
+        "prepared": [
+          "English 414 words",
+          "full Japanese translation",
+          "five expressions",
+          "stage table",
+          "log and draft URLs"
+        ],
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
