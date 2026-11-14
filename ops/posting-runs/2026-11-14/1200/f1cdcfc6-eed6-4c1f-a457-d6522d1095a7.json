@@ -5,97 +5,209 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-14T02:57:38.856Z",
-  "finished_at": null,
+  "finished_at": "2026-11-14T03:02:01.271Z",
   "target": {
     "date": "2026-11-14",
     "slot": "12:00",
     "resolution": "予定日時値未提供。開始11:56 JSTに最も近い45分以内の12:00枠。日差12 mod8=4。"
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "completed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T02:57:38.856Z",
+      "finished_at": "2026-11-14T02:57:54.707Z",
+      "evidence": {
+        "date": "2026-11-14",
+        "slot": "12:00",
+        "resolution": "予定日時値未提供。開始11:56 JSTに最も近い45分以内の12:00枠。日差12 mod8=4。",
+        "tool": "runtime time context",
+        "category": "AI・テクノロジー"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T02:57:54.707Z",
+      "finished_at": "2026-11-14T02:58:07.073Z",
+      "evidence": {
+        "tool": "github_fetch_file/github_fetch/read_english_archive",
+        "github_count": 41,
+        "owner_count": 41,
+        "target_exists": false,
+        "prior_slot_status": "completed",
+        "this_slot_other_attempts": 0,
+        "spec_read": true
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T02:58:07.073Z",
+      "finished_at": "2026-11-14T02:58:43.238Z",
+      "evidence": {
+        "mode": "generated",
+        "title": "[12:00] The Message That Could Wait",
+        "word_count": 412,
+        "translation": true,
+        "vocab_count": 5,
+        "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/phishing",
+        "fiction": true,
+        "tool": "assistant"
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T02:58:43.238Z",
+      "finished_at": "2026-11-14T02:58:59.500Z",
+      "evidence": {
+        "equal": true,
+        "tool": "github_create_file/github_fetch_file"
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T02:58:59.500Z",
+      "finished_at": "2026-11-14T02:59:31.657Z",
+      "evidence": {
+        "tool": "create_tree/create_commit/update_ref/fetch_file",
+        "commit": "56d86e8e43148de7f7441b960d92f22aa9b0c89d",
+        "three_files_equal": true,
+        "count": 42,
+        "past_preserved": 41
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
+      "status": "succeeded",
       "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "finished_at": "2026-11-14T02:59:31.657Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 42
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T02:59:31.657Z",
+      "finished_at": "2026-11-14T03:00:24.886Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "generated": 1,
+        "chat_displayed": true,
+        "local_file_available": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T03:00:24.886Z",
+      "finished_at": "2026-11-14T03:00:26.669Z",
+      "evidence": {
+        "format": "JPEG",
+        "size": [
+          1672,
+          941
+        ],
+        "bytes": 443845,
+        "sha256": "2219438d4095a2695f9189105ba6c6bd5699b324404f20bb1ffc0953cca2fffc",
+        "tool": "exec_command/Pillow"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T03:00:26.669Z",
+      "finished_at": "2026-11-14T03:00:56.395Z",
+      "evidence": {
+        "tool": "create_blob/create_tree/create_commit/update_ref/fetch_file",
+        "commit": "d7fca40d77ee9cf837e9ca7fc166c1135b9bb648",
+        "three_files_equal": true,
+        "image_blob": "c0447c92e08c572a6cdae04a50513bcd555a9ef4",
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-14-1200.jpg",
+        "image_bytes_verified": {
+          "method": "public HTTPS SHA256",
+          "equal": true,
+          "sha256": "2219438d4095a2695f9189105ba6c6bd5699b324404f20bb1ffc0953cca2fffc"
+        }
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T03:00:56.395Z",
+      "finished_at": "2026-11-14T03:01:14.309Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 42
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T03:01:14.309Z",
+      "finished_at": "2026-11-14T03:02:01.271Z",
+      "evidence": {
+        "tool": "github_fetch;exec_command/urllib/Pillow",
+        "checked_at": "2026-11-14T03:01:14.629540+00:00",
+        "html": {
+          "status": 200,
+          "bytes": 268547
+        },
+        "image": {
+          "status": 200,
+          "bytes": 443845,
+          "format": "JPEG",
+          "size": [
+            1672,
+            941
+          ],
+          "sha256": "2219438d4095a2695f9189105ba6c6bd5699b324404f20bb1ffc0953cca2fffc",
+          "decoded": true
+        },
+        "all_article_fields_equal": true,
+        "target_count": 1,
+        "image_sha256_equal": true,
+        "deployments": [
+          {
+            "status": "completed",
+            "conclusion": "success",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43549369225",
+            "sha": "d7fca40d77ee9cf837e9ca7fc166c1135b9bb648"
+          },
+          {
+            "status": "completed",
+            "conclusion": "cancelled",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43549367749",
+            "sha": "d7fca40d77ee9cf837e9ca7fc166c1135b9bb648"
+          }
+        ]
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-14T03:02:01.271Z",
+      "finished_at": "2026-11-14T03:02:01.271Z",
+      "evidence": {
+        "tool": "assistant",
+        "prepared": [
+          "English 412 words",
+          "full Japanese translation",
+          "5 expressions",
+          "stage table",
+          "log and draft URLs"
+        ],
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
