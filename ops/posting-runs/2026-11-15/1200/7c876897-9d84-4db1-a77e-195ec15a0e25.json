@@ -5,97 +5,220 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-15T03:01:27.056Z",
-  "finished_at": null,
+  "finished_at": "2026-11-15T03:06:50.353Z",
   "target": {
     "date": "2026-11-15",
     "slot": "12:00",
     "resolution": "予定日時値未提供。開始12:00 JSTから45分以内の最寄り12:00枠。日差13 mod8=5。"
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "completed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:01:27.056Z",
+      "finished_at": "2026-11-15T03:01:52.069Z",
+      "evidence": {
+        "date": "2026-11-15",
+        "slot": "12:00",
+        "resolution": "予定日時値未提供。開始12:00 JSTから45分以内の最寄り12:00枠。日差13 mod8=5。",
+        "category": "投資・経済",
+        "tool": "runtime time context"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:01:52.069Z",
+      "finished_at": "2026-11-15T03:02:04.481Z",
+      "evidence": {
+        "tool": "github_fetch_file/github_fetch/read_english_archive",
+        "github_count": 44,
+        "owner_count": 44,
+        "target_exists": false,
+        "other_attempts_this_slot": 0,
+        "previous_slot_status": "completed",
+        "spec_read": true,
+        "logging_override": "Explicit user instruction start/final GitHub only"
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:02:04.481Z",
+      "finished_at": "2026-11-15T03:02:53.479Z",
+      "evidence": {
+        "tool": "assistant/web_run",
+        "mode": "generated",
+        "title": "[12:00] The Boat in the Drawer",
+        "word_count": 411,
+        "translation": true,
+        "vocabulary_count": 5,
+        "source": "https://www.stlouisfed.org/open-vault/2020/march/three-ways-think-like-an-economist",
+        "fiction": true
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:02:53.479Z",
+      "finished_at": "2026-11-15T03:03:11.883Z",
+      "evidence": {
+        "tool": "github_create_file/github_fetch_file",
+        "equal": true
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:03:11.883Z",
+      "finished_at": "2026-11-15T03:03:25.327Z",
+      "evidence": {
+        "tool": "create_tree/create_commit/update_ref/fetch_file",
+        "commit": "21d6b64fe1c72640ea70a12b15e760bdb75aaf99",
+        "three_files_equal": true,
+        "past_preserved": 44,
+        "count": 45
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:03:25.327Z",
+      "finished_at": "2026-11-15T03:03:40.949Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 45
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:03:40.949Z",
+      "finished_at": "2026-11-15T03:04:35.296Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "generated": 1,
+        "chat_displayed": true,
+        "file_available": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:04:35.296Z",
+      "finished_at": "2026-11-15T03:04:37.061Z",
+      "evidence": {
+        "format": "JPEG",
+        "size": [
+          1672,
+          941
+        ],
+        "bytes": 433062,
+        "sha256": "2a62ac2fe17c78cb70bbad48f1913c15e2270cb1784846df996eb4a88a58781a",
+        "tool": "exec_command/Pillow"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:04:37.061Z",
+      "finished_at": "2026-11-15T03:05:16.225Z",
+      "evidence": {
+        "tool": "create_blob/create_tree/create_commit/update_ref/fetch_file",
+        "commit": "7b944bbbecc6a1b5f5ce2def2bed151892b2028b",
+        "three_files_equal": true,
+        "image_blob": "c788dc2832e6cbf022746ed88e52b5dc7f04bf28",
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-15-1200.jpg",
+        "image_readback": {
+          "method": "public HTTPS SHA256 comparison",
+          "equal": true,
+          "sha256": "2a62ac2fe17c78cb70bbad48f1913c15e2270cb1784846df996eb4a88a58781a"
+        }
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:05:16.225Z",
+      "finished_at": "2026-11-15T03:05:33.647Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 45
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:05:33.647Z",
+      "finished_at": "2026-11-15T03:06:50.353Z",
+      "evidence": {
+        "tool": "github_fetch;exec_command/urllib/Pillow",
+        "checks": [
+          {
+            "checked_at": "2026-11-15T03:05:33.931100+00:00",
+            "html": {
+              "status": 200,
+              "bytes": 289382
+            },
+            "image": {
+              "error": "HTTPError",
+              "message": "HTTP Error 404: Not Found"
+            }
+          },
+          {
+            "checked_at": "2026-11-15T03:06:23.741444+00:00",
+            "html": {
+              "status": 200,
+              "bytes": 290551
+            },
+            "image": {
+              "status": 200,
+              "bytes": 433062,
+              "format": "JPEG",
+              "size": [
+                1672,
+                941
+              ],
+              "sha256": "2a62ac2fe17c78cb70bbad48f1913c15e2270cb1784846df996eb4a88a58781a",
+              "decoded": true
+            },
+            "all_fields_equal": true
+          }
+        ],
+        "all_fields_equal": true,
+        "target_count": 1,
+        "image_sha256_equal": true,
+        "deployments": [
+          {
+            "status": "completed",
+            "conclusion": "success",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43670735784",
+            "sha": "7b944bbbecc6a1b5f5ce2def2bed151892b2028b"
+          }
+        ]
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-15T03:06:50.353Z",
+      "finished_at": "2026-11-15T03:06:50.353Z",
+      "evidence": {
+        "tool": "assistant",
+        "prepared": [
+          "English 411 words",
+          "full Japanese translation",
+          "five expressions",
+          "stage table",
+          "log and draft URLs"
+        ],
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
