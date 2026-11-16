@@ -5,97 +5,213 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-16T21:59:44.990Z",
-  "finished_at": null,
+  "finished_at": "2026-11-16T22:05:01.727Z",
   "target": {
     "date": "2026-11-17",
     "slot": "07:00",
     "resolution": "予定日時値未提供。開始06:58 JSTから45分以内の最寄り07:00枠。日差15 mod8=7。"
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "completed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T21:59:44.990Z",
+      "finished_at": "2026-11-16T22:00:12.386Z",
+      "evidence": {
+        "date": "2026-11-17",
+        "slot": "07:00",
+        "resolution": "予定日時値未提供。開始06:58 JSTから45分以内の最寄り07:00枠。日差15 mod8=7。",
+        "category": "文化・社会",
+        "tool": "runtime time context"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:00:12.386Z",
+      "finished_at": "2026-11-16T22:00:36.686Z",
+      "evidence": {
+        "tool": "github_fetch_file/github_fetch/read_english_archive",
+        "github_count": 48,
+        "owner_count": 48,
+        "target_exists": false,
+        "other_attempts_this_slot": 0,
+        "previous_unresolved_attempt": {
+          "status": "failed",
+          "reason": "TARGET_SLOT_UNRESOLVED",
+          "target": null
+        },
+        "spec_read": true,
+        "logging_override": "Explicit user instruction start/final GitHub only"
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:00:36.686Z",
+      "finished_at": "2026-11-16T22:01:28.710Z",
+      "evidence": {
+        "tool": "assistant/web_run",
+        "mode": "generated",
+        "title": "[07:00] The Question Beside the Teapot",
+        "word_count": 412,
+        "translation": true,
+        "vocabulary_count": 5,
+        "source": "https://www.getty.edu/education/k-12-learning/every-voice-has-a-story-oral-histories-of-changemakers/tips-for-creating-a-great-oral-history/",
+        "fiction": true,
+        "source_fallback": "Smithsonian direct request rejected; Getty official guide read."
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:01:28.710Z",
+      "finished_at": "2026-11-16T22:01:48.497Z",
+      "evidence": {
+        "tool": "github_create_file/github_fetch_file",
+        "equal": true
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:01:48.497Z",
+      "finished_at": "2026-11-16T22:02:05.397Z",
+      "evidence": {
+        "tool": "create_tree/create_commit/update_ref/fetch_file",
+        "commit": "067967b87e87506a7a7db4aa8b36d079e4853af3",
+        "three_files_equal": true,
+        "past_preserved": 48,
+        "count": 49
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:02:05.397Z",
+      "finished_at": "2026-11-16T22:02:27.005Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 49
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:02:27.005Z",
+      "finished_at": "2026-11-16T22:03:20.598Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "generated": 1,
+        "chat_displayed": true,
+        "file_available": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:03:20.598Z",
+      "finished_at": "2026-11-16T22:03:22.375Z",
+      "evidence": {
+        "format": "JPEG",
+        "size": [
+          1672,
+          941
+        ],
+        "bytes": 444129,
+        "sha256": "4161ee27ddf2f77bbaee1ddd98ea5f345de47983ac1a6fe003bdf7f2341ef6eb",
+        "tool": "exec_command/Pillow"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:03:22.375Z",
+      "finished_at": "2026-11-16T22:03:58.436Z",
+      "evidence": {
+        "tool": "create_blob/create_tree/create_commit/update_ref/fetch_file",
+        "commit": "652732c89db6a52daaa6e1f932b2018b093789c0",
+        "three_files_equal": true,
+        "image_blob": "8996fa62283429ea0c8bd2e648dbf41bf3f7af8f",
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-17-0700.jpg",
+        "image_readback": {
+          "method": "public HTTPS SHA256 comparison",
+          "equal": true,
+          "sha256": "4161ee27ddf2f77bbaee1ddd98ea5f345de47983ac1a6fe003bdf7f2341ef6eb"
+        }
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:03:58.436Z",
+      "finished_at": "2026-11-16T22:04:22.211Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 49
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:04:22.211Z",
+      "finished_at": "2026-11-16T22:05:01.727Z",
+      "evidence": {
+        "tool": "github_fetch;exec_command/urllib/Pillow",
+        "checks": [
+          {
+            "checked_at": "2026-11-16T22:04:22.517570+00:00",
+            "html": {
+              "status": 200,
+              "bytes": 319747
+            },
+            "image": {
+              "status": 200,
+              "bytes": 444129,
+              "format": "JPEG",
+              "size": [
+                1672,
+                941
+              ],
+              "sha256": "4161ee27ddf2f77bbaee1ddd98ea5f345de47983ac1a6fe003bdf7f2341ef6eb",
+              "decoded": true
+            }
+          }
+        ],
+        "all_fields_equal": true,
+        "target_count": 1,
+        "image_sha256_equal": true,
+        "deployments": [
+          {
+            "status": "completed",
+            "conclusion": "success",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/43966342835",
+            "sha": "652732c89db6a52daaa6e1f932b2018b093789c0"
+          }
+        ]
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T22:05:01.727Z",
+      "finished_at": "2026-11-16T22:05:01.727Z",
+      "evidence": {
+        "tool": "assistant",
+        "prepared": [
+          "English 412 words",
+          "full Japanese translation",
+          "five expressions",
+          "stage table",
+          "log and draft URLs"
+        ],
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
