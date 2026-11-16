@@ -5,101 +5,182 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-16T09:10:58.652Z",
-  "finished_at": null,
+  "finished_at": "2026-11-16T09:12:07.125Z",
   "target": {
     "date": null,
     "slot": null,
     "resolution": "Unresolved: provided current local start 2026-11-16 18:09:51 JST; no scheduled invocation timestamp supplied."
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "failed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
-      "error": null
+      "status": "failed",
+      "started_at": "2026-11-16T09:10:58.652Z",
+      "finished_at": "2026-11-16T09:11:16.954Z",
+      "evidence": {
+        "tool": "runtime time context;clock.curr_time",
+        "provided_started_local": "2026-11-16T18:09:51+09:00",
+        "scheduled_for": null,
+        "nearest_slot": "2026-11-16T17:00:00+09:00",
+        "difference_seconds": 4191,
+        "allowed_window_seconds": 2700,
+        "reason": "No supplied scheduled invocation datetime; nearest slot exceeds 45-minute fallback window. Recurrence hours alone do not establish the scheduled invocation date/time."
+      },
+      "error": {
+        "tool": "resolve_slot",
+        "code": "TARGET_SLOT_UNRESOLVED",
+        "message": "No scheduled timestamp supplied and no slot within 45 minutes of start.",
+        "retry_count": 0,
+        "outcome_known": true
+      }
     },
     "read_sources": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
+      "status": "skipped",
       "started_at": null,
       "finished_at": null,
-      "evidence": {},
+      "evidence": {
+        "tool": null,
+        "reason": "Target unresolved; no posting-stage operation executed."
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-16T09:12:07.125Z",
+      "finished_at": "2026-11-16T09:12:07.125Z",
+      "evidence": {
+        "tool": "assistant",
+        "prepared": "Unresolved-slot report with stage results and log URL; no article/draft/image created.",
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
   "draft_path": null,
   "logging_errors": [],
-  "logging_policy": "GitHub start and final only; intermediate results in execution memory. Stop may leave start record only; failure before first save not captured."
+  "logging_policy": "GitHub start and final only; intermediate results in execution memory. Stop may leave start record only; failure before first save not captured.",
+  "observations": {
+    "spec_read": {
+      "tool": "github_fetch_file",
+      "path": "docs/POSTING_LOGGING.md",
+      "success": true
+    },
+    "saved_articles": {
+      "tool": "github_fetch_file",
+      "count": 48,
+      "date": "2026-11-16",
+      "existing_slots": [
+        "07:00",
+        "12:00"
+      ],
+      "observed_17_slot": false,
+      "interpretation": "No conclusion about earlier generation or platform runs from absence."
+    },
+    "schedule_metadata": {
+      "tool": "automations.peek",
+      "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Tokyo:20261107T170000\nRRULE:FREQ=DAILY;BYHOUR=7,12,17;BYMINUTE=0;BYSECOND=0\nEND:VEVENT",
+      "last_run_time": "2026-11-16T03:11:06.824795+00:00",
+      "next_run_time": "2026-11-16T17:00:00+09:00",
+      "timing_mode": "exact_schedule",
+      "is_enabled": true,
+      "scheduled_for_current_invocation": null,
+      "interpretation": "next_run_time is not a per-invocation scheduled_for field; it was not re-labelled as this invocation's timestamp."
+    },
+    "platform_history": {
+      "available": false,
+      "reason": "Tool provides task metadata, not a per-invocation execution history."
+    },
+    "scope": "Single delayed invocation unresolved; scheduling configuration remains unchanged because later runs can resolve their own slots."
+  }
 }
