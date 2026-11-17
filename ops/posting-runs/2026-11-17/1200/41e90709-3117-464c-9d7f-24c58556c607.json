@@ -5,97 +5,210 @@
   "invocation_kind": "scheduled",
   "scheduled_for": null,
   "started_at": "2026-11-17T02:57:05.372Z",
-  "finished_at": null,
+  "finished_at": "2026-11-17T03:02:03.235Z",
   "target": {
     "date": "2026-11-17",
     "slot": "12:00",
     "resolution": "予定日時値未提供。開始11:56 JSTから45分以内の最寄り12:00枠。日差15 mod8=7。"
   },
-  "status": "started",
-  "last_completed_stage": null,
+  "status": "completed",
+  "last_completed_stage": "report",
   "stages": {
     "resolve_slot": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T02:57:05.372Z",
+      "finished_at": "2026-11-17T02:57:27.411Z",
+      "evidence": {
+        "date": "2026-11-17",
+        "slot": "12:00",
+        "resolution": "予定日時値未提供。開始11:56 JSTから45分以内の最寄り12:00枠。日差15 mod8=7。",
+        "category": "文化・社会",
+        "tool": "runtime time context"
+      },
       "error": null
     },
     "read_sources": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T02:57:27.411Z",
+      "finished_at": "2026-11-17T02:57:47.358Z",
+      "evidence": {
+        "tool": "github_fetch_file/github_fetch/read_english_archive",
+        "github_count": 49,
+        "owner_count": 49,
+        "target_exists": false,
+        "other_attempts_this_slot": 0,
+        "previous_slot_status": "completed",
+        "spec_read": true,
+        "logging_override": "Explicit user instruction start/final GitHub only"
+      },
       "error": null
     },
     "prepare_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T02:57:47.358Z",
+      "finished_at": "2026-11-17T02:58:32.940Z",
+      "evidence": {
+        "tool": "assistant/web_run",
+        "mode": "generated",
+        "title": "[12:00] An Old Tune, a New Instrument",
+        "word_count": 417,
+        "translation": true,
+        "vocabulary_count": 5,
+        "source": "https://ich.unesco.org/en/transmission-00078",
+        "additional_source": "https://ich.unesco.org/en/about-01159",
+        "fiction": true,
+        "source_access": "Official search excerpts retrieved; direct transmission page presented human-verification page."
+      },
       "error": null
     },
     "persist_draft": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T02:58:32.940Z",
+      "finished_at": "2026-11-17T02:58:52.867Z",
+      "evidence": {
+        "tool": "github_create_file/github_fetch_file",
+        "equal": true
+      },
       "error": null
     },
     "github_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T02:58:52.867Z",
+      "finished_at": "2026-11-17T02:59:09.473Z",
+      "evidence": {
+        "tool": "create_tree/create_commit/update_ref/fetch_file",
+        "commit": "fea1c163255aecc15a4d796467a6774f00072267",
+        "three_files_equal": true,
+        "past_preserved": 49,
+        "count": 50
+      },
       "error": null
     },
     "owner_text": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T02:59:09.473Z",
+      "finished_at": "2026-11-17T02:59:24.479Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 50
+      },
       "error": null
     },
     "image_generate": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T02:59:24.479Z",
+      "finished_at": "2026-11-17T03:00:24.829Z",
+      "evidence": {
+        "tool": "image_gen.imagegen",
+        "generated": 1,
+        "chat_displayed": true,
+        "file_available": true
+      },
       "error": null
     },
     "image_file": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T03:00:24.829Z",
+      "finished_at": "2026-11-17T03:00:26.555Z",
+      "evidence": {
+        "format": "JPEG",
+        "size": [
+          1672,
+          941
+        ],
+        "bytes": 408651,
+        "sha256": "19ad7d3f9c4d25bdeb9b5ccf8cb4f40196ed355cfbc1af7cd114034e903c4e9e",
+        "tool": "exec_command/Pillow"
+      },
       "error": null
     },
     "github_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T03:00:26.555Z",
+      "finished_at": "2026-11-17T03:00:59.207Z",
+      "evidence": {
+        "tool": "create_blob/create_tree/create_commit/update_ref/fetch_file",
+        "commit": "c7a3ef4919377f786184126fd8da34d5dc1141f8",
+        "three_files_equal": true,
+        "image_blob": "891e8d79113df7ee790ec08434c022f635991105",
+        "url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-17-1200.jpg",
+        "image_readback": {
+          "method": "public HTTPS SHA256 comparison",
+          "equal": true,
+          "sha256": "19ad7d3f9c4d25bdeb9b5ccf8cb4f40196ed355cfbc1af7cd114034e903c4e9e"
+        }
+      },
       "error": null
     },
     "owner_image": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T03:00:59.207Z",
+      "finished_at": "2026-11-17T03:01:17.924Z",
+      "evidence": {
+        "tool": "sync_english_articles/read_english_archive",
+        "equal": true,
+        "preserved": true,
+        "count": 50
+      },
       "error": null
     },
     "public_verify": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T03:01:17.924Z",
+      "finished_at": "2026-11-17T03:02:03.235Z",
+      "evidence": {
+        "tool": "github_fetch;exec_command/urllib/Pillow",
+        "checks": [
+          {
+            "checked_at": "2026-11-17T03:01:18.294575+00:00",
+            "html": {
+              "status": 200,
+              "bytes": 327324
+            },
+            "image": {
+              "status": 200,
+              "bytes": 408651,
+              "format": "JPEG",
+              "size": [
+                1672,
+                941
+              ],
+              "sha256": "19ad7d3f9c4d25bdeb9b5ccf8cb4f40196ed355cfbc1af7cd114034e903c4e9e",
+              "decoded": true
+            }
+          }
+        ],
+        "all_fields_equal": true,
+        "target_count": 1,
+        "image_sha256_equal": true,
+        "deployments": [
+          {
+            "status": "completed",
+            "conclusion": "success",
+            "url": "https://github.com/seikoubon/daily-english-library/actions/runs/44007120725",
+            "sha": "c7a3ef4919377f786184126fd8da34d5dc1141f8"
+          }
+        ]
+      },
       "error": null
     },
     "report": {
-      "status": "not_started",
-      "started_at": null,
-      "finished_at": null,
-      "evidence": {},
+      "status": "succeeded",
+      "started_at": "2026-11-17T03:02:03.235Z",
+      "finished_at": "2026-11-17T03:02:03.235Z",
+      "evidence": {
+        "tool": "assistant",
+        "prepared": [
+          "English 417 words",
+          "full Japanese translation",
+          "five expressions",
+          "stage table",
+          "log and draft URLs"
+        ],
+        "notification_delivery": "unknown"
+      },
       "error": null
     }
   },
