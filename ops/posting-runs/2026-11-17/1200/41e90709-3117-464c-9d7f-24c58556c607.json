@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "attempt_id": "41e90709-3117-464c-9d7f-24c58556c607",
+  "platform_run_id": null,
+  "invocation_kind": "scheduled",
+  "scheduled_for": null,
+  "started_at": "2026-11-17T02:57:05.372Z",
+  "finished_at": null,
+  "target": {
+    "date": "2026-11-17",
+    "slot": "12:00",
+    "resolution": "予定日時値未提供。開始11:56 JSTから45分以内の最寄り12:00枠。日差15 mod8=7。"
+  },
+  "status": "started",
+  "last_completed_stage": null,
+  "stages": {
+    "resolve_slot": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "read_sources": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "prepare_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "persist_draft": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_text": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_generate": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "image_file": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "github_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "owner_image": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "public_verify": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    },
+    "report": {
+      "status": "not_started",
+      "started_at": null,
+      "finished_at": null,
+      "evidence": {},
+      "error": null
+    }
+  },
+  "draft_path": "ops/posting-drafts/2026-11-17/1200/41e90709-3117-464c-9d7f-24c58556c607.json",
+  "logging_errors": [],
+  "logging_policy": "GitHub start and final only; intermediate stages recorded in execution memory. Stop may leave start record only; pre-first-save failure not captured."
+}
