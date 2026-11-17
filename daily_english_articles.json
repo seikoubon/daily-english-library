@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-11-18",
+    "category": "AI・テクノロジー",
+    "title": "[07:00] The Cup on the Wrong Cloth",
+    "ja_title": "いつもと違う布の上のコップ",
+    "en": "In an imaginary computer club, Aoi and Ben teach a small AI model to sort pictures. They choose two groups: cups and spoons. Aoi takes pictures of a cup on a blue cloth. Ben takes pictures of a spoon on a yellow cloth. They add the correct group name to each picture and start the training.\n\nSoon the model gives the right answers to some more pictures taken in the same way. The students feel pleased. Then their teacher moves the cup onto the yellow cloth. The model calls it a spoon. Ben laughs, but Aoi looks carefully at the table. The cup has not changed. Its background has.\n\nAn image model learns patterns from examples. However, it does not always learn the pattern that its makers want. In the students' pictures, cups always appeared with blue, and spoons always appeared with yellow. The background could therefore become a useful clue during training, even though cloth color does not tell us whether something is a cup.\n\nThe teacher asks them to test more cases. They put the spoon on blue, move the cup to a plain table, and take pictures from different sides. They write down the answers, including the wrong ones. One surprise does not tell them exactly how the model works. Several careful checks can give them better questions.\n\nAoi notices another problem. They have used only one cup and one spoon. Even a model that recognizes those objects may fail when it sees a different cup. Their goal was to sort kinds of objects, but their examples showed only a tiny part of each kind.\n\nThey collect more varied pictures, using different cups and spoons against several backgrounds. They also keep some new pictures apart from the training examples. After training again, they use these separate pictures to check the model. In this story, some answers improve, but there are still mistakes.\n\nAoi and Ben are invented students, and their results are not a report of a real experiment. Their cloths help explain a real AI problem: a system can find an easy clue that works in its examples but fails elsewhere. A correct answer alone does not reveal which clue it used.\n\nBefore the club ends, Aoi photographs the empty blue cloth. “What will it say about this?” she asks. They do not know yet. This time, that is part of the lesson. Teaching a model also means finding fair ways to check what it has learned.",
+    "ja": "架空のパソコン部で、アオイとベンは小さなAIモデルに写真の分類を教えています。コップとスプーンの二つのグループを選びます。アオイは青い布の上にあるコップを撮影します。ベンは黄色い布の上にあるスプーンを撮影します。それぞれの写真に正しいグループ名をつけ、学習を始めます。\n\nしばらくすると、同じやり方で撮った追加の写真のいくつかに、モデルが正しく答えます。二人は喜びます。そのとき、先生がコップを黄色い布へ移します。モデルはそれをスプーンだと答えます。ベンは笑いますが、アオイは机を注意深く見ます。コップは変わっていません。背景が変わったのです。\n\n画像を扱うモデルは、例からパターンを学びます。でも、作り手が学んでほしいパターンを、いつも学ぶとは限りません。二人の写真では、コップはいつも青と、スプーンはいつも黄色と一緒に写っていました。そのため、学習中には背景が役立つ手がかりになっていた可能性があります。布の色では、物がコップかどうかはわからないのにです。\n\n先生は、もっといろいろな場合を試すよう言います。スプーンを青い布に置き、コップを無地の机に移し、違う側から撮影します。間違いも含めて答えを書き留めます。一度の驚きだけで、モデルの仕組みが正確にわかるわけではありません。何度か注意深く確かめることで、よりよい問いが生まれます。\n\nアオイは、もう一つの問題に気づきます。使ったのはコップ一個とスプーン一本だけです。その二つを見分けられるモデルでも、別のコップを見たら失敗するかもしれません。目的は物の種類を分類することでしたが、例に含まれていたのは、それぞれの種類のごく一部だけでした。\n\n二人は違うコップやスプーンを使い、いくつかの背景で、もっとさまざまな写真を集めます。新しい写真の一部は、学習用の例とは分けて取っておきます。もう一度学習した後、その別の写真でモデルを確かめます。この物語では、よくなった答えもありますが、間違いはまだ残ります。\n\nアオイとベンは創作の生徒で、結果も実際の実験報告ではありません。二枚の布は、現実にあるAIの問題を説明する助けになります。システムは、学習例では役立っても、別の状況では通用しない簡単な手がかりを見つけることがあります。正しい答えだけでは、どの手がかりを使ったかはわかりません。\n\n活動が終わる前、アオイは何も置いていない青い布を撮ります。「これには何て答えるかな？」と尋ねます。二人にはまだわかりません。今度は、それも学びの一部です。モデルに教えることには、何を学んだか公平に確かめる方法を見つけることも含まれるのです。",
+    "vocab": [
+      [
+        "sort",
+        "分類する、分ける",
+        "The model can sort pictures into two groups."
+      ],
+      [
+        "background",
+        "背景",
+        "Try taking the photo against a different background."
+      ],
+      [
+        "clue",
+        "手がかり",
+        "The color may be a useful clue."
+      ],
+      [
+        "write down",
+        "書き留める",
+        "Write down the wrong answers too."
+      ],
+      [
+        "keep apart",
+        "分けておく",
+        "Keep the test pictures apart from the training pictures."
+      ]
+    ],
+    "is_preview": false
+  },
+  {
     "date": "2026-11-17",
     "category": "文化・社会",
     "title": "[17:00] After the Last Applause",
