@@ -33,7 +33,10 @@
         "Keep the test pictures apart from the training pictures."
       ]
     ],
-    "is_preview": false
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-18-0700.jpg",
+    "image_alt": "黄色い布の上のコップと青い布の上のスプーンでAIの答えを確かめる生徒と先生",
+    "image_prompt": "Use case: illustration-story. One calm editorial illustration wide landscape 16:9 for an English learning essay about an AI image classifier learning from backgrounds. A Japanese school computer club: two teenage students Aoi and Ben and a teacher thoughtfully inspect a simple experiment on a wooden desk. A plain white ceramic cup rests on a yellow cloth at center; a metal spoon lies on a separate blue cloth at left. A small webcam on a stand points at the cup, connected to a laptop whose screen shows only a simple thumbnail of the cup without any words or interface text. Aoi has just moved the cup to the yellow cloth and thoughtfully gestures to the changed background; Ben watches closely. Three-quarter view from above the experiment, soft morning light, muted blue, yellow and cream, textured gouache and colored pencil. Believable hands and clear objects. No letters, text, numbers, logos, watermarks, speech bubbles, graph or infographic."
   },
   {
     "date": "2026-11-17",
