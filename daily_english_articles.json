@@ -2,6 +2,44 @@
   {
     "date": "2026-11-18",
     "category": "AI・テクノロジー",
+    "title": "[17:00] A Beautiful Bench, a Narrow Door",
+    "ja_title": "美しいベンチと狭いドア",
+    "en": "At a fictional neighborhood workshop, Hana volunteers to help design a bench for the entrance. The room is small, and visitors often wait there while their bicycles are repaired. She wants a seat that looks welcoming without blocking the way. Before drawing anything herself, she asks an AI image tool for ideas.\n\nThe first picture is impressive. A wooden bench curves around a large plant, with soft light falling across its smooth surface. Hana shows it to the workshop manager, who likes the warm colors. Then he asks a practical question: how would they carry the bench through the door?\n\nHana measures the entrance and looks again at the picture. There is no scale, and the curved seat appears to be one solid piece. She cannot tell whether it would fit. The image has helped her imagine a style, but it has not answered the question of size.\n\nShe writes down the conditions that a useful design must meet. The door must open fully. People carrying bags need space to pass. The seat must also be easy to clean. These requirements are less exciting than the original picture, yet they determine whether the bench belongs in that room.\n\nInstead of requesting another beautiful image immediately, Hana makes a rough plan on paper. She marks the doorway and uses cardboard to show where the seat might stand. A visitor tries walking past it with a shopping bag. One corner gets in the way, so Hana moves it back.\n\nNow she returns to the AI tool with a clearer request: a simple bench made in separate sections, inspired by the colors of the first image. She treats the new picture as a suggestion for its appearance. A local carpenter will still need to decide how to build it safely.\n\nIn this imagined project, the important change is not a more detailed prompt alone. Hana has separated questions about appearance from questions that require measurements, materials, and practical knowledge. A picture can start a conversation, while a full design must also explain how an object will work.\n\nThe finished bench is quieter than the first proposal. It has no dramatic curve or enormous plant. However, the door opens, visitors can pass, and the sections can be carried inside. Hana keeps the original image in her notebook. It reminds her where the idea began, not what everyone was required to accept.",
+    "ja": "架空の地域の作業場で、ハナは玄関に置くベンチの設計を手伝うことになりました。部屋は小さく、自転車の修理を待つ人がよく座って待ちます。通路をふさがず、親しみやすく見える座席にしたいと考えています。自分で何かを描く前に、AI画像ツールに案を求めます。\n\n最初の画像は見事でした。木のベンチが大きな植物を囲むように曲がり、滑らかな表面に柔らかな光が差しています。ハナが作業場の責任者に見せると、温かみのある色を気に入りました。そこで責任者は現実的な質問をします。このベンチをどうやってドアから運び込むのでしょうか。\n\nハナは入口の寸法を測り、もう一度画像を見ます。縮尺はなく、曲がった座席は一つの大きな部材に見えます。通るかどうか判断できません。画像は雰囲気を思い描く助けにはなりましたが、大きさの問題には答えていませんでした。\n\nハナは、役立つ設計が満たすべき条件を書き出します。ドアが完全に開くこと。荷物を持った人が通れること。座面を掃除しやすいこと。こうした要件は最初の画像ほど華やかではありませんが、その部屋にふさわしいベンチかどうかを決めます。\n\nすぐに別の美しい画像を求める代わりに、ハナは紙に簡単な平面図を描きます。出入口を記し、段ボールで座席を置く位置を示します。訪れた人に買い物袋を持って脇を歩いてもらいます。一つの角が邪魔になるので、ハナは位置を奥へずらします。\n\n今度は、より明確な依頼を持ってAIツールに戻ります。最初の画像の色を参考にしつつ、いくつかの部分に分かれたシンプルなベンチを求めます。新しい画像は、外観についての提案として扱います。安全に作る方法は、地元の大工が引き続き判断しなければなりません。\n\nこの架空の計画で重要なのは、単に指示を詳しくしたことではありません。ハナは、見た目の問いと、寸法、材料、実務の知識を必要とする問いを分けました。画像は話し合いの出発点になりますが、完成した設計には、その物がどう機能するかの説明も必要です。\n\n完成したベンチは、最初の案より控えめです。大胆な曲線も巨大な植物もありません。しかし、ドアは開き、人は通れ、部品を中へ運び込めます。ハナは最初の画像をノートに残します。それは発想の始まりを思い出させるものであり、全員が受け入れなければならないものではありません。",
+    "vocab": [
+      [
+        "block the way",
+        "通り道をふさぐ。人や物が通行を妨げる場面で使う。",
+        "Please move the boxes so they do not block the way."
+      ],
+      [
+        "scale",
+        "縮尺。図面と実物の大きさの比率を表す。",
+        "The drawing has no scale, so we cannot measure the bench from it."
+      ],
+      [
+        "meet a requirement",
+        "要件を満たす。設計や計画が必要な条件に合うことを表す。",
+        "The new design must meet every requirement on our list."
+      ],
+      [
+        "get in the way",
+        "邪魔になる。動作や通行を妨げるものについて使う。",
+        "The corner of the seat gets in the way when I carry a bag."
+      ],
+      [
+        "treat A as B",
+        "AをBとして扱う。情報や提案をどう位置づけるかを表す。",
+        "We treat the image as a suggestion, not a final plan."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-18-1700.jpg",
+    "image_alt": "自転車修理店の入口でベンチの設置寸法と通路を確かめる女性たち"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI・テクノロジー",
     "title": "[12:00] The Footnote That Led Nowhere",
     "ja_title": "行き先のなかった注",
     "en": "Mio is preparing a short report about an old canal near her school. She asks an AI assistant to suggest useful reading. Its answer includes a book title, an author's name, and a publication year. There is even a page number beside a claim about the canal. The details make the answer look ready to use.\n\nHer friend Jun asks whether she has read that page. Mio has not. She searches the library catalogue, but she cannot find the book. She tries the author's name and several words from the title. Nothing matches. The information may contain an error, but she does not yet know which part is wrong.\n\nJun suggests asking the assistant whether its reference is correct. Mio does, and it says yes. This sounds reassuring, but it does not give her the missing page. Repeating a claim is different from providing evidence for it. She decides to keep the statement out of her report until she can check it.\n\nGenerative AI can produce information that sounds confident but is false. This can include references that appear to support an answer. A title and page number are useful only if they lead to a real source that says what the answer claims. Their appearance alone cannot do that work.\n\nMio changes her approach. She searches the local museum's website herself and finds a short guide to the canal. She checks who published it and reads the relevant section. It describes changes to the waterway, but it does not support the exact date in the AI answer. She writes a more limited sentence based on what she can confirm.\n\nShe still uses the assistant to help organize her notes. This time, she supplies the passage she has read and asks for possible headings. She compares the suggestions with her notes before choosing one. The tool helps with the shape of the report, while the source provides the information behind its factual claims.\n\nMio, Jun, and their report are imaginary. Their missing book illustrates why checking a reference involves more than seeing whether it looks formal. We need to find the source, read the relevant part, and consider whether it supports the particular statement. An inaccessible source remains unverified, not automatically false.\n\nBefore submitting her report, Mio follows each reference one last time. Her list is shorter than the assistant's first suggestion, but every item has a place she can actually visit. She has not proved that every sentence is perfect. She has made it easier for another reader to examine her work.",
