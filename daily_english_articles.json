@@ -2,6 +2,44 @@
   {
     "date": "2026-11-18",
     "category": "AI・テクノロジー",
+    "title": "[12:00] The Footnote That Led Nowhere",
+    "ja_title": "行き先のなかった注",
+    "en": "Mio is preparing a short report about an old canal near her school. She asks an AI assistant to suggest useful reading. Its answer includes a book title, an author's name, and a publication year. There is even a page number beside a claim about the canal. The details make the answer look ready to use.\n\nHer friend Jun asks whether she has read that page. Mio has not. She searches the library catalogue, but she cannot find the book. She tries the author's name and several words from the title. Nothing matches. The information may contain an error, but she does not yet know which part is wrong.\n\nJun suggests asking the assistant whether its reference is correct. Mio does, and it says yes. This sounds reassuring, but it does not give her the missing page. Repeating a claim is different from providing evidence for it. She decides to keep the statement out of her report until she can check it.\n\nGenerative AI can produce information that sounds confident but is false. This can include references that appear to support an answer. A title and page number are useful only if they lead to a real source that says what the answer claims. Their appearance alone cannot do that work.\n\nMio changes her approach. She searches the local museum's website herself and finds a short guide to the canal. She checks who published it and reads the relevant section. It describes changes to the waterway, but it does not support the exact date in the AI answer. She writes a more limited sentence based on what she can confirm.\n\nShe still uses the assistant to help organize her notes. This time, she supplies the passage she has read and asks for possible headings. She compares the suggestions with her notes before choosing one. The tool helps with the shape of the report, while the source provides the information behind its factual claims.\n\nMio, Jun, and their report are imaginary. Their missing book illustrates why checking a reference involves more than seeing whether it looks formal. We need to find the source, read the relevant part, and consider whether it supports the particular statement. An inaccessible source remains unverified, not automatically false.\n\nBefore submitting her report, Mio follows each reference one last time. Her list is shorter than the assistant's first suggestion, but every item has a place she can actually visit. She has not proved that every sentence is perfect. She has made it easier for another reader to examine her work.",
+    "ja": "ミオは、学校の近くにある古い運河について短いレポートを準備しています。AIアシスタントに、参考になる読み物を提案してもらいます。答えには書名、著者名、出版年が含まれています。運河についての記述の横には、ページ番号まであります。細かな情報がそろっているので、そのまま使えそうに見えます。\n\n友人のジュンが、そのページを読んだか尋ねます。ミオは読んでいません。図書館の蔵書検索をしますが、本が見つかりません。著者名や、書名に含まれるいくつかの言葉でも探します。一致するものはありません。情報に誤りがあるのかもしれませんが、どの部分が違うかはまだわかりません。\n\nジュンは、参考文献が正しいかアシスタントに尋ねてみようと提案します。ミオが尋ねると、正しいと答えます。安心できそうな返事ですが、探しているページは出てきません。主張を繰り返すことと、その証拠を示すことは別です。ミオは確認できるまで、その記述をレポートに入れないことにします。\n\n生成AIは、自信があるように聞こえても、誤った情報を出すことがあります。答えを裏づけるように見える参考文献も、その一つです。書名とページ番号が役立つのは、実在し、答えが主張する内容を実際に述べている資料へたどり着ける場合です。見た目だけでは、その役割を果たせません。\n\nミオは方法を変えます。地元の博物館のウェブサイトを自分で検索し、運河についての短い案内を見つけます。発行元を確かめ、関係する部分を読みます。水路の変化は説明されていますが、AIの答えにあった正確な年を裏づける内容ではありません。ミオは確認できたことに基づき、範囲を絞った文を書きます。\n\nメモを整理するためには、引き続きアシスタントを使います。今度は、自分が読んだ文章を渡し、見出しの案を求めます。選ぶ前に、提案とメモを比べます。道具はレポートの形を整える助けとなり、資料は事実についての記述を支える情報を提供します。\n\nミオ、ジュン、レポートは架空のものです。見つからない本の話は、参考文献の確認が、形式の整った見た目を確かめるだけでは済まない理由を示しています。資料を見つけ、関係する部分を読み、その記述を裏づけているか考える必要があります。読めない資料は未確認なのであって、自動的に誤りになるわけではありません。\n\n提出前、ミオは参考文献を一つずつ、最後にもう一度たどります。一覧はアシスタントが最初に提案したものより短くなっていますが、どの項目も実際に確かめられる場所があります。すべての文が完璧だと証明したわけではありません。別の読み手が自分の作業を調べやすくしたのです。",
+    "vocab": [
+      [
+        "reference",
+        "参考文献・参照先。情報の出どころを示すときに使う。",
+        "Check each reference before submitting the report."
+      ],
+      [
+        "reassuring",
+        "安心させるような。言葉や知らせを形容する。",
+        "The answer sounded reassuring, but I still checked it."
+      ],
+      [
+        "provide evidence",
+        "証拠を示す。主張を裏づける資料などを出すときに使う。",
+        "The guide did not provide evidence for that date."
+      ],
+      [
+        "relevant",
+        "関係のある。調べている事柄に結びつく部分を指す。",
+        "Read the relevant section carefully."
+      ],
+      [
+        "unverified",
+        "未確認の。真偽を確かめられていない情報に使う。",
+        "The claim remained unverified."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-18-1200.jpg",
+    "image_alt": "図書館でAIの回答と資料を照合する二人の生徒"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI・テクノロジー",
     "title": "[07:00] The Cup on the Wrong Cloth",
     "ja_title": "いつもと違う布の上のコップ",
     "en": "In an imaginary computer club, Aoi and Ben teach a small AI model to sort pictures. They choose two groups: cups and spoons. Aoi takes pictures of a cup on a blue cloth. Ben takes pictures of a spoon on a yellow cloth. They add the correct group name to each picture and start the training.\n\nSoon the model gives the right answers to some more pictures taken in the same way. The students feel pleased. Then their teacher moves the cup onto the yellow cloth. The model calls it a spoon. Ben laughs, but Aoi looks carefully at the table. The cup has not changed. Its background has.\n\nAn image model learns patterns from examples. However, it does not always learn the pattern that its makers want. In the students' pictures, cups always appeared with blue, and spoons always appeared with yellow. The background could therefore become a useful clue during training, even though cloth color does not tell us whether something is a cup.\n\nThe teacher asks them to test more cases. They put the spoon on blue, move the cup to a plain table, and take pictures from different sides. They write down the answers, including the wrong ones. One surprise does not tell them exactly how the model works. Several careful checks can give them better questions.\n\nAoi notices another problem. They have used only one cup and one spoon. Even a model that recognizes those objects may fail when it sees a different cup. Their goal was to sort kinds of objects, but their examples showed only a tiny part of each kind.\n\nThey collect more varied pictures, using different cups and spoons against several backgrounds. They also keep some new pictures apart from the training examples. After training again, they use these separate pictures to check the model. In this story, some answers improve, but there are still mistakes.\n\nAoi and Ben are invented students, and their results are not a report of a real experiment. Their cloths help explain a real AI problem: a system can find an easy clue that works in its examples but fails elsewhere. A correct answer alone does not reveal which clue it used.\n\nBefore the club ends, Aoi photographs the empty blue cloth. “What will it say about this?” she asks. They do not know yet. This time, that is part of the lesson. Teaching a model also means finding fair ways to check what it has learned.",
