@@ -2,6 +2,44 @@
   {
     "date": "2026-11-19",
     "category": "投資・経済",
+    "title": "[17:00] The Cost Beyond the Invoice",
+    "ja_title": "請求書の外にある費用",
+    "en": "In a fictional shopping street, Emi runs a small bakery beneath several apartments. Her supplier offers a lower delivery fee if she accepts flour before sunrise. The saving would help her pay for new shelves. She agrees, thinking mainly about the number at the bottom of the invoice.\n\nThe first delivery arrives while the street is dark. A metal cart shakes across uneven stones, and the driver stacks boxes beside the entrance. Emi is pleased to begin work with everything ready. Upstairs, however, a resident who works late has just managed to fall asleep.\n\nAfter several mornings, a neighbor visits the bakery. He does not object to the business itself. He explains that the cart and the boxes wake him earlier than he needs to get up. Emi is surprised because the delivery seemed efficient when she considered only her own schedule.\n\nThe invoice shows what Emi pays the supplier, but it does not show every effect of their arrangement. Someone outside that agreement is bearing a burden. Economists describe an unwanted effect on others, such as this noise, as a negative externality. The neighbor has lost sleep without choosing the delivery.\n\nThis does not mean every inconvenience can be given an exact price. Emi cannot calculate the resident's lost rest as easily as she can count flour bags. Nevertheless, a cost does not disappear simply because it is missing from her accounts. She needs to understand what is happening upstairs.\n\nEmi asks the driver and the residents to discuss possible changes. They consider a cart with quieter wheels, a different unloading place, and a later arrival. Each option has limits. The narrow passage restricts where boxes can go, while a later delivery would carry the supplier's usual fee.\n\nThey agree to try the later time for two weeks. Emi records the delivery expense, and the residents note whether the disturbance improves. In this imagined trial, mornings become quieter. Emi still wants to reduce costs, but she now includes the neighbors' experience when comparing the available arrangements.\n\nThe story does not prove that a later delivery is always the best solution. Another street might need a different answer. Its point is that a bargain between two parties can affect people who never joined the deal. Listening to those people can reveal information that an invoice leaves out.\n\nWhen Emi orders her shelves, she chooses a smaller set. The early delivery would have made the larger one easier to afford. She now understands more clearly who would have helped pay for that saving.",
+    "ja": "架空の商店街で、エミは集合住宅の下にある小さなパン屋を営んでいます。仕入れ先から、日の出前に小麦粉を受け取れば配送料を安くできると提案されます。節約できれば新しい棚の購入費に充てられます。エミは、主に請求書の一番下の金額を見て承諾します。\n\n最初の配送は、通りがまだ暗いうちに到着します。金属製の台車がでこぼこの石畳を揺れながら進み、運転手が入口の横に箱を積みます。エミは、必要なものがすべてそろった状態で仕事を始められて満足です。しかし上の階では、夜遅くまで働く住民が、ようやく眠りについたところでした。\n\n何日かたった朝、近所の人がパン屋を訪れます。店そのものに反対しているわけではありません。台車や箱の音で、起きる必要のある時刻より早く目が覚めてしまうと説明します。エミは驚きます。自分の予定だけを考えたとき、配送は効率的に思えていたからです。\n\n請求書には、エミが仕入れ先に払う金額は示されていますが、その取り決めが及ぼすすべての影響が示されているわけではありません。取り決めの外にいる人が負担を負っています。経済学では、この騒音のように他の人に及ぶ望ましくない影響を、負の外部性と呼びます。近所の人は、配送を選んだわけではないのに睡眠を失っています。\n\nこれは、あらゆる不便に正確な値段を付けられるという意味ではありません。エミは、小麦粉の袋を数えるように簡単に、住民が失った休息を計算することはできません。それでも、帳簿に載っていないというだけで費用が消えるわけではありません。上の階で何が起きているかを理解する必要があります。\n\nエミは運転手と住民に、変更案を話し合ってもらいます。車輪の静かな台車、別の荷下ろし場所、遅い到着時刻を検討します。どの案にも制約があります。狭い通路では箱を置ける場所が限られ、遅い配送には通常の料金がかかります。\n\n二週間、配送時刻を遅らせて試すことで合意します。エミは配送費を記録し、住民は騒音による支障が改善するかを書き留めます。この架空の試行では、朝が静かになります。エミは今も費用を減らしたいと思っていますが、選べる方法を比べる際に、近隣住民の経験も含めるようになりました。\n\nこの物語は、配送を遅くすることが常に最善だと証明するものではありません。別の通りには、別の答えが必要かもしれません。二者間の取引が、そこに参加していない人にも影響することが要点です。その人たちの話を聞くことで、請求書には表れない情報が見えてきます。\n\n棚を注文するとき、エミは小さめのものを選びます。早朝配送なら、大きい棚も買いやすくなったはずです。今は、その節約のために誰が負担を分かち合うことになったのか、以前よりはっきり理解しています。",
+    "vocab": [
+      [
+        "bear a burden",
+        "負担を負う。費用や責任、つらい影響を引き受ける場面で使う。bearの過去形はbore。",
+        "The residents bore a burden that was not shown on the invoice."
+      ],
+      [
+        "negative externality",
+        "負の外部性。取引に直接参加していない人へ及ぶ不利益を表す経済用語。",
+        "The noise from the delivery created a negative externality."
+      ],
+      [
+        "nevertheless",
+        "それにもかかわらず。前の内容を認めたうえで別の結論を続ける。",
+        "The cost was difficult to measure. Nevertheless, it mattered."
+      ],
+      [
+        "carry a fee",
+        "料金がかかる。サービスや手続きに費用が伴うことを表す。",
+        "A later delivery would carry the usual fee."
+      ],
+      [
+        "leave out",
+        "省く、含めない。情報や人を説明・計画などに入れない場合に使う。",
+        "The invoice leaves out the effect on the neighbors."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-19-1700.jpg",
+    "image_alt": "夜明け前のパン屋への配送と上階から様子を見る住民"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "投資・経済",
     "title": "[12:00] Four Hands, Two Tasks",
     "ja_title": "四つの手と二つの仕事",
     "en": "At an imaginary school festival, Rina and Kota sell handmade paper bookmarks. Each bookmark needs a ribbon and a small paper sleeve. At first, both students do every step themselves. They pick up a bookmark, tie a ribbon, fold a sleeve, and put the finished item inside.\n\nAfter a while, Kota notices that they spend time moving materials around. The ribbon box sits between them, and both reach for it at once. Paper sleeves cover part of the table. They are busy, but only a few finished bookmarks are ready when the first visitors arrive.\n\nRina suggests a change. She will tie the ribbons, while Kota will prepare the sleeves and pack the bookmarks. They move the materials into two clear areas. Now each student can keep using the same tools instead of putting them down after every item.\n\nIn this story, the new arrangement helps them finish more bookmarks during the next quiet period. Rina also finds a comfortable way to hold the ribbon. Kota learns to fold the sleeves neatly. Dividing a job into separate tasks like this is called the division of labor.\n\nHowever, their success creates another problem. Rina finishes her part faster than Kota can finish his. A pile of bookmarks with ribbons grows beside him. Rina asks whether she should keep making more. Kota points to the pile. They do not need more unfinished work at that moment.\n\nThey change the plan again. When several bookmarks are waiting, Rina helps with the sleeves. When the pile becomes smaller, she returns to the ribbons. Their roles remain different, but the border between them is flexible. They watch the whole table, not only their own part.\n\nLater, Kota takes a short break. Because Rina has practiced both tasks, she can still prepare an order for a visitor. She works more slowly on her own, yet the stand stays open. Knowing another person's task has value even when it is not your main job.\n\nThe students and their results are invented, so this is not a real test of factory work. It is a small way to think about how people organize production. Separate roles can be useful, but the result also depends on how well the tasks fit together.\n\nAt closing time, Rina counts the finished bookmarks, while Kota clears the table. Tomorrow, they plan to exchange roles for a while. They want to understand the work on both sides of the ribbon box.",
