@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-21",
+    "category": "科学",
+    "title": "[07:00] The Paper That Jumped",
+    "ja_title": "飛び上がった紙のかけら",
+    "en": "Yui puts some tiny pieces of paper on a desk. Her brother Ren holds a balloon above them. Nothing seems to happen. Then he rubs the balloon on his dry hair. When he brings it near the paper again, a few pieces jump up. One stays on the balloon.\n\nThis is an imaginary scene, but the science behind it is real. Rubbing a balloon on hair can give it an electric charge. We call this static electricity. You cannot see the charge itself. You can see what it does when the small pieces of paper move.\n\nRen thinks the balloon has become a magnet. Yui is not sure. Their teacher explains that magnets and electric charges are different. In this activity, the paper moves because of an electric force. The balloon does not need to touch a paper piece before it starts to pull it.\n\nTo understand more, think about tiny particles called electrons. They carry negative electric charge. When the balloon is rubbed on hair, some electrons can move from the hair to the balloon. The balloon now has extra electrons. The paper can be attracted even though it did not get the same treatment.\n\nThe charged balloon changes how charges are arranged inside the nearby paper. The side closer to the balloon becomes more positive compared with the far side. Opposite charges attract. This helps explain why a light paper piece can rise toward the balloon. The paper has not turned into a tiny magnet.\n\nYui wants to look more carefully. She puts fresh paper pieces on the desk. Ren holds the balloon far above them, then slowly brings it closer. They watch from the side. They try not to wave their hands or blow on the paper. Moving air could move the pieces too.\n\nThey do not write that the balloon can pick up everything. They have only tried a few light pieces of paper. A heavy book on the same desk does not jump up in their story. A small observation gives them a useful question, not an answer about every object.\n\nNext, Yui draws the desk and balloon in her notebook. She marks the paper's position before and after it moves. Ren adds a question: how far away can they hold the balloon and still see a change? They will need to test that, rather than guess.\n\nThe room is quiet again. The balloon looks ordinary. Now, however, the children know that an ordinary object can help them notice an invisible force.",
+    "ja": "ユイが小さな紙のかけらを机に置きます。兄のレンが、その上に風船を持ちます。何も起きないように見えます。そこでレンは、風船を乾いた髪でこすります。もう一度紙に近づけると、いくつかのかけらが飛び上がります。一つは風船にくっつきました。\n\nこれは架空の場面ですが、背景にある科学は本当です。風船を髪でこすると、電気を帯びることがあります。これを静電気と呼びます。電荷そのものは見えません。小さな紙片が動くとき、その働きを見ることができます。\n\nレンは、風船が磁石になったのだと思います。ユイにはわかりません。先生は、磁石と電荷は別のものだと説明します。この実験では、電気の力で紙が動きます。風船は、紙を引き寄せ始める前に紙に触れる必要はありません。\n\nもう少し理解するために、電子という小さな粒を考えてみましょう。電子はマイナスの電荷を持っています。風船を髪でこすると、電子の一部が髪から風船へ移ることがあります。風船には余分な電子がある状態になります。紙は、同じようにこすっていなくても引き寄せられます。\n\n電気を帯びた風船は、近くの紙の内部で電荷の分布を変えます。風船に近い側は、遠い側と比べてプラス寄りになります。反対の電荷同士は引き合います。これで、軽い紙片が風船に向かって上がる理由を説明できます。紙が小さな磁石に変わったわけではありません。\n\nユイは、もっとよく見たくなります。新しい紙片を机に置きます。レンは風船を紙から離れた上のほうで持ち、ゆっくり近づけます。二人は横から観察します。手を振り回したり、紙に息を吹きかけたりしないようにします。空気の動きでも紙が動くからです。\n\n二人は、風船なら何でも持ち上げられるとは書きません。試したのは、軽い紙片を少しだけです。この物語では、同じ机の上の重い本は飛び上がりません。一つの小さな観察から得られるのは、役立つ問いであり、あらゆる物についての答えではありません。\n\n次にユイは、机と風船をノートに描きます。紙が動く前と後の位置を記します。レンは、どれくらい離しても変化が見えるのだろうと質問を書き加えます。推測するのではなく、確かめる必要があります。\n\n部屋はまた静かになります。風船は普通に見えます。しかし今では二人とも、身近な物が、目に見えない力に気づく助けになると知っています。",
+    "vocab": [
+      [
+        "rub",
+        "こする。rub A on Bで「AをBにこすりつける」と表せる。",
+        "He rubs the balloon on his dry hair."
+      ],
+      [
+        "static electricity",
+        "静電気。物にたまった電荷による現象を説明するときに使う。",
+        "Static electricity can make small pieces of paper move."
+      ],
+      [
+        "attract",
+        "引き寄せる。力で物を近づける場合にも、人の関心を引く場合にも使う。",
+        "The charged balloon can attract a small piece of paper."
+      ],
+      [
+        "rather than",
+        "〜ではなく、〜するよりも。二つの行動や選択を比べて述べる。",
+        "They test the idea rather than guess."
+      ],
+      [
+        "invisible",
+        "目に見えない。存在していても見ることができないものを表す。",
+        "The children notice an invisible force."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-21-0700.jpg",
+    "image_alt": "風船に小さな紙片が引き寄せられる様子を観察する二人の子ども"
+  },
+  {
     "date": "2026-11-20",
     "category": "米国ベストセラー書籍",
     "title": "[17:00] Helping Without Taking Over",
