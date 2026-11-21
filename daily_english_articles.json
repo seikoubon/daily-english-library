@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-22",
+    "category": "AI・テクノロジー",
+    "title": "[07:00] Before Sending the Picture",
+    "ja_title": "写真を送る、その前に",
+    "en": "Mina is making a poster for her school's flower show. She has a vase of yellow and white flowers on a classroom table. She wants a short English sentence for the poster. Her teacher suggests using an AI assistant for ideas, then choosing and checking the words herself.\n\nMina takes a picture of the flowers. Before sending it, she shows the screen to her friend Sota. He likes the yellow flowers, but he notices something behind them. A board on the classroom wall has students' names and details about their weekend plans. Mina did not mean to photograph it.\n\nShe was looking only at the vase. The camera, however, caught more than the thing she wanted to show. A picture can include small details around its main subject. When we send the picture, we may also send those details. They are still part of the image, even if we did not notice them.\n\nSota suggests putting a sheet of paper over the board. Mina thinks of an easier plan. She moves the vase to an empty table beside a plain wall. Then she takes another picture. This time, the flowers and the vase are the only things she needs to share.\n\nThe students and their poster are imaginary. Their question is useful in real life: what information does this task need? The assistant can suggest words for a flower poster without knowing anyone's name or weekend plan. Sending less information can still be enough to ask for useful help.\n\nMina looks closely at the new picture before she sends it. She checks the corners as well as the center. There are no people, notebooks, or names in the background. She also asks her teacher whether this picture is suitable for the activity. Then she uses the assistant to get several ideas.\n\nShe chooses a simple sentence and checks its meaning. She changes one word because it is too difficult for younger visitors. The final choice is hers. A suggestion from a tool is a starting point, and she can think about the people who will read the poster.\n\nLater, Sota asks why she kept the first picture on her phone. Mina says she will remove the unwanted photo. She wants to keep the flower picture they can use, rather than two almost identical versions. She checks which one is which before deleting anything.\n\nThe new photo looks simpler. That is fine with Mina. It shows what she meant to show, and she knows why everything in it is there.",
+    "ja": "ミナは学校の花の展示会のポスターを作っています。教室の机には、黄色と白の花を入れた花瓶があります。ポスターに載せる短い英文を考えています。先生は、AIアシスタントで案を出し、その後、自分で言葉を選んで確かめてはどうかと提案します。\n\nミナは花の写真を撮ります。送る前に、友人のソウタに画面を見せます。ソウタは黄色い花を気に入りますが、その後ろにも気づきます。教室の壁のボードに、生徒の名前と週末の予定の詳細が書かれています。ミナはそれを撮るつもりではありませんでした。\n\nミナは花瓶だけを見ていました。しかしカメラには、見せたかったもの以外も写りました。写真には、主な被写体の周りの小さな情報が含まれることがあります。写真を送ると、その情報も送るかもしれません。気づいていなくても、画像の一部であることに変わりはありません。\n\nソウタは、ボードに紙をかぶせようと提案します。ミナはもっと簡単な方法を思いつきます。花瓶を、何もない壁のそばの空いた机へ移します。そして、もう一枚写真を撮ります。今度は、共有する必要があるのは花と花瓶だけです。\n\n生徒もポスターも架空のものです。しかし「この作業にはどんな情報が必要だろう」という問いは、実生活でも役立ちます。アシスタントは、誰かの名前や週末の予定を知らなくても、花のポスターの言葉を提案できます。送る情報を少なくしても、役立つ助けを求めるには十分な場合があります。\n\nミナは送る前に、新しい写真をよく見ます。中央だけでなく、隅も確かめます。背景には人もノートも名前もありません。この活動にふさわしい写真かどうか、先生にも尋ねます。それからアシスタントを使い、いくつか案を出してもらいます。\n\n簡単な文を一つ選び、意味を確認します。年下の来場者には難しすぎる単語が一つあったので、変えます。最後に選ぶのはミナ自身です。道具からの提案は出発点であり、ポスターを読む人のことを考えられます。\n\n後でソウタが、最初の写真をなぜスマートフォンに残しているのか尋ねます。ミナは、不要な写真を消すつもりだと言います。ほとんど同じ写真を二枚持つのではなく、使える花の写真を残したいのです。消す前に、どちらがどちらか確かめます。\n\n新しい写真は、よりすっきりしています。ミナにはそれで十分です。見せたかったものが写っていて、その中のすべてが、なぜそこにあるかもわかっています。",
+    "vocab": [
+      [
+        "mean to",
+        "〜するつもりである。意図した行動を表す。過去形の否定はdid not mean to。",
+        "She did not mean to photograph the board."
+      ],
+      [
+        "subject",
+        "被写体、主題。写真や文章の中心となる対象を指す。",
+        "The flowers are the main subject of the picture."
+      ],
+      [
+        "as well as",
+        "〜だけでなく、〜も。二つの対象をどちらも含めるときに使う。",
+        "She checks the corners as well as the center."
+      ],
+      [
+        "suitable for",
+        "〜に適している。目的や相手に合っていることを表す。",
+        "The simple sentence is suitable for young visitors."
+      ],
+      [
+        "starting point",
+        "出発点。そこから考えたり作業を始めたりするものを指す。",
+        "An AI suggestion can be a starting point for her writing."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-22-0700.jpg",
+    "image_alt": "背景をすっきりさせた花瓶をスマートフォンで撮影する二人の生徒"
+  },
+  {
     "date": "2026-11-21",
     "category": "科学",
     "title": "[17:00] The First Meal Was Already Inside",
