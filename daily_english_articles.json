@@ -2,6 +2,44 @@
   {
     "date": "2026-11-21",
     "category": "科学",
+    "title": "[17:00] The First Meal Was Already Inside",
+    "ja_title": "最初の栄養は、もう中にあった",
+    "en": "A bean seed can begin growing before it has leaves ready to make food. This may seem strange if we remember that green plants use light to produce sugars through photosynthesis. How does a young plant manage its first steps, when it is still beneath the soil or just beginning to emerge?\n\nPart of the answer is packed inside the seed. A bean contains a tiny developing plant and two thick seed leaves called cotyledons. These hold stored food that supports early growth. The first root and shoot do not have to wait for a complete set of working leaves.\n\nImagine a student named Haru watching bean seeds develop beside damp paper in a clear container. He draws them each morning. At first, his notebook seems disappointing: several pages show almost the same shape. Then a small root appears. He wants to know where the energy for that change came from.\n\nHaru's first explanation is that the paper fed the seed. His teacher asks him what evidence would support that idea. The paper holds water near the bean, but that does not mean it supplies the stored food. They discuss the structures inside a seed before deciding what to investigate next.\n\nWater, oxygen, and a suitable temperature help make germination possible. Requirements differ among kinds of seeds, and light matters for the germination of some species. Starting to grow and continuing to grow are also different questions. A seed's reserves are limited; the developing plant eventually needs light for photosynthesis.\n\nHaru had written, “Plants need sunlight,” at the top of his page. He does not erase it, but he adds a question underneath: “At which stage, and for what?” That question helps him separate the beginning of growth from the plant's later need to make its own food.\n\nHe also changes how he records the activity. Instead of writing only “bigger,” he describes which part changed and where it appeared. He notes the date and the conditions around the container. If another seed develops differently, these details may help him compare them without immediately inventing a reason.\n\nHaru and his notebook are imaginary. His question, however, illustrates why a broad scientific statement can become more useful when we examine its conditions. Finding an exception to our first explanation does not mean that everything we learned was wrong. It may mean that our explanation was incomplete.\n\nOn the final page, Haru draws a small leaf beside his earlier seed sketch. Between the two pictures, he writes one word: “How?”",
+    "ja": "豆の種は、養分を作れる葉が整う前から成長を始められます。緑色の植物が光合成で光を使って糖を作ることを思い出すと、不思議に感じるかもしれません。まだ土の中にいるか、地表に出始めたばかりの小さな植物は、最初の成長をどう支えるのでしょうか。\n\n答えの一部は、種の中に詰まっています。豆には、発達途中の小さな植物と、子葉と呼ばれる二つの厚い部分があります。子葉には、初期の成長を支える養分が蓄えられています。最初の根や芽は、十分に働く葉がそろうまで待つ必要がありません。\n\nハルという生徒が、透明な容器の湿った紙のそばで育つ豆の種を観察する場面を想像してください。毎朝絵を描きます。最初のノートは物足りなく見えます。何ページも、ほとんど同じ形だからです。やがて小さな根が現れます。その変化のエネルギーがどこから来たのか、知りたくなります。\n\nハルは最初、紙が種に栄養を与えたのだと考えます。先生は、その考えを支える証拠は何か尋ねます。紙は豆の近くに水分を保ちますが、それは蓄えられた養分を供給しているという意味ではありません。次に何を調べるか決める前に、種の中の構造について話し合います。\n\n発芽には、水、酸素、適した温度が役立ちます。必要な条件は種の種類によって異なり、発芽に光が関わる種類もあります。成長を始めることと、成長を続けることも別の問いです。種の蓄えには限りがあり、育つ植物はやがて光合成のために光を必要とします。\n\nハルはページの上に「植物には日光が必要」と書いていました。消すのではなく、その下に「どの段階で、何のために？」という問いを加えます。この問いによって、成長の始まりと、その後に植物が自分で養分を作る必要とを、分けて考えられます。\n\n観察の記録方法も変えます。「大きくなった」とだけ書かず、どの部分が変わり、どこに現れたかを説明します。日付や容器の周囲の条件も記します。別の種が違う育ち方をしたとき、すぐに理由を作り上げずに比べるうえで、こうした細部が役立つかもしれません。\n\nハルとノートは架空のものです。しかし、その問いは、一般的な科学の説明が、条件を調べることでより役立つものになる理由を示しています。最初の説明に当てはまらない例が見つかっても、学んだことがすべて間違いだったわけではありません。説明が不十分だったのかもしれません。\n\n最後のページに、ハルは以前の種の絵の横へ小さな葉を描きます。二つの絵の間に、一つの言葉を書きます。「どうやって？」。",
+    "vocab": [
+      [
+        "emerge",
+        "姿を現す、出てくる。植物の芽や、それまで見えていなかった物事が現れるときに使う。",
+        "A small shoot began to emerge from the seed."
+      ],
+      [
+        "cotyledon",
+        "子葉。種の中にある最初の葉にあたる部分で、豆では養分を蓄える。複数形はcotyledons。",
+        "The bean has two thick cotyledons."
+      ],
+      [
+        "germination",
+        "発芽。種が成長を始める過程を表す名詞。",
+        "Suitable conditions are important for germination."
+      ],
+      [
+        "reserve",
+        "蓄え、予備。将来使うために保持された物やエネルギーを指す。本文では複数形reserves。",
+        "The seed uses its food reserves during early growth."
+      ],
+      [
+        "incomplete",
+        "不完全な、十分でない。説明や情報に必要な部分が欠けているときに使う。",
+        "His first explanation was incomplete, so he asked another question."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-21-1700.jpg",
+    "image_alt": "温室で豆の発芽を観察しノートの記録と見比べる生徒"
+  },
+  {
+    "date": "2026-11-21",
+    "category": "科学",
     "title": "[12:00] The Pencil That Was Still Straight",
     "ja_title": "曲がって見えても、まっすぐな鉛筆",
     "en": "A pencil lies on the kitchen table, straight from its point to its end. Put part of it into a clear glass of water and look from the side. The pencil may suddenly appear bent or broken near the water's surface. Lift it out, and it looks straight again.\n\nThe water has not repaired the pencil when you remove it. Nothing was broken in the first place. The change is in the path that light takes before reaching your eyes. This everyday surprise is a useful introduction to refraction, a word for the bending of light as it passes between materials.\n\nWe see the pencil because light from it reaches our eyes. Light travels at different speeds in air, water, and glass. When it crosses a boundary at an angle, a change in speed can change its direction. The light arriving from the underwater part therefore follows a different path from the light above it.\n\nOur visual system does not display that whole journey. We usually locate an object as if the light reaching us had continued along a straight path. Because some of the light has changed direction, the part under the water appears to be somewhere else. The two parts no longer seem to line up.\n\nYou can explore the effect without deciding in advance exactly what you should see. Imagine a student named Nao using a pencil and an ordinary glass. She first looks at the pencil before adding water. Then she adds water and looks again from the same position.\n\nNext, Nao moves her head while keeping the glass still. The view changes. She sketches what she sees from two positions and writes where her eyes were. Recording the viewing position matters because another person looking from elsewhere may see a different arrangement. Both people can be describing their observations honestly.\n\nNao also notices that the curved glass can affect the image. She should not assume that every change comes only from the water. For a more careful investigation, she could compare containers with different shapes while keeping other conditions as similar as possible. That would help her ask a clearer question.\n\nNao is an imagined learner, but the bent-pencil effect is a familiar demonstration of refraction. Its value is more than a surprising picture. It separates the object's shape from the information that reaches the observer. Something can look displaced without actually moving to that position.\n\nBefore putting the pencil away, Nao checks it on the dry table once more. She has learned a new word, but she has also learned to describe how she looked.",
