@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-23",
+    "category": "投資・経済",
+    "title": "[07:00] A Full Cash Box",
+    "ja_title": "いっぱいの現金箱",
+    "en": "At an imaginary school fair, Nao and her friend sell thirty handmade postcards. Each card costs one hundred yen to buy. By the end of the day, all the cards are gone. There are three thousand yen in their cash box. Nao smiles and says they have made three thousand yen.\n\nHer friend Jun takes a notebook from his bag. He agrees that they received that much money from customers. However, they spent money before the fair opened. They bought paper and paint for eighteen hundred yen. They also paid two hundred yen to use the table.\n\nNao looks at the box again. The coins are real, but not all of them are money left over from the activity. Some must go back to the class fund that paid for the materials and table. She had forgotten that the class helped them get started.\n\nTheir teacher writes three short lines in the notebook. Money from sales: three thousand yen. Costs: two thousand yen. Money left after those costs: one thousand yen. In this simple example, the one thousand yen is their profit. The money from sales is not the same thing as profit.\n\nFor this exercise, those are their only costs. The students used all the paper and paint for the thirty cards. They have no unsold cards to count. Real businesses can have other costs too. This little example does not show every kind of payment a shop may need to make.\n\nJun puts two thousand yen in an envelope for the class fund. Nao puts the remaining one thousand yen beside their notebook. There is still something to celebrate. They covered their costs and have money left. Understanding the smaller number does not take away the work they did.\n\nThey also count the cards on their list. Thirty cards at one hundred yen each should bring in three thousand yen. The amount in the box matches. Checking both the sales and the costs helps them explain where the money came from and where it needs to go.\n\nBefore they plan another fair, Nao wants to keep the receipts in one place. Jun suggests writing down each cost when they pay it. They will still need to check their notes, but they will not have to remember everything at the end of a busy day.\n\nNao closes the empty cash box after the money is sorted. It looks less exciting now. Her notebook, however, tells a clearer story than a box full of coins.",
+    "ja": "架空の学校の文化祭で、ナオと友人は手作りの絵はがきを三十枚売ります。一枚の販売価格は百円です。一日が終わるころには、すべて売れました。現金箱には三千円あります。ナオは笑顔で、三千円もうかったと言います。\n\n友人のジュンが、かばんからノートを出します。お客さんから受け取ったお金がその金額なのは確かです。しかし、文化祭が始まる前にお金を使っています。紙と絵の具を千八百円で買いました。机の利用料も二百円払いました。\n\nナオはもう一度、箱を見ます。硬貨は本物ですが、すべてが活動で残ったお金ではありません。一部は、材料と机の代金を出してくれたクラスの資金に戻す必要があります。始めるときにクラスが助けてくれたことを、忘れていました。\n\n先生がノートに短く三行書きます。売上は三千円。費用は二千円。その費用を引いて残るお金は千円。この簡単な例では、千円が利益です。売上と利益は同じではありません。\n\nこの練習では、費用はそれだけです。紙と絵の具は三十枚のはがきにすべて使いました。数えるべき売れ残りもありません。実際の事業には、ほかの費用もあります。この小さな例は、店が支払うかもしれないすべての種類の費用を示しているわけではありません。\n\nジュンは、クラスの資金に戻す二千円を封筒に入れます。ナオは残りの千円をノートの横に置きます。それでも喜べることがあります。費用をまかない、お金が残りました。小さいほうの金額を理解しても、二人がした仕事の価値がなくなるわけではありません。\n\nリストのはがきの枚数も確かめます。三十枚を一枚百円で売れば、三千円になるはずです。箱の中の金額と一致します。売上と費用の両方を確かめると、お金がどこから来て、どこへ行く必要があるかを説明できます。\n\n次の文化祭を計画する前に、ナオは領収書を一か所に保管したいと思います。ジュンは、支払うたびに費用を記録しようと提案します。記録を確かめる必要はありますが、忙しい一日の終わりにすべてを思い出さなくても済みます。\n\nお金を分けた後、ナオは空になった現金箱を閉めます。前ほどわくわくする見た目ではありません。しかしノートは、硬貨でいっぱいの箱よりも、はっきりした話を伝えています。",
+    "vocab": [
+      [
+        "cash box",
+        "現金箱。売り場などで現金を入れておく箱を指す。",
+        "They counted the coins in the cash box."
+      ],
+      [
+        "left over",
+        "残っている。使ったり必要分を除いたりした後に残るものを表す。",
+        "They had one thousand yen left over after paying the costs."
+      ],
+      [
+        "profit",
+        "利益。売上から費用を引いて残る金額を説明するときに使う。",
+        "Their profit in this example was one thousand yen."
+      ],
+      [
+        "cover the costs",
+        "費用をまかなう。収入などが必要な費用に足りることを表す。",
+        "They sold enough cards to cover the costs."
+      ],
+      [
+        "receipt",
+        "領収書、レシート。代金を支払った記録となる書類を指す。",
+        "Nao kept every receipt in one envelope."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-23-0700.jpg",
+    "image_alt": "文化祭の絵はがき売り場で現金箱とノートを使い売上と費用を確かめる生徒"
+  },
+  {
     "date": "2026-11-22",
     "category": "AI・テクノロジー",
     "title": "[17:00] The Invitation That Had Not Left",
