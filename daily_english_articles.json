@@ -2,6 +2,44 @@
   {
     "date": "2026-11-22",
     "category": "AI・テクノロジー",
+    "title": "[12:00] The Name the Search Could Not Find",
+    "ja_title": "検索で見つからなかった名前",
+    "en": "Ken is helping his school library make a digital collection of old club newsletters. He scans each page so people can read it on a screen. The library also uses a text recognition tool. It turns pictures of printed letters into text that a computer can search.\n\nThis process is called optical character recognition, or OCR. It can save people from typing every page by hand. However, the text it produces may contain mistakes. Small print, damaged paper, and a complicated page layout can make the job harder. A clear-looking page image does not guarantee perfect searchable text.\n\nIn this imaginary library, Ken wants to find a report written by a former student named Mori. He types the name into the search box, but nothing appears. He is ready to tell the librarian that Mori is not in the collection. She asks him to check one more thing.\n\nThey open a page that Ken remembers seeing earlier. There is the name, printed beside a short report about a camping trip. In the computer's text version, however, the letter “o” has become the number “0.” The printed name and the searchable version are not exactly the same.\n\nThe page has not disappeared. The search has failed to find it through that spelling. Ken realizes that “no result” and “no such page” are different statements. Before drawing a conclusion, he needs to know what the search is actually looking through and how that information was made.\n\nKen compares the text with the page image and corrects the recognition error. He keeps the image because it shows what was on the original page. When another word is too unclear to read, he marks it as unreadable. Guessing would make the text look complete without making it reliable.\n\nThe librarian asks him to check the rest of the report, not just Mori's name. Ken finds several correct sentences and one missing word. Checking takes time, but the recognition tool has still given him a useful first version. He does not need to reject the whole tool because it made mistakes.\n\nKen, Mori, and the newsletter are invented. Their example shows why digital access involves more than taking a picture of paper. The image and the searchable text have different jobs. Keeping both helps a reader compare the convenient version with the evidence behind it.\n\nBefore finishing, Ken searches for Mori again. The report now appears. He adds a note to his own work plan: when a search finds nothing, check the path before saying there is nothing to find.",
+    "ja": "ケンは、学校図書館で古いクラブの会報をデジタル資料にする手伝いをしています。画面で読めるように、ページを一枚ずつスキャンします。図書館では文字認識ツールも使っています。印刷された文字の画像を、コンピューターで検索できる文字データに変えます。\n\nこの処理を、光学文字認識、略してOCRと呼びます。すべてのページを手入力する手間を減らせます。しかし、作られた文字データには間違いが含まれることがあります。小さな文字、傷んだ紙、複雑な紙面の構成は、読み取りを難しくします。ページ画像が鮮明に見えても、検索用の文字が完璧とは限りません。\n\nこの架空の図書館で、ケンは森という卒業生が書いた報告を探します。検索欄にMoriと入力しますが、何も出てきません。ケンは、森の記録は資料にないと司書に伝えようとします。司書は、もう一つ確かめようと言います。\n\n二人は、ケンが以前見た記憶のあるページを開きます。キャンプについての短い報告の横に、名前が印刷されています。しかしコンピューターの文字データでは、アルファベットの「o」が数字の「0」になっています。印刷された名前と検索用のデータは、完全には同じではありません。\n\nページが消えたわけではありません。そのつづりでは検索が見つけられなかったのです。ケンは、「検索結果がない」と「そのページがない」は違うと気づきます。結論を出す前に、実際には何を検索していて、その情報がどう作られたかを知る必要があります。\n\nケンは文字データとページ画像を比べ、読み取りの間違いを直します。元のページに何があったかを示す画像も残します。別の単語が不鮮明で読めないときは、判読できないと記します。推測すれば文字データは完成したように見えますが、信頼できるものになるわけではありません。\n\n司書は、森の名前だけでなく、報告の残りも確かめるよう頼みます。ケンは、正しく読まれた文がいくつかと、抜けた単語を一つ見つけます。確認には時間がかかりますが、認識ツールは役立つ最初の版を作ってくれました。間違えたからといって、ツール全体を否定する必要はありません。\n\nケンも森も会報も架空のものです。この例は、紙の写真を撮るだけではデジタル資料を利用できるようにする作業は終わらないと示しています。画像と検索用の文字には、それぞれ違う役割があります。両方を残すことで、読み手は便利な版と、その裏づけとなる資料を比べられます。\n\n終了前に、ケンはもう一度Moriを検索します。今度は報告が出てきます。自分の作業計画に、「検索で何も見つからないときは、何もないと言う前に、探した道筋を確かめる」と書き加えます。",
+    "vocab": [
+      [
+        "recognition",
+        "認識。形や音などを識別すること。text recognitionは文字認識を表す。",
+        "The library uses text recognition to make scanned pages searchable."
+      ],
+      [
+        "guarantee",
+        "保証する。ある結果が確実だと言う場合に使う。",
+        "A clear page image does not guarantee accurate text."
+      ],
+      [
+        "draw a conclusion",
+        "結論を出す。観察や証拠から判断するときに使う。",
+        "Ken checked the page before drawing a conclusion."
+      ],
+      [
+        "unreadable",
+        "読めない、判読できない。文字が不鮮明な場合などに使う。",
+        "He marked the unclear word as unreadable."
+      ],
+      [
+        "reject",
+        "退ける、受け入れない。案や道具を使わないと判断する場合にも使う。",
+        "One mistake did not make him reject the whole tool."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-22-1200.jpg",
+    "image_alt": "図書館で古い会報とOCRの文字データを見比べる生徒と司書"
+  },
+  {
+    "date": "2026-11-22",
+    "category": "AI・テクノロジー",
     "title": "[07:00] Before Sending the Picture",
     "ja_title": "写真を送る、その前に",
     "en": "Mina is making a poster for her school's flower show. She has a vase of yellow and white flowers on a classroom table. She wants a short English sentence for the poster. Her teacher suggests using an AI assistant for ideas, then choosing and checking the words herself.\n\nMina takes a picture of the flowers. Before sending it, she shows the screen to her friend Sota. He likes the yellow flowers, but he notices something behind them. A board on the classroom wall has students' names and details about their weekend plans. Mina did not mean to photograph it.\n\nShe was looking only at the vase. The camera, however, caught more than the thing she wanted to show. A picture can include small details around its main subject. When we send the picture, we may also send those details. They are still part of the image, even if we did not notice them.\n\nSota suggests putting a sheet of paper over the board. Mina thinks of an easier plan. She moves the vase to an empty table beside a plain wall. Then she takes another picture. This time, the flowers and the vase are the only things she needs to share.\n\nThe students and their poster are imaginary. Their question is useful in real life: what information does this task need? The assistant can suggest words for a flower poster without knowing anyone's name or weekend plan. Sending less information can still be enough to ask for useful help.\n\nMina looks closely at the new picture before she sends it. She checks the corners as well as the center. There are no people, notebooks, or names in the background. She also asks her teacher whether this picture is suitable for the activity. Then she uses the assistant to get several ideas.\n\nShe chooses a simple sentence and checks its meaning. She changes one word because it is too difficult for younger visitors. The final choice is hers. A suggestion from a tool is a starting point, and she can think about the people who will read the poster.\n\nLater, Sota asks why she kept the first picture on her phone. Mina says she will remove the unwanted photo. She wants to keep the flower picture they can use, rather than two almost identical versions. She checks which one is which before deleting anything.\n\nThe new photo looks simpler. That is fine with Mina. It shows what she meant to show, and she knows why everything in it is there.",
