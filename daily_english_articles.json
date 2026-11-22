@@ -2,6 +2,44 @@
   {
     "date": "2026-11-22",
     "category": "AI・テクノロジー",
+    "title": "[17:00] The Invitation That Had Not Left",
+    "ja_title": "まだ出発していなかった招待状",
+    "en": "In an imaginary community center, Haruka is organizing a weekend repair workshop. She uses an AI writing assistant to prepare an invitation. After several changes, the message is clear and friendly. She saves the draft, closes her laptop, and tells another volunteer that the invitations are ready.\n\nHer colleague asks how many people received them. Haruka pauses. She has a complete message on the screen, but she has not selected recipients or sent anything. The word “ready” meant one thing to her and something different to the person planning the chairs and refreshments.\n\nThe assistant in this story helps produce text. Sending the invitation is a separate step in the center's email application. Nothing about a polished paragraph proves that this second action has happened. Haruka confused the completion of a document with the completion of the task that document was meant to support.\n\nShe opens the draft again and checks the date, location, and contact details against the workshop plan. Then she chooses the mailing list she is authorized to use. Before sending, she asks her colleague to confirm the final message. They notice that the room number changed during planning and correct it.\n\nAfter sending the invitation, Haruka checks the email application's record. A sent message appears there. This is stronger evidence of sending than the existence of a draft, but it still does not tell her whether every recipient read it. Later, one address produces a failure notice, so that contact needs separate attention.\n\nThe volunteers decide to describe their progress more precisely. “Draft prepared” means the wording exists. “Message sent” means they have checked the sending record. A reply gives them information about a particular person. These statements answer different questions, and none should silently stand in for all the others.\n\nThis distinction matters when we talk about AI tools. A request can include thinking, writing, saving, and acting, even when it sounds like one simple job. Different tools may handle different parts. We need to understand which actions are available in the system we are actually using rather than assume that every assistant works alike.\n\nHaruka also keeps room for human judgment. A correct sending record would not make an incorrect room number harmless. Checking content and checking action are both necessary in her project. One cannot replace the other, even when the invitation looks professional.\n\nBy the afternoon, the team can give a useful update: the corrected invitation was sent, one address failed, and several people replied. The report is less dramatic than “everything is done,” but it tells the volunteers what to do next.",
+    "ja": "架空の地域センターで、ハルカは週末の修理ワークショップを準備しています。AI文章作成アシスタントを使って招待文を作ります。何度か直すと、わかりやすく親しみやすい文章になりました。下書きを保存してノートパソコンを閉じ、別のボランティアに、招待状の用意ができたと伝えます。\n\n同僚は、何人に届いたのか尋ねます。ハルカは言葉に詰まります。画面には完成した文章がありますが、宛先を選んでも、何かを送ってもいません。「用意ができた」は、ハルカと、椅子や飲み物を準備する人とで、違う意味になっていました。\n\nこの物語のアシスタントは、文章作りを手伝います。招待状を送るのは、センターのメールアプリで行う別の段階です。整った段落があるだけでは、その二番目の動作が実行された証拠にはなりません。ハルカは、文書の完成と、その文書が役立つはずだった仕事の完了を混同していました。\n\n下書きをもう一度開き、日時、場所、連絡先をワークショップの計画と照らし合わせます。それから、利用を認められた配信先リストを選びます。送信前に、同僚にも最終文面を確認してもらいます。計画中に部屋番号が変わっていたことに気づき、直します。\n\n招待状を送った後、ハルカはメールアプリの記録を確かめます。送信済みのメッセージが表示されています。これは下書きがあるだけの場合よりも、送信の強い証拠です。しかし、全員が読んだかどうかは、まだわかりません。後で一つのアドレスについてエラー通知が届いたため、その連絡先には別の対応が必要です。\n\nボランティアたちは、進み具合をもっと正確に表すことにします。「下書き作成済み」は、文面が存在するという意味です。「送信済み」は、送信記録を確認したという意味です。返信からは、特定の人についての情報が得られます。これらは異なる問いに答える言葉で、一つを黙ってすべての代わりにすべきではありません。\n\nこの区別は、AIツールについて話すときにも大切です。一つの簡単な仕事に聞こえても、依頼には考える、書く、保存する、実行するという作業が含まれることがあります。別々のツールが、別々の部分を担当する場合もあります。どのアシスタントも同じように動くと決めつけず、実際に使う仕組みで何ができるかを理解する必要があります。\n\nハルカは、人の判断も大切にします。正しい送信記録があっても、誤った部屋番号の問題は消えません。この準備では、内容の確認と、動作の確認の両方が必要です。招待状が立派に見えても、どちらか一方でもう一方を置き換えることはできません。\n\n午後には、チームは役立つ報告ができるようになります。修正した招待状を送信し、一つのアドレスでは失敗し、何人かから返信があった、と伝えられます。「すべて完了」ほど華やかではありませんが、次に何をすべきかがわかります。",
+    "vocab": [
+      [
+        "recipient",
+        "受取人。メールや招待状などを受け取る相手を指す。",
+        "She selected the recipients before sending the invitation."
+      ],
+      [
+        "confuse A with B",
+        "AとBを混同する。別の事柄を同じものとして扱う場合に使う。",
+        "She confused a finished draft with a completed task."
+      ],
+      [
+        "check A against B",
+        "AをBと照合する。情報の一致や正しさを確かめる表現。",
+        "They checked the room number against the workshop plan."
+      ],
+      [
+        "stand in for",
+        "〜の代わりを務める。人だけでなく、情報や判断の代用にも使う。",
+        "A saved draft cannot stand in for evidence of sending."
+      ],
+      [
+        "judgment",
+        "判断、判断力。情報を踏まえて適切な選択をする働きを表す。",
+        "The volunteers still needed human judgment to check the invitation."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-22-1700.jpg",
+    "image_alt": "地域センターで招待文の下書きと行事計画を照合する二人のボランティア"
+  },
+  {
+    "date": "2026-11-22",
+    "category": "AI・テクノロジー",
     "title": "[12:00] The Name the Search Could Not Find",
     "ja_title": "検索で見つからなかった名前",
     "en": "Ken is helping his school library make a digital collection of old club newsletters. He scans each page so people can read it on a screen. The library also uses a text recognition tool. It turns pictures of printed letters into text that a computer can search.\n\nThis process is called optical character recognition, or OCR. It can save people from typing every page by hand. However, the text it produces may contain mistakes. Small print, damaged paper, and a complicated page layout can make the job harder. A clear-looking page image does not guarantee perfect searchable text.\n\nIn this imaginary library, Ken wants to find a report written by a former student named Mori. He types the name into the search box, but nothing appears. He is ready to tell the librarian that Mori is not in the collection. She asks him to check one more thing.\n\nThey open a page that Ken remembers seeing earlier. There is the name, printed beside a short report about a camping trip. In the computer's text version, however, the letter “o” has become the number “0.” The printed name and the searchable version are not exactly the same.\n\nThe page has not disappeared. The search has failed to find it through that spelling. Ken realizes that “no result” and “no such page” are different statements. Before drawing a conclusion, he needs to know what the search is actually looking through and how that information was made.\n\nKen compares the text with the page image and corrects the recognition error. He keeps the image because it shows what was on the original page. When another word is too unclear to read, he marks it as unreadable. Guessing would make the text look complete without making it reliable.\n\nThe librarian asks him to check the rest of the report, not just Mori's name. Ken finds several correct sentences and one missing word. Checking takes time, but the recognition tool has still given him a useful first version. He does not need to reject the whole tool because it made mistakes.\n\nKen, Mori, and the newsletter are invented. Their example shows why digital access involves more than taking a picture of paper. The image and the searchable text have different jobs. Keeping both helps a reader compare the convenient version with the evidence behind it.\n\nBefore finishing, Ken searches for Mori again. The report now appears. He adds a note to his own work plan: when a search finds nothing, check the path before saying there is nothing to find.",
