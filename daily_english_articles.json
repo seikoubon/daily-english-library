@@ -2,6 +2,44 @@
   {
     "date": "2026-11-23",
     "category": "投資・経済",
+    "title": "[17:00] The Money That Could Not Choose",
+    "ja_title": "過去のお金は、次を選べない",
+    "en": "In an imaginary school club, students are designing a board game for a community event. They have paid three thousand yen for original artwork. The artist has completed the agreed work, and the payment cannot be refunded. Everyone is proud when the colorful pictures arrive.\n\nThen the club tests its game with several younger students. The rules take a long time to explain, and the players seem confused. There are two weeks left before the event. Finishing this version would require more printing, more materials, and several afternoons of practice.\n\nOne member, Kenta, says they must continue because they have already spent three thousand yen. His friend Mei asks whether continuing will bring that money back. It will not. Neither would switching to a simpler game. The payment is the same part of their past under either choice.\n\nEconomists call an expense a sunk cost when it has already been incurred and cannot be recovered. It can be important when we review what happened. However, the decision about what to do next should compare the costs and benefits that can still change.\n\nMei makes two lists. One shows the additional work and money needed to finish the complicated game. The other shows what a simpler version would require. They also discuss what visitors might enjoy. Their estimates are uncertain, so they write down their assumptions rather than pretending to know every result.\n\nThe simpler game would need fewer materials and would be easier to explain during a short visit. The club decides to test that version before making its final choice. Kenta still feels disappointed about the first plan. Understanding the accounting does not remove his feelings about the effort behind it.\n\nTheir teacher explains that recognizing a sunk cost does not always mean abandoning a project. If the original game offered the better use of their remaining resources, continuing could make sense. The problem is using the unrecoverable payment alone as the reason to continue.\n\nThe students keep the artwork and thank the artist for completing the request. Their own design assumptions need another look. They discuss what they could have tested earlier, before ordering finished pictures. That lesson concerns future planning; it does not turn the old payment into money they can spend again.\n\nThe club and its game are invented, but the choice is familiar. Past spending can feel like an instruction. A clearer question is what each available option asks of us now and what it may provide. The three thousand yen records an earlier decision. It cannot make the next one for them.",
+    "ja": "架空の学校のクラブで、生徒たちは地域の催し向けのボードゲームを作っています。オリジナルの絵に三千円を払いました。画家は合意した仕事を完成させており、返金はできません。色鮮やかな絵が届くと、みんな誇らしく思います。\n\nその後、年下の生徒たちにゲームを試してもらいます。ルールの説明に長い時間がかかり、遊ぶ人たちは戸惑っているようです。催しまで二週間。この版を完成させるには、さらに印刷や材料が必要で、何日かの午後を練習に使うことになります。\n\n部員のケンタは、すでに三千円使ったのだから続けなければならないと言います。友人のメイは、続ければそのお金が戻るのか尋ねます。戻りません。簡単なゲームに切り替えても、戻りません。どちらを選んでも、支払いは同じ過去の出来事です。\n\n経済学では、すでに発生し、取り戻せない費用を埋没費用と呼びます。何が起きたかを振り返るときには重要なこともあります。しかし、次に何をするかは、まだ変えられる費用と便益を比べて決めるべきです。\n\nメイは二つのリストを作ります。一つには複雑なゲームを完成させるために追加で必要な作業とお金を書きます。もう一つには、簡単な版に何が必要かを書きます。来場者が何を楽しめそうかも話し合います。見積もりには不確かさがあるので、すべての結果がわかるふりをせず、前提も記します。\n\n簡単なゲームなら材料が少なく済み、短い訪問時間の中でも説明しやすそうです。クラブは最終決定の前に、その版を試すことにします。ケンタは、最初の計画についてまだ残念に思っています。計算を理解しても、そこに注いだ努力への気持ちは消えません。\n\n先生は、埋没費用を認識することは、必ず計画をやめることではないと説明します。元のゲームのほうが、残りの資源をよりよく使えるなら、続ける意味があるかもしれません。問題なのは、戻らない支払いだけを、続行の理由にすることです。\n\n生徒たちは絵を保管し、依頼を完成させてくれた画家に感謝します。見直すべきなのは、自分たちの設計上の前提です。完成した絵を注文する前に、何を試せたか話し合います。それは今後の計画に関する学びであり、過去の支払いが再び使えるお金になるわけではありません。\n\nクラブもゲームも架空ですが、この選択は身近です。過去の支出が、指示のように感じられることがあります。もっと明確な問いは、今選べるそれぞれの案に何が必要で、何が得られそうかです。三千円は以前の判断を記録しています。しかし、生徒たちの代わりに次の判断をすることはできません。",
+    "vocab": [
+      [
+        "refund",
+        "返金する。支払ったお金を戻すこと。本文のcannot be refundedは「返金されない」。",
+        "The completed artwork could not be refunded."
+      ],
+      [
+        "sunk cost",
+        "埋没費用。すでに支払い、今の選択では取り戻せない費用を指す。",
+        "The nonrefundable design payment was a sunk cost."
+      ],
+      [
+        "incur",
+        "費用や損失などを負う。費用が発生することを表すやや改まった動詞。",
+        "The club would incur additional costs by printing more materials."
+      ],
+      [
+        "assumption",
+        "前提、仮定。確定した事実とは別に、計画や推論の土台として置く考えを指す。",
+        "They wrote down the assumptions behind their estimates."
+      ],
+      [
+        "abandon",
+        "断念する、放棄する。進めていた計画などをやめる場合に使う。",
+        "Recognizing a sunk cost does not always mean abandoning the project."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-23-1700.jpg",
+    "image_alt": "完成済みの絵を脇に置き二種類のボードゲーム案を比べる生徒"
+  },
+  {
+    "date": "2026-11-23",
+    "category": "投資・経済",
     "title": "[12:00] The Cups That Came Back",
     "ja_title": "戻ってきたカップ",
     "en": "At an imaginary community concert, volunteers serve juice in reusable cups. The year before, many cups were left on benches or taken home by mistake. This time, the organizers try a different arrangement. Customers pay two hundred yen for juice and leave an extra one hundred yen as a deposit.\n\nThe deposit is not part of the drink's price in this example. A customer gets that money back by returning the cup to a collection table. The organizers explain the two payments separately. They also put the deposit money aside so it is available when people bring their cups back.\n\nAya, one of the volunteers, expects the problem to disappear. If people can recover their money, she thinks, everyone will return a cup. During the first break, however, she finds several cups near the stage. The deposit has given people a reason to return them, but it has not made the return easy.\n\nThe collection table is behind the drinks stand. Visitors leaving by the other gate do not naturally pass it. One family says they looked for the table but could not find it. Another visitor forgot about the deposit while hurrying to catch a bus. Their actions have different explanations.\n\nThe volunteers move the table closer to the main exit and make the directions clearer. They keep a path open so people can approach without joining the drinks line. In this imagined event, more visitors return their cups during the next break. The money matters, but the arrangement of the place matters too.\n\nA deposit changes the immediate choice. Leaving a cup behind now also means leaving money unclaimed. This is an example of an incentive: something that gives people a reason to act in a particular way. An incentive can influence a decision without controlling every person's behavior.\n\nThe organizers do not treat unclaimed deposits as proof of success. They still need cups back, and they want to understand why some remain missing. They record returns and listen to visitors. They also discuss whether asking for extra money at the start makes buying a drink harder for anyone.\n\nThis concert and its results are invented. It does not show that every event should use the same system or charge the same amount. It offers a small question about design: have we considered both the reason to do something and the practical steps required to do it?\n\nAfter the concert, Aya collects the last cup beside a bench. Next year, she will look at the exits before choosing where to put the return table.",
