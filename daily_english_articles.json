@@ -2,6 +2,44 @@
   {
     "date": "2026-11-24",
     "category": "米国ベストセラー書籍",
+    "title": "[17:00] The Sketchbook at Rehearsal",
+    "ja_title": "リハーサルに持ってきたスケッチブック",
+    "en": "In Range: Why Generalists Triumph in a Specialized World, David Epstein explores the value of broad experience. The book became a number one New York Times bestseller. Drawing on examples from several fields, Epstein argues that exploring different activities can help people approach complex, unfamiliar problems.\n\nThat idea makes me think about the skills we carry between places. We usually label activities separately: music, sport, drawing, science. Yet a person does not leave every earlier experience outside the door when joining a new project. Sometimes a useful connection appears only after the project begins.\n\nConsider an imaginary school theater group. A student named Nao has joined to help with its next performance. She enjoys drawing short comics, but she has little experience onstage. During rehearsal, she notices that two volunteers repeatedly try to move different pieces of scenery through the same narrow space.\n\nThe group discusses the problem aloud. Everyone has a suggestion, and Nao finds the spoken instructions difficult to follow. She opens her sketchbook and draws three small views of the stage. Each shows a different moment during the scene change, with the scenery in a different position.\n\nHer drawings make the order easier to discuss. One volunteer points out that a chair still needs to be moved before a larger panel can pass. Nao changes the second sketch. They try the sequence slowly, discover another difficulty, and adjust the plan together.\n\nHer experience making comics has given her practice showing an event through a series of images. At rehearsal, that familiar method becomes useful in a new setting. The group still needs practical knowledge of its stage, equipment, and timing. Nao's contribution joins those skills and helps the members communicate.\n\nNao and the rehearsal are invented, so they are not evidence from Epstein's research. Their purpose is to make one possible connection easy to imagine. A skill developed in one activity may offer a way into another problem, especially when we recognize what the two situations have in common.\n\nFinding that connection also takes attention. Nao could have kept drawing privately and assumed it had nothing to do with theater. The volunteers could have ignored the sketches. Instead, they examine the idea, add their knowledge, and test it against the space they actually have.\n\nAfter rehearsal, Nao adds a note beneath the final sketch. Next time, she wants to ask how long each movement takes. Her old skill has helped her participate, and the new activity has given her something else to learn. The sketchbook returns home with more than another finished picture.",
+    "ja": "『Range: Why Generalists Triumph in a Specialized World』で、デイビッド・エプスタインは幅広い経験の価値を探ります。この本はニューヨーク・タイムズのベストセラーで一位になりました。著者は複数の分野の例を使い、さまざまな活動を経験することが、複雑で慣れない問題への取り組みに役立つと論じています。\n\nこの考えから、私たちが場所を移るときに持ち運ぶ技能について考えたくなります。音楽、スポーツ、絵、科学というように、活動には別々の名前を付けがちです。しかし新しい計画に参加するとき、以前の経験をすべてドアの外に置いてくるわけではありません。始めてから、役立つつながりが見えることもあります。\n\n架空の学校の演劇グループを考えてみましょう。ナオという生徒が、次の公演を手伝うために参加しました。短い漫画を描くのが好きですが、舞台の経験はほとんどありません。リハーサル中、二人の手伝いの生徒が、別々の舞台装置を同じ狭い場所に同時に通そうとしてしまうことに気づきます。\n\nグループは声を出して問題を話し合います。全員に案があり、ナオは口頭の指示を追うのが難しいと感じます。スケッチブックを開き、舞台の小さな絵を三つ描きます。場面転換の異なる瞬間を、それぞれ違う位置に舞台装置を置いて示します。\n\n絵があると、順序を話し合いやすくなります。一人が、大きなパネルを通す前に椅子を動かす必要があると指摘します。ナオは二枚目の絵を変えます。順番どおりゆっくり試すと、別の難しさも見つかり、一緒に計画を調整します。\n\n漫画を作る経験によって、ナオは一連の絵で出来事を示す練習をしていました。リハーサルでは、その慣れた方法が新しい場所で役立ちます。グループには、舞台、道具、タイミングについての実務的な知識も必要です。ナオの工夫はそうした技能に加わり、メンバーの意思疎通を助けます。\n\nナオもリハーサルも創作なので、エプスタインの研究の証拠ではありません。一つのつながりを想像しやすくするための例です。ある活動で育てた技能は、別の問題に取り組む入口になるかもしれません。特に、二つの状況に何が共通するかに気づくときに役立ちます。\n\nつながりを見つけるには、注意も必要です。ナオは、一人で絵を描き続け、演劇とは関係ないと思ったかもしれません。手伝いの生徒たちも、絵を無視できたでしょう。実際には、その案を検討し、自分たちの知識を加え、使える空間に照らして試します。\n\nリハーサル後、ナオは最後の絵の下にメモを加えます。次は、それぞれの移動にどれだけ時間がかかるか尋ねたいのです。以前の技能が参加を助け、新しい活動が次に学ぶことを与えてくれました。スケッチブックには、完成した絵以上のものを入れて持ち帰ります。",
+    "vocab": [
+      [
+        "broad experience",
+        "幅広い経験。複数の分野や活動にまたがる経験を表す。",
+        "Broad experience can offer different ways to approach a problem."
+      ],
+      [
+        "scenery",
+        "舞台装置、背景。演劇では舞台上の場所を表すセットなどを指す。通常は不可算名詞。",
+        "The volunteers moved the scenery between scenes."
+      ],
+      [
+        "sequence",
+        "順序、一連の流れ。動作や出来事が並ぶ順番を表す。",
+        "They tested the sequence slowly before the performance."
+      ],
+      [
+        "contribution",
+        "貢献、役立つ働き。人が活動に加える技能や工夫などを指す。",
+        "Nao's contribution helped the group discuss the scene change."
+      ],
+      [
+        "have in common",
+        "共通して持つ。複数の物事に似た特徴や要素があることを表す。",
+        "She noticed what comics and stage planning had in common."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-24-1700.jpg",
+    "image_alt": "演劇のリハーサルでスケッチを使い舞台装置の移動順を相談する生徒"
+  },
+  {
+    "date": "2026-11-24",
+    "category": "米国ベストセラー書籍",
     "title": "[12:00] The Kite I Wanted to Make",
     "ja_title": "自分で選ぶ、凧の模様",
     "en": "In The Giver, a bestselling novel by Lois Lowry, Jonas lives in a community where people's lives are carefully controlled. Each person is given a role. At twelve, Jonas begins special training with the Giver, who holds memories that other people do not share. Learning about those memories changes how Jonas understands his world.\n\nThe story raises large questions about freedom, feelings, and choice. A much smaller question came to mind for me: when does a helpful plan leave enough room for the people using it? Imagine the following school activity, which is separate from the novel.\n\nA class is making kites for a spring event. Their teacher brings one finished kite as a model. It has blue stripes across white paper. She wants to show how the frame fits together and where to attach the string. The model makes a difficult task easier to understand.\n\nRiku begins copying the stripes. Then he stops. He wants to paint a red sun instead, but he is unsure whether changing the picture means doing the activity incorrectly. Across the table, Aya is relieved to have a pattern she can copy. Choosing a design would take her a long time.\n\nTheir teacher notices the different reactions. She explains that the frame must follow the instructions, but the decoration does not have to match her kite. Students may use her pattern, change it, or create their own. They all have the same amount of paper and paint.\n\nRiku smiles and starts his sun. Aya keeps the blue stripes. Neither choice makes one student more creative or more independent in every part of life. For this activity, they simply want different kinds of support. One needs permission to change the example; the other finds the example useful.\n\nThe classroom is not a scene from The Giver. Still, reading about Jonas can encourage us to ask what a familiar arrangement allows and what it prevents. A plan may be easy to explain while hiding a choice that people did not know they had.\n\nFreedom in this small example does not mean removing every rule. The kites still need frames that work, and the paint must be shared. The teacher makes the necessary limits clear while leaving the design open. The students can understand both the common task and their own part in it.\n\nWhen the class carries its kites outside, some look alike and some look different. Riku does not need every kite to have a red sun. He is pleased that his own does, because he chose it.",
