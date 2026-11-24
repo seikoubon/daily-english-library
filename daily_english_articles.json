@@ -2,6 +2,44 @@
   {
     "date": "2026-11-24",
     "category": "米国ベストセラー書籍",
+    "title": "[12:00] The Kite I Wanted to Make",
+    "ja_title": "自分で選ぶ、凧の模様",
+    "en": "In The Giver, a bestselling novel by Lois Lowry, Jonas lives in a community where people's lives are carefully controlled. Each person is given a role. At twelve, Jonas begins special training with the Giver, who holds memories that other people do not share. Learning about those memories changes how Jonas understands his world.\n\nThe story raises large questions about freedom, feelings, and choice. A much smaller question came to mind for me: when does a helpful plan leave enough room for the people using it? Imagine the following school activity, which is separate from the novel.\n\nA class is making kites for a spring event. Their teacher brings one finished kite as a model. It has blue stripes across white paper. She wants to show how the frame fits together and where to attach the string. The model makes a difficult task easier to understand.\n\nRiku begins copying the stripes. Then he stops. He wants to paint a red sun instead, but he is unsure whether changing the picture means doing the activity incorrectly. Across the table, Aya is relieved to have a pattern she can copy. Choosing a design would take her a long time.\n\nTheir teacher notices the different reactions. She explains that the frame must follow the instructions, but the decoration does not have to match her kite. Students may use her pattern, change it, or create their own. They all have the same amount of paper and paint.\n\nRiku smiles and starts his sun. Aya keeps the blue stripes. Neither choice makes one student more creative or more independent in every part of life. For this activity, they simply want different kinds of support. One needs permission to change the example; the other finds the example useful.\n\nThe classroom is not a scene from The Giver. Still, reading about Jonas can encourage us to ask what a familiar arrangement allows and what it prevents. A plan may be easy to explain while hiding a choice that people did not know they had.\n\nFreedom in this small example does not mean removing every rule. The kites still need frames that work, and the paint must be shared. The teacher makes the necessary limits clear while leaving the design open. The students can understand both the common task and their own part in it.\n\nWhen the class carries its kites outside, some look alike and some look different. Riku does not need every kite to have a red sun. He is pleased that his own does, because he chose it.",
+    "ja": "ロイス・ローリーのベストセラー小説『The Giver』で、ジョナスは人々の暮らしが細かく管理された共同体に住んでいます。一人ひとりに役割が与えられます。十二歳になると、ほかの人たちが共有していない記憶を持つギヴァーから、特別な訓練を受け始めます。その記憶を知ることで、自分の世界への理解が変わっていきます。\n\n物語は、自由、感情、選択について大きな問いを投げかけます。そこから私は、もっと小さな問いを思いつきました。役立つ計画には、使う人のための余地が、どれくらいあればよいのでしょうか。小説とは別の、次の学校の活動を想像してください。\n\nあるクラスが、春の行事のために凧を作っています。先生は見本として完成した凧を一つ持ってきます。白い紙に青いしま模様があります。骨組みの組み方や、糸を取り付ける位置を示したいのです。見本によって、難しい作業がわかりやすくなります。\n\nリクは、しま模様を写し始めます。それから手を止めます。赤い太陽を描きたいのですが、絵を変えると活動を間違って行うことになるのか、自信がありません。向かいのアヤは、写せる模様があってほっとしています。デザインを選ぶには時間がかかりそうだからです。\n\n先生は、二人の違う反応に気づきます。骨組みは説明どおりに作る必要があるけれど、飾りは先生の凧と同じでなくてよいと説明します。見本の模様を使っても、変えても、自分で作ってもかまいません。紙と絵の具の量は、全員同じです。\n\nリクは笑顔で太陽を描き始めます。アヤは青いしま模様を続けます。どちらを選んだからといって、生活のあらゆる場面で、一方がより創造的で自立しているとは言えません。この活動では、必要な支えが違うだけです。一人は見本を変えてよいとわかる必要があり、もう一人には見本が役立ちます。\n\nこの教室は『The Giver』の一場面ではありません。それでもジョナスについて読むと、慣れた仕組みが何を許し、何を妨げるのかを尋ねたくなります。説明しやすい計画の中に、人々が存在に気づいていない選択肢が隠れている場合があります。\n\nこの小さな例での自由は、あらゆる決まりをなくすことではありません。凧には、きちんと働く骨組みが必要で、絵の具も分け合わなければなりません。先生は必要な制約を明確にしながら、デザインは自由にします。生徒は、共通の課題と、自分自身の担当の両方を理解できます。\n\nクラスが凧を外へ運ぶと、似たものも、違うものもあります。リクは、すべての凧に赤い太陽が必要だとは思いません。自分の凧に太陽があることがうれしいのです。自分で選んだからです。",
+    "vocab": [
+      [
+        "role",
+        "役割。集団や活動の中で担当する仕事や立場を表す。",
+        "Each person is given a role in the community."
+      ],
+      [
+        "leave room for",
+        "〜の余地を残す。場所だけでなく、選択や工夫の可能性にも使う。",
+        "The plan leaves room for students' own ideas."
+      ],
+      [
+        "relieved",
+        "ほっとした。心配や不安が和らいだ気持ちを表す。",
+        "Aya was relieved to have a pattern she could copy."
+      ],
+      [
+        "permission",
+        "許可。permission to doで「〜する許可」と表せる。",
+        "Riku needed permission to change the design."
+      ],
+      [
+        "limit",
+        "制限、限度。活動や選択の範囲を定める条件を指す。",
+        "The teacher explained the limits before they started."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-24-1200.jpg",
+    "image_alt": "赤い太陽と青いしま模様の凧をそれぞれ作る生徒と見守る先生"
+  },
+  {
+    "date": "2026-11-24",
+    "category": "米国ベストセラー書籍",
     "title": "[07:00] A Hello Beside the Gate",
     "ja_title": "門のそばの、小さなあいさつ",
     "en": "In Because of Winn-Dixie, a novel by Kate DiCamillo, a girl named Opal finds a dog in a supermarket. She calls him Winn-Dixie. The dog helps her make friends in the town where she now lives. This book became a number one New York Times bestseller.\n\nA dog can give people something to talk about. So can a plant, a drawing, or a favorite game. The first conversation does not have to be exciting. Sometimes a small question gives two people a chance to learn one thing about each other.\n\nHere is a separate, imaginary story. Kumi has moved to a new street. Every morning, she sees an older woman watering flowers beside a gate. Kumi says hello, and the woman says hello back. After a week, Kumi still does not know what else to say.\n\nOne day, a small purple flower opens. Kumi stops and asks its name. The woman tells her, but Kumi cannot remember the long word. They both laugh. Then the woman explains that the plant came from her sister's garden. She points to another pot that is still empty.\n\nKumi asks whether something will grow there too. The woman says she has not decided what to plant. Kumi tells her about the yellow flowers at her old school. She does not know their name either. This time, she has something to share, not just something to ask.\n\nThe conversation lasts only a few minutes. Kumi is not suddenly the woman's closest friend. However, the gate feels different the next morning. Kumi can ask about the empty pot. The woman can ask how Kumi's first week at school is going. They remember part of yesterday's talk.\n\nKumi and the woman are not characters in DiCamillo's book. Their meeting is one way to think about making connections. We do not need to know another person's whole life before speaking. We can begin with something we both notice and listen carefully to the answer.\n\nThis does not mean that everyone wants a long conversation. Some mornings, the woman is busy. Kumi gives a short greeting and walks on. Another day, they have time to talk. A friendly connection can grow without asking the other person to stop everything for us.\n\nWhen Kumi later reads about Opal and Winn-Dixie, she thinks about the gate. Her own story has no supermarket dog. It does have a purple flower, an empty pot, and a question she was glad to ask.",
