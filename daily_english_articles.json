@@ -2,6 +2,44 @@
   {
     "date": "2026-11-25",
     "category": "文化・社会",
+    "title": "[12:00] A Place at the Game Table",
+    "ja_title": "ゲームのテーブルに加わる場所",
+    "en": "When Haru arrives at a neighborhood board game afternoon, he hears laughter before he reaches the room. Four people are already moving small pieces across a colorful board. He knows nobody there. The notice said that beginners were welcome, but everyone seems to understand something he does not.\n\nOne player, Maya, notices him standing near the door. She brings over a chair and explains the goal of their game. Haru sits down, yet he still feels lost. The players use short expressions that mean nothing to him. By the time he understands one action, the next person has finished another.\n\nThis imaginary scene shows a problem that can appear in many social groups. An invitation can open the door, while the activity inside remains difficult to join. People who have done something together for years may forget how much they once needed to learn. Being friendly is a useful beginning, but a newcomer may need practical help too.\n\nDuring a break, Maya asks Haru which part was confusing. He admits that he could not tell what choices were available on his turn. She suggests playing a short practice round before the next full game. This time, each player explains a decision aloud. Haru can ask questions without worrying about slowing down an important match.\n\nThe group also puts a spare set of pieces beside the board. Maya uses them to show an example. Instead of hearing several rules at once, Haru sees one choice and its result. He begins to understand the game. When the practice ends, he asks to play again.\n\nNot everyone wants the same kind of afternoon. Two experienced players enjoy a faster game, so they move to a second table. The others continue with Haru. Nobody has to pretend that different interests have disappeared. They simply arrange the room so that both kinds of play have a place.\n\nA month later, another visitor arrives. Haru is still learning, but he recognizes the uncertain look near the door. He offers a chair and asks whether the visitor has played before. Then he checks with the others about trying another practice round. He remembers which explanation helped him most.\n\nA welcoming group does not need a perfect speech or an expert teacher at every table. It needs people who notice when someone cannot take part, ask a specific question, and make a useful change. The chair matters because it offers a place to sit. The practice round matters because it makes that place easier to use.",
+    "ja": "ハルが近所のボードゲーム会に着くと、部屋に入る前から笑い声が聞こえます。すでに四人が、色鮮やかな盤の上で小さな駒を動かしています。知り合いはいません。案内には初心者歓迎とありましたが、みんな自分の知らない何かを理解しているようです。\n\nプレイヤーの一人、マヤが、入り口近くに立つハルに気づきます。椅子を持ってきて、ゲームの目的を説明します。ハルは座りますが、まだよくわかりません。プレイヤーたちが使う短い表現の意味がわからないのです。一つの動きを理解するころには、次の人が別の動きを終えています。\n\nこの架空の場面は、さまざまな集まりで起こりうる問題を示しています。招待によって入り口は開いても、中で行われている活動には加わりにくい場合があります。何年も一緒に何かをしてきた人たちは、最初にどれほど学ぶ必要があったかを忘れることがあります。親しみやすく接することはよい出発点ですが、新しく来た人には具体的な手助けも必要かもしれません。\n\n休憩中、マヤはどの部分が難しかったかをハルに尋ねます。ハルは、自分の番に何を選べるのかわからなかったと打ち明けます。マヤは、次の正式なゲームの前に短い練習をしてはどうかと提案します。今度は、それぞれが自分の判断を声に出して説明します。ハルは、大事な対戦を遅らせる心配をせずに質問できます。\n\nみんなは予備の駒も盤の横に置きます。マヤはそれを使って例を見せます。ハルは一度にいくつものルールを聞く代わりに、一つの選択とその結果を見ることができます。ゲームがわかり始めました。練習が終わると、もう一度やりたいと言います。\n\n全員が同じ過ごし方を望んでいるわけではありません。経験豊富な二人は速い展開を楽しみたいので、別のテーブルに移ります。ほかの人たちはハルと続けます。好みの違いがなくなったふりをする必要はありません。二通りの遊び方にそれぞれ場所があるよう、部屋を整えただけです。\n\n一か月後、別の人が初めて訪ねてきます。ハルはまだ学んでいる途中ですが、入り口付近にいる人の不安そうな様子に気づきます。椅子を勧め、遊んだことがあるか尋ねます。そして、また練習をしてみないかとみんなに相談します。どんな説明が一番役立ったか、覚えているのです。\n\n人を迎える集まりに、完璧な挨拶や、すべてのテーブルに熟練した先生が必要なわけではありません。必要なのは、参加できずにいる人に気づき、具体的に尋ね、役立つ変更をする人です。椅子には座る場所を提供する意味があります。練習には、その場所で活動しやすくする意味があるのです。",
+    "vocab": [
+      [
+        "feel lost",
+        "途方に暮れる、何をすればよいかわからない。慣れない状況で理解が追いつかない気持ちにも使う。",
+        "Haru feels lost during his first game."
+      ],
+      [
+        "newcomer",
+        "新しく加わった人、初参加者。集団や場所に来たばかりの人を指す。",
+        "Maya explains the activity to the newcomer."
+      ],
+      [
+        "aloud",
+        "声に出して。読む、話す、考えを言葉にする動作を説明する副詞。",
+        "Each player explains a decision aloud."
+      ],
+      [
+        "at once",
+        "一度に、同時に。多くの情報や動作が重なるときに使う。",
+        "Do not explain all the rules at once."
+      ],
+      [
+        "take part",
+        "参加する。活動名を続ける場合は take part in を使う。",
+        "Everyone should have a chance to take part in the game."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-25-1200.jpg",
+    "image_alt": "地域のボードゲーム会で初参加の青年に駒の動かし方を見せる女性"
+  },
+  {
+    "date": "2026-11-25",
+    "category": "文化・社会",
     "title": "[07:00] The Recipe with Room for Notes",
     "ja_title": "書き足す余白のあるレシピ",
     "en": "On Sunday morning, Emi visits her grandmother to make pancakes. Her grandmother has made them for years, but there is no written recipe. She takes out a bowl and a wooden spoon. Emi brings a notebook. She wants to make the same breakfast at home next week.\n\n“How much flour do we need?” Emi asks. Her grandmother points to a cup. “About this much,” she says. Then she adds a little more. Emi looks at her empty page. A recipe seems easy to write until the cook uses words like “a little” and “about.”\n\nThey decide to measure the flour together. Emi writes down the amount. Her grandmother shows her how the mixture should look before it goes into the pan. Emi draws a small picture beside the words. Some things are easier to remember when she can see them too.\n\nThis is an imaginary family, but their task is easy to picture. A person can know how to do something without knowing how to explain every step. Teaching someone else asks us to slow down. We must notice actions that have become ordinary through many years of practice.\n\nWhile the first pancake cooks, Emi asks where the dish came from. Her grandmother says her own father used to make a similar breakfast. He liked smaller pancakes because he could fit several in the pan. She has made hers larger. Emi had never heard that part of the story.\n\nAt home the following Sunday, Emi follows her notes. Her pancakes are smaller than her grandmother's, and one has a very strange shape. She takes a picture to show her later. She also writes a new note: leave more space between them when putting the mixture in the pan.\n\nWhen they meet again, her grandmother laughs kindly at the picture. They talk about what went well and what was difficult. Emi asks whether she should change the recipe page. Her grandmother suggests keeping the first notes and adding the new ones underneath. That way, they can see what Emi learned.\n\nThe notebook now holds amounts, drawings, and a short family memory. It is useful for making breakfast, but it also records a morning they spent together. Passing on a family practice can include both the steps we follow and the stories we tell while doing them.\n\nEmi leaves room at the bottom of the page. Her younger brother wants to try next time. He may need a different drawing or have another question. The recipe is ready to use, with space for another person to learn.",
