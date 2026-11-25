@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-26",
+    "category": "AI・テクノロジー",
+    "title": "[07:00] One Drawing, Three Layers",
+    "ja_title": "一枚の絵、三つのレイヤー",
+    "en": "Rina is drawing a little red boat on a tablet. The boat is on a blue lake, and there are white clouds above it. She likes the boat, but she wants to change the lake to green. When she paints over the water, part of the boat disappears too.\n\nHer brother Kota sits beside her. “Let's try using layers,” he says. Rina has seen that word in the drawing app, but she has never used the button. Kota gets three clear sheets from a box. He puts a sheet of white paper under them.\n\nOn the first clear sheet, he draws some water. On the second, he draws a boat. On the third, he adds clouds. He puts the three sheets together. They look like one picture. Then he lifts the boat sheet away. The water and clouds are still there.\n\nRina moves the boat sheet to the right. Now the boat seems to be in a different part of the lake. She has changed its place without drawing the water again. Kota explains that layers in their app let them work on separate parts of a picture in a similar way.\n\nThis is a made-up story, but the clear sheets help show the idea. A picture can look like one thing while its parts stay separate. The order matters too. When Rina puts the water sheet above the boat sheet, some blue marks cover the boat. She quickly puts the boat back on top.\n\nThey return to the tablet. Rina starts a new picture with three layers. She draws the lake first, the boat second, and the clouds last. Before painting, she checks which layer she has chosen. This time, she changes the water without touching the red boat.\n\nLater, Rina wants to see the picture without clouds. She hides the cloud layer instead of removing it. She likes the empty sky, but she also likes being able to bring the clouds back. She can compare both pictures before making a choice.\n\nLayers do not decide what Rina should draw. She still chooses the colors, shapes, and places of the objects. They give her a way to change one part while keeping another. Learning the small button takes time, but it makes her next change easier.\n\nAt the end, Rina adds a fourth layer for a yellow sun. She smiles and moves it toward a corner. The boat stays where it is. This time, trying a new idea does not mean starting the whole picture again.",
+    "ja": "リナはタブレットで小さな赤いボートを描いています。ボートは青い湖に浮かび、上には白い雲があります。ボートは気に入っていますが、湖を緑色に変えたいと思います。水の上から色を塗ると、ボートの一部まで消えてしまいます。\n\n兄のコウタが隣に座ります。「レイヤーを使ってみよう」と言います。リナはお絵描きアプリでその言葉を見たことがありますが、そのボタンは使ったことがありません。コウタは箱から透明なシートを三枚取り出します。その下に白い紙を敷きます。\n\n一枚目の透明なシートに水を描きます。二枚目にはボートを描きます。三枚目には雲を加えます。三枚を重ねると、一枚の絵に見えます。次に、ボートのシートを持ち上げて取り去ります。水と雲はそのまま残っています。\n\nリナはボートのシートを右に動かします。ボートが湖の別の場所にあるように見えます。水を描き直さずに、ボートの位置を変えられました。コウタは、二人の使っているアプリのレイヤーでも、同じように絵の各部分を分けて作業できると説明します。\n\nこれは作り話ですが、透明なシートは仕組みを理解する助けになります。絵は一つに見えても、各部分を別々にしておけます。重ねる順番も大切です。リナが水のシートをボートのシートの上に置くと、青い線がボートに重なります。すぐにボートを一番上に戻します。\n\n二人はタブレットに戻ります。リナは三つのレイヤーを使って新しい絵を描き始めます。最初に湖、次にボート、最後に雲を描きます。色を塗る前に、どのレイヤーを選んでいるか確かめます。今度は、赤いボートに手を加えずに水の色を変えられます。\n\nその後、リナは雲のない絵を見たくなります。雲を消してしまう代わりに、雲のレイヤーを非表示にします。何もない空も好きですが、雲を戻せることも気に入っています。決める前に、両方の絵を比べられます。\n\nレイヤーがリナの描くものを決めるわけではありません。色や形、物の位置を選ぶのは、今もリナです。レイヤーは、一つの部分を残しながら別の部分を変える方法を与えてくれます。小さなボタンの使い方を覚えるには時間がかかりますが、次の変更は楽になります。\n\n最後に、リナは黄色い太陽のために四つ目のレイヤーを加えます。笑顔で太陽を隅のほうへ動かします。ボートは同じ場所にあります。今度は、新しい考えを試すために絵全体を最初から描き直す必要はありません。",
+    "vocab": [
+      [
+        "layer",
+        "層、レイヤー。デジタルの絵では、ほかの部分と分けて描ける重なりを指す。",
+        "Rina draws the boat on a new layer."
+      ],
+      [
+        "separate",
+        "別々の、分かれた。ひとまとまりにせず区別しておくときに使う。",
+        "The parts of the picture stay separate."
+      ],
+      [
+        "on top",
+        "一番上に。重ねたものの最上部の位置を表す。",
+        "She puts the boat sheet on top."
+      ],
+      [
+        "hide",
+        "隠す、非表示にする。見えなくすることを表し、必ずしも削除する意味ではない。",
+        "She hides the cloud layer."
+      ],
+      [
+        "compare",
+        "比べる。二つ以上のものの似ている点や違いを見るときに使う。",
+        "Rina compares the two pictures."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-26-0700.jpg",
+    "image_alt": "透明なシートとタブレットで絵のレイヤーの仕組みを学ぶ兄妹"
+  },
+  {
     "date": "2026-11-25",
     "category": "文化・社会",
     "title": "[17:00] The Mural We Could Disagree About",
