@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-27",
+    "category": "投資・経済",
+    "title": "[07:00] The Boxes That Did Not Arrive",
+    "ja_title": "届かなかった箱",
+    "en": "Every Monday, a truck brings notebooks to a small shop run by Mr. Mori. He buys them from a company across the river. The notebooks sell well, and the company usually delivers on time. Mr. Mori likes having a simple plan. He orders from the same place each week.\n\nOne morning, the boxes do not arrive. Heavy rain has damaged the road near the river. The company has plenty of notebooks, but its truck cannot use the usual route. Mr. Mori looks at his shelf. There are only six notebooks left, and a new school term begins soon.\n\nHis daughter Hana asks why he cannot just order more. He explains that ordering is only one part of the job. Someone must make the notebooks, pack them, and bring them to the shop. If one part stops, the whole journey can slow down. These connected steps form a supply chain.\n\nThe people and the shop in this story are imaginary. Their problem shows why a product can be hard to buy even when someone has already made it. A full room at a supplier does not always mean a full shelf at a shop. The goods still need a way to travel.\n\nMr. Mori calls a second company on his side of the river. It can bring ten notebooks the next day. However, they cost more, and their covers are different. He decides to buy a small amount. He tells customers which notebooks are available instead of promising the usual ones.\n\nHana suggests filling the back room with extra notebooks after the road opens. Then the shop would never run out, she says. Her father points to the other goods in the room. Extra notebooks need space and money too. Also, customers may want a different size or cover next month.\n\nThey write down several choices. They could keep a few more notebooks, learn about another supplier, or order earlier before a busy week. None of these choices removes every problem. Each changes how the shop uses its money, space, and time. Mr. Mori wants to compare them carefully.\n\nWhen the road opens again, the usual truck returns. Mr. Mori is glad, but he keeps the second company's phone number. He also makes a note of the week when notebooks sold fastest. The late boxes have given him a reason to look beyond the price on an order form.\n\nHana helps place the new notebooks on the shelf. This time, she imagines the road, the truck, and the people behind each one. A simple object can have a long journey before it reaches a customer's bag.",
+    "ja": "毎週月曜日、森さんが営む小さな店に、トラックがノートを届けます。川の向こうの会社から仕入れています。ノートはよく売れ、その会社はたいてい時間どおりに届けてくれます。森さんは予定がシンプルなことを気に入っています。毎週、同じところに注文します。\n\nある朝、箱が届きません。大雨で川の近くの道路が傷んだのです。会社にはノートがたくさんありますが、トラックはいつもの道を使えません。森さんは棚を見ます。ノートは六冊しか残っておらず、もうすぐ新学期です。\n\n娘のハナは、どうしてもっと注文しないのかと尋ねます。父親は、注文は仕事の一部分にすぎないと説明します。誰かがノートを作り、箱に詰め、店まで運ばなければなりません。一つの部分が止まると、旅全体が遅くなることがあります。こうしたつながった手順が、サプライチェーンを形作ります。\n\nこの物語の人々と店は架空のものです。その問題は、すでに作られている商品でも、買いにくくなる理由を示しています。仕入れ先の部屋が商品でいっぱいでも、店の棚までいっぱいとは限りません。商品には、まだ移動する手段が必要なのです。\n\n森さんは、川のこちら側にある別の会社に電話します。翌日ならノートを十冊届けられます。ただし、値段は高く、表紙も違います。森さんは少量を買うことにします。いつものノートがあると約束する代わりに、どのノートを用意できるかをお客さんに伝えます。\n\n道路が開いたら、奥の部屋を予備のノートでいっぱいにしようとハナは提案します。そうすれば品切れにならない、と言います。父親は部屋のほかの商品を指さします。予備のノートにも場所とお金が必要です。それに来月は、お客さんが違う大きさや表紙を欲しがるかもしれません。\n\n二人はいくつかの選択肢を書きます。ノートを少し多めに置く、別の仕入れ先について調べる、忙しい週の前に早めに注文する、といった方法です。どれを選んでも、すべての問題がなくなるわけではありません。それぞれ、店のお金、場所、時間の使い方を変えます。森さんは慎重に比べたいと考えています。\n\n道路が再び開くと、いつものトラックが戻ってきます。森さんは喜びますが、二つ目の会社の電話番号も残しておきます。ノートが一番速く売れた週についてもメモします。遅れた箱は、注文書の値段以外にも目を向けるきっかけになりました。\n\nハナは新しいノートを棚に並べるのを手伝います。今度は、一冊一冊の背後にある道、トラック、人々を思い浮かべます。単純な品物でも、お客さんのかばんに入るまでには長い旅があるのです。",
+    "vocab": [
+      [
+        "deliver",
+        "届ける、配達する。商品や荷物を目的地へ運ぶときに使う。",
+        "The company delivers notebooks every Monday."
+      ],
+      [
+        "supplier",
+        "仕入れ先、供給業者。店などに商品や材料を提供する相手を指す。",
+        "Mr. Mori calls another supplier."
+      ],
+      [
+        "supply chain",
+        "サプライチェーン、供給のつながり。商品を作り、運び、届けるまでの一連の流れ。",
+        "A closed road can affect a supply chain."
+      ],
+      [
+        "run out",
+        "尽きる、品切れになる。run out of の後ろに、なくなる物を続けられる。",
+        "The shop may run out of notebooks."
+      ],
+      [
+        "available",
+        "手に入る、用意できる。商品やサービスが利用可能な状態を表す。",
+        "Different notebooks are available tomorrow."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-27-0700.jpg",
+    "image_alt": "文具店で届いたノートを棚に並べる父娘と窓の外の配送トラック"
+  },
+  {
     "date": "2026-11-26",
     "category": "AI・テクノロジー",
     "title": "[17:00] The Small File and the Fine Thread",
