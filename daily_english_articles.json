@@ -2,6 +2,44 @@
   {
     "date": "2026-11-26",
     "category": "AI・テクノロジー",
+    "title": "[17:00] The Small File and the Fine Thread",
+    "ja_title": "小さなファイルと細い糸",
+    "en": "Nao photographs a piece of embroidery for her aunt's craft page. Tiny silver threads cross a dark blue cloth, forming a pattern of leaves. The original photograph shows the stitches clearly, but its file is larger than Nao wants to upload. She exports a JPEG copy using a low quality setting.\n\nOn her phone, the smaller copy looks acceptable. Then her aunt opens it on a larger screen and examines a leaf. Some threads seem to run together, and strange marks appear near the sharp edges. The cloth has not changed. The information used to represent it has.\n\nThis fictional task illustrates a common choice in digital photography. JPEG uses lossy compression: it reduces file size by discarding some image information. With a suitable setting, the difference may be difficult to notice. Stronger compression, however, can make unwanted changes more visible, especially around fine detail.\n\nNao initially thinks that a smaller file must also mean a smaller picture. Her aunt asks her to check the dimensions. Both copies contain the same number of pixels across and down. The storage size has changed without a change in those dimensions. File size and pixel dimensions describe different things.\n\nTogether, they export two more copies directly from the original. They keep the dimensions the same and change only the JPEG quality setting. This makes the comparison easier to understand. If they changed several things at once, they would have more difficulty identifying the cause of a difference.\n\nThey compare the results at the size intended for the craft page. The middle setting preserves enough detail for a general view while producing a smaller file than the highest setting. For visitors who want to examine the stitches, they prepare a separate close-up with a higher quality setting.\n\nThe highest setting is not automatically the right answer for every use. Large files can take longer to transfer over the same connection. Yet the smallest possible file may fail to show the feature that makes a photograph useful. Here, the silver thread matters more than an empty area of cloth.\n\nNao keeps the original safely and creates the final copies from it. Raising the quality setting when saving an already damaged copy would not bring back the exact information that was discarded. Keeping the original gives her better choices for later projects.\n\nBefore uploading, she checks the actual exported files rather than relying only on a file size number. Her goal is not simply to make the photograph lighter. It is to keep the details her aunt wants people to see, in a form that fits the page.",
+    "ja": "ナオは叔母の手芸ページのために刺繍を撮影します。細い銀色の糸が濃紺の布を横切り、葉の模様を作っています。元の写真では縫い目がはっきり見えますが、アップロードしたい大きさよりファイルが大きすぎます。そこで低い画質設定でJPEGのコピーを書き出します。\n\nスマートフォンでは、小さくなったコピーも十分に見えます。ところが叔母が大きな画面で開き、葉をよく見ると、何本かの糸がつながって見え、くっきりした輪郭の近くには不自然な模様が現れています。布は変わっていません。布を表現するための情報が変わったのです。\n\nこの架空の作業は、デジタル写真でよくある選択を示しています。JPEGは非可逆圧縮を使い、画像情報の一部を捨てることでファイルサイズを減らします。適切な設定なら、違いは気づきにくいかもしれません。しかし圧縮を強めると、特に細かな部分の周りで、望ましくない変化が目立つことがあります。\n\nナオは最初、ファイルが小さくなれば画像そのものも小さくなるはずだと思います。叔母は画像の縦横の大きさを確認するよう言います。両方のコピーで、横と縦に並ぶ画素の数は同じです。その数が変わらなくても、保存に必要な容量は変わりました。ファイルサイズと画素数で表す寸法は、異なるものを説明しているのです。\n\n二人は元の写真から直接、さらに二つのコピーを書き出します。縦横の画素数は同じにして、JPEGの画質設定だけを変えます。こうすると比較がわかりやすくなります。一度にいくつもの条件を変えたら、違いの原因を見極めにくくなるでしょう。\n\n手芸ページで使う予定の表示サイズで結果を比べます。中間の設定なら、全体を見るのに十分な細部を残しつつ、最高設定より小さいファイルになります。縫い目を詳しく見たい訪問者のためには、画質設定を上げた別の拡大写真を用意します。\n\nどんな用途でも最高設定が正解とは限りません。同じ通信環境なら、大きなファイルは転送に時間がかかることがあります。一方、可能な限り小さいファイルでは、その写真の役立つ特徴が伝わらないかもしれません。この場合、何もない布の部分より、銀色の糸が重要です。\n\nナオは元の写真を安全に保管し、そこから最終的なコピーを作ります。すでに劣化したコピーを保存するときに画質設定を上げても、捨てられた情報を正確に取り戻すことはできません。元の写真を残しておけば、今後の作業でよりよい選択ができます。\n\nアップロードの前に、ナオはファイルサイズの数字だけに頼らず、実際に書き出したファイルを確認します。目的は単に写真を軽くすることではありません。叔母が人に見せたい細部を、ページに適した形で残すことなのです。",
+    "vocab": [
+      [
+        "embroidery",
+        "刺繍、刺繍作品。布に糸で模様を縫い付けたものや、その技法を指す。",
+        "Nao takes a photograph of her aunt's embroidery."
+      ],
+      [
+        "lossy compression",
+        "非可逆圧縮。一部の情報を捨ててデータ量を減らす圧縮方式で、元の情報を完全には戻せない。",
+        "JPEG uses lossy compression to reduce file size."
+      ],
+      [
+        "discard",
+        "捨てる、取り除く。不要と判断した物や情報を除くときに使う。",
+        "The compression process discards some image information."
+      ],
+      [
+        "dimensions",
+        "寸法、縦横の大きさ。画像については横と縦の画素数などを表す。",
+        "The two files have the same pixel dimensions."
+      ],
+      [
+        "rely on",
+        "〜に頼る、〜を判断のよりどころにする。後ろに名詞や動名詞を続ける。",
+        "Do not rely only on the file size number."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-26-1700.jpg",
+    "image_alt": "銀糸の刺繍とパソコン上の写真を見比べる女性と叔母"
+  },
+  {
+    "date": "2026-11-26",
+    "category": "AI・テクノロジー",
     "title": "[12:00] The Timetable That Stayed on the Screen",
     "ja_title": "画面に残っていた時刻表",
     "en": "On a train journey, Mei opens a travel page she used at home. The train enters a tunnel, and her phone loses its connection. However, the page still shows a small station map and a timetable. Mei is pleased. She can plan her walk without waiting for the signal to return.\n\nAt the next station, she notices something odd. The timetable on her screen says that the local bus leaves at ten thirty. A notice at the stop gives a different time. Her friend Jun checks the travel page on his connected phone. His version agrees with the notice.\n\nThis imagined journey shows two different questions about an app. Can we open it? And is the information still current? A screen can answer the first question without answering the second. Seeing familiar words and pictures does not tell us when they were last checked.\n\nSome web apps keep copies of useful files on the device. This saved collection is called a cache. Instead of downloading the same file every time, the app can use a copy it already has. Depending on how the app is designed, this can help it show pages or pictures without an internet connection.\n\nA saved copy cannot receive news while the device is disconnected. Mei's map still helps her find the station exit, but the saved timetable does not include a recent change. The phone is showing what it kept earlier. It is not receiving a live report from the bus company.\n\nJun points to a small note at the bottom of Mei's page. It gives the time when the information was last saved. Mei had ignored it because she was looking for the bus number. Now she understands why that detail matters. The page was available, but its information needed another check.\n\nWhen the connection returns, Mei asks the app to get a fresh copy. The timetable changes. She compares it with the notice before choosing which bus to take. In this story, the app's saved files were useful during the journey, even though they could not answer every question.\n\nDifferent kinds of information need different checks. An old drawing of a station entrance may still be helpful, while today's departure time may need a current source. Neither a quick screen nor a slow screen proves that its contents are up to date.\n\nMei keeps the offline feature switched on. Next time, she will prepare useful pages before leaving home. She will also look for the update time when a decision depends on recent information. Having a copy is helpful; knowing what that copy can tell her is helpful too.",
