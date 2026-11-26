@@ -2,6 +2,44 @@
   {
     "date": "2026-11-26",
     "category": "AI・テクノロジー",
+    "title": "[12:00] The Timetable That Stayed on the Screen",
+    "ja_title": "画面に残っていた時刻表",
+    "en": "On a train journey, Mei opens a travel page she used at home. The train enters a tunnel, and her phone loses its connection. However, the page still shows a small station map and a timetable. Mei is pleased. She can plan her walk without waiting for the signal to return.\n\nAt the next station, she notices something odd. The timetable on her screen says that the local bus leaves at ten thirty. A notice at the stop gives a different time. Her friend Jun checks the travel page on his connected phone. His version agrees with the notice.\n\nThis imagined journey shows two different questions about an app. Can we open it? And is the information still current? A screen can answer the first question without answering the second. Seeing familiar words and pictures does not tell us when they were last checked.\n\nSome web apps keep copies of useful files on the device. This saved collection is called a cache. Instead of downloading the same file every time, the app can use a copy it already has. Depending on how the app is designed, this can help it show pages or pictures without an internet connection.\n\nA saved copy cannot receive news while the device is disconnected. Mei's map still helps her find the station exit, but the saved timetable does not include a recent change. The phone is showing what it kept earlier. It is not receiving a live report from the bus company.\n\nJun points to a small note at the bottom of Mei's page. It gives the time when the information was last saved. Mei had ignored it because she was looking for the bus number. Now she understands why that detail matters. The page was available, but its information needed another check.\n\nWhen the connection returns, Mei asks the app to get a fresh copy. The timetable changes. She compares it with the notice before choosing which bus to take. In this story, the app's saved files were useful during the journey, even though they could not answer every question.\n\nDifferent kinds of information need different checks. An old drawing of a station entrance may still be helpful, while today's departure time may need a current source. Neither a quick screen nor a slow screen proves that its contents are up to date.\n\nMei keeps the offline feature switched on. Next time, she will prepare useful pages before leaving home. She will also look for the update time when a decision depends on recent information. Having a copy is helpful; knowing what that copy can tell her is helpful too.",
+    "ja": "列車で移動中、メイは家で使った旅行案内のページを開きます。列車がトンネルに入り、スマートフォンの通信が途切れます。それでも、小さな駅周辺の地図と時刻表は表示されたままです。メイは喜びます。電波が戻るのを待たずに、歩く道を考えられます。\n\n次の駅で、妙なことに気づきます。画面の時刻表では、路線バスの出発は十時半です。ところが、停留所の掲示には違う時刻が書かれています。友人のジュンが通信できるスマートフォンで旅行案内を確かめると、そちらは掲示と同じです。\n\nこの架空の旅は、アプリについて二つの異なる問いを示しています。開けるでしょうか。そして、情報は今も最新でしょうか。画面は一つ目の問いに答えても、二つ目には答えていないことがあります。見慣れた言葉や画像が見えるだけでは、最後にいつ確認された情報なのかはわかりません。\n\n一部のウェブアプリは、役立つファイルのコピーを端末内に保存します。この保存されたまとまりをキャッシュと呼びます。毎回同じファイルをダウンロードする代わりに、すでに持っているコピーを使えます。アプリの設計によっては、インターネット接続がなくてもページや画像を表示する助けになります。\n\n端末が通信できない間、保存されたコピーは新しい知らせを受け取れません。メイの地図は駅の出口を探すのに役立ちますが、保存された時刻表には最近の変更が入っていません。スマートフォンは以前に保存したものを表示しています。バス会社から最新の情報を受信しているのではありません。\n\nジュンは、メイのページの下にある小さな注記を指さします。情報を最後に保存した時刻が書かれています。メイはバスの番号を探していたので、気に留めていませんでした。今では、その細かな情報が大切な理由がわかります。ページは利用できても、その内容には別の確認が必要だったのです。\n\n通信が戻ると、メイはアプリに新しいコピーを取得させます。時刻表が変わりました。乗るバスを決める前に、掲示と見比べます。この物語では、保存されたファイルは旅の途中で役立ちました。ただし、すべての問いに答えられたわけではありません。\n\n情報の種類によって、必要な確認も違います。駅の入り口を描いた古い図は今も役立つかもしれませんが、今日の発車時刻には最新の情報源が必要かもしれません。表示が速い画面でも遅い画面でも、それだけで内容が最新だとは証明できません。\n\nメイはオフライン機能を有効にしたままにします。次回は、出発前に役立つページを準備するつもりです。また、最近の情報に左右される判断をするときは、更新時刻も見るでしょう。コピーがあることは便利です。そのコピーから何がわかるかを知ることも、同じように役立つのです。",
+    "vocab": [
+      [
+        "connection",
+        "接続、通信のつながり。インターネットなどに接続できる状態について使う。",
+        "Her phone loses its internet connection in the tunnel."
+      ],
+      [
+        "cache",
+        "キャッシュ。一度取得したデータを再利用するために保存しておく仕組みや保存領域。",
+        "The app loads the map from its cache."
+      ],
+      [
+        "depending on",
+        "〜によって、〜次第で。条件に応じて結果が変わることを表す。",
+        "The page may work offline, depending on the app's design."
+      ],
+      [
+        "current",
+        "現在の、最新の。情報が今の状況に合っていることを説明する形容詞。",
+        "We need a current timetable before choosing a bus."
+      ],
+      [
+        "up to date",
+        "最新の。be up to date の形で、情報などが新しい状態を表す。",
+        "A saved page is not always up to date."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-26-1200.jpg",
+    "image_alt": "駅前のバス停でスマートフォンの保存済み時刻表と掲示を見比べる二人"
+  },
+  {
+    "date": "2026-11-26",
+    "category": "AI・テクノロジー",
     "title": "[07:00] One Drawing, Three Layers",
     "ja_title": "一枚の絵、三つのレイヤー",
     "en": "Rina is drawing a little red boat on a tablet. The boat is on a blue lake, and there are white clouds above it. She likes the boat, but she wants to change the lake to green. When she paints over the water, part of the boat disappears too.\n\nHer brother Kota sits beside her. “Let's try using layers,” he says. Rina has seen that word in the drawing app, but she has never used the button. Kota gets three clear sheets from a box. He puts a sheet of white paper under them.\n\nOn the first clear sheet, he draws some water. On the second, he draws a boat. On the third, he adds clouds. He puts the three sheets together. They look like one picture. Then he lifts the boat sheet away. The water and clouds are still there.\n\nRina moves the boat sheet to the right. Now the boat seems to be in a different part of the lake. She has changed its place without drawing the water again. Kota explains that layers in their app let them work on separate parts of a picture in a similar way.\n\nThis is a made-up story, but the clear sheets help show the idea. A picture can look like one thing while its parts stay separate. The order matters too. When Rina puts the water sheet above the boat sheet, some blue marks cover the boat. She quickly puts the boat back on top.\n\nThey return to the tablet. Rina starts a new picture with three layers. She draws the lake first, the boat second, and the clouds last. Before painting, she checks which layer she has chosen. This time, she changes the water without touching the red boat.\n\nLater, Rina wants to see the picture without clouds. She hides the cloud layer instead of removing it. She likes the empty sky, but she also likes being able to bring the clouds back. She can compare both pictures before making a choice.\n\nLayers do not decide what Rina should draw. She still chooses the colors, shapes, and places of the objects. They give her a way to change one part while keeping another. Learning the small button takes time, but it makes her next change easier.\n\nAt the end, Rina adds a fourth layer for a yellow sun. She smiles and moves it toward a corner. The boat stays where it is. This time, trying a new idea does not mean starting the whole picture again.",
