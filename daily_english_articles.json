@@ -2,6 +2,44 @@
   {
     "date": "2026-11-27",
     "category": "投資・経済",
+    "title": "[12:00] The Puzzle Inside the Closed Box",
+    "ja_title": "閉じた箱の中のパズル",
+    "en": "At a school sale, Mika puts a used jigsaw puzzle on her table. The picture on the box shows a lighthouse beside the sea. She finished the puzzle last week, so she believes all the pieces are there. She sets a price and waits for someone to notice it.\n\nA younger student picks up the box and shakes it gently. He likes the lighthouse, but he asks whether any pieces are missing. Mika says she completed it recently. He looks uncertain, puts the box down, and walks away. Mika wonders why her answer was not enough.\n\nHer teacher asks her to think about what each person knows. Mika has seen the finished picture. The student has seen only the closed box. They are looking at the same product, but they do not have the same information. An honest seller can still face a buyer who has a reasonable question.\n\nThis fictional sale illustrates an economic problem. Before buying something used, a customer may find it difficult to judge its condition. The seller may know more because they have owned or used it. That difference can make a buyer hesitate, even when the item would meet their needs.\n\nMika first writes a larger note saying that the puzzle is complete. Then she realizes that repeating her claim does not give the student much new evidence. She asks a friend to help her put the puzzle together on an empty board beside the table.\n\nWhen they finish, the lighthouse picture has no gaps. Visitors can now inspect the pieces, not just the box. One girl notices a bent corner. Mika had forgotten about it because the piece still fits. They agree that the puzzle is complete, although its condition is not the same as a new one.\n\nThe display does not remove every uncertainty. A visitor cannot know exactly how the puzzle will look in a different room or whether their brother will enjoy it. However, they can answer a specific question that mattered at the start: does this set currently form the whole picture?\n\nThe younger student returns with his mother. He examines the lighthouse and points to the bent piece. Mika explains what happened to it. After a short conversation, they buy the puzzle and carefully move its pieces back into the box together.\n\nMika has not changed the picture or added more pieces. She has made useful information easier to check. Preparing the display took time and space, so it would not suit every sale. For this puzzle, showing its condition helped a buyer make a clearer choice than a louder promise could.",
+    "ja": "学校の販売会で、ミカは使ったことのあるジグソーパズルをテーブルに置きます。箱の絵には海辺の灯台が描かれています。先週完成させたので、ピースは全部そろっていると思っています。値段を決め、誰かが気づくのを待ちます。\n\n年下の生徒が箱を手に取り、そっと振ります。灯台は気に入りましたが、足りないピースがないか尋ねます。ミカは最近完成させたと答えます。生徒は不安そうな顔をして箱を戻し、立ち去ります。ミカは、なぜその答えでは十分でなかったのかと思います。\n\n先生は、それぞれが何を知っているか考えてみるよう促します。ミカは完成した絵を見ています。生徒は閉じた箱しか見ていません。同じ商品を見ていても、持っている情報は同じではありません。正直な売り手であっても、買い手からもっともな質問を受けることはあります。\n\nこの架空の販売会は、経済に関わる問題を示しています。中古品を買う前に、その状態を判断するのは難しいことがあります。売り手はその品を持ったり使ったりしたため、より多くを知っているかもしれません。その違いから、希望に合う商品であっても、買い手はためらうことがあります。\n\nミカはまず、パズルは全部そろっていると大きな紙に書きます。しかし、同じ主張を繰り返しても、生徒に新しい証拠をあまり示せないと気づきます。友人に頼み、テーブルの横の空いたボードでパズルを組み立てます。\n\n完成した灯台の絵に隙間はありません。訪れた人は、箱だけでなくピースを確かめられます。一人の女の子が、角が曲がったピースに気づきます。はまることには変わりがないため、ミカは忘れていました。二人は、パズルはそろっていても、新品と同じ状態ではないと認めます。\n\n展示ですべての不確かさがなくなるわけではありません。別の部屋でどう見えるか、弟が楽しむかは、訪れた人には正確にはわかりません。しかし、最初に大切だった具体的な問いには答えられます。この一組で、今、絵全体を完成させられるでしょうか。\n\n年下の生徒が母親と戻ってきます。灯台をよく見て、曲がったピースを指さします。ミカは、なぜそうなったか説明します。少し話した後、親子はパズルを買い、一緒に丁寧に箱へ戻します。\n\nミカは絵を変えたり、ピースを増やしたりしていません。役立つ情報を確かめやすくしたのです。展示の準備には時間と場所が必要なので、どんな販売にも向くわけではありません。このパズルでは、声を大きくして約束するより、状態を見せるほうが、買い手の明確な判断を助けました。",
+    "vocab": [
+      [
+        "condition",
+        "状態。中古品については、傷みや使い具合などを説明するときに使う。",
+        "The buyer wants to check the puzzle's condition."
+      ],
+      [
+        "hesitate",
+        "ためらう。迷いや不安から、すぐに行動しないことを表す。",
+        "The student hesitates before buying the used puzzle."
+      ],
+      [
+        "evidence",
+        "証拠、判断の材料。主張を裏づけるものを指し、通常は数えられない名詞。",
+        "The finished picture provides useful evidence."
+      ],
+      [
+        "inspect",
+        "よく調べる、点検する。状態や問題を確かめるため注意深く見ること。",
+        "Visitors can inspect the pieces on the board."
+      ],
+      [
+        "uncertainty",
+        "不確かさ。結果や状態をはっきり知ることができない状況を表す。",
+        "The display reduces some uncertainty for the buyer."
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-27-1200.jpg",
+    "image_alt": "学校の販売会で完成した灯台のパズルの状態を確かめる親子と売り手の生徒"
+  },
+  {
+    "date": "2026-11-27",
+    "category": "投資・経済",
     "title": "[07:00] The Boxes That Did Not Arrive",
     "ja_title": "届かなかった箱",
     "en": "Every Monday, a truck brings notebooks to a small shop run by Mr. Mori. He buys them from a company across the river. The notebooks sell well, and the company usually delivers on time. Mr. Mori likes having a simple plan. He orders from the same place each week.\n\nOne morning, the boxes do not arrive. Heavy rain has damaged the road near the river. The company has plenty of notebooks, but its truck cannot use the usual route. Mr. Mori looks at his shelf. There are only six notebooks left, and a new school term begins soon.\n\nHis daughter Hana asks why he cannot just order more. He explains that ordering is only one part of the job. Someone must make the notebooks, pack them, and bring them to the shop. If one part stops, the whole journey can slow down. These connected steps form a supply chain.\n\nThe people and the shop in this story are imaginary. Their problem shows why a product can be hard to buy even when someone has already made it. A full room at a supplier does not always mean a full shelf at a shop. The goods still need a way to travel.\n\nMr. Mori calls a second company on his side of the river. It can bring ten notebooks the next day. However, they cost more, and their covers are different. He decides to buy a small amount. He tells customers which notebooks are available instead of promising the usual ones.\n\nHana suggests filling the back room with extra notebooks after the road opens. Then the shop would never run out, she says. Her father points to the other goods in the room. Extra notebooks need space and money too. Also, customers may want a different size or cover next month.\n\nThey write down several choices. They could keep a few more notebooks, learn about another supplier, or order earlier before a busy week. None of these choices removes every problem. Each changes how the shop uses its money, space, and time. Mr. Mori wants to compare them carefully.\n\nWhen the road opens again, the usual truck returns. Mr. Mori is glad, but he keeps the second company's phone number. He also makes a note of the week when notebooks sold fastest. The late boxes have given him a reason to look beyond the price on an order form.\n\nHana helps place the new notebooks on the shelf. This time, she imagines the road, the truck, and the people behind each one. A simple object can have a long journey before it reaches a customer's bag.",
