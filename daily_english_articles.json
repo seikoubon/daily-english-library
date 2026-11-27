@@ -2,6 +2,44 @@
   {
     "date": "2026-11-27",
     "category": "投資・経済",
+    "title": "[17:00] Who Should Design the Cover?",
+    "ja_title": "表紙は誰が作るべきか",
+    "en": "Aya and Ren have one hour to prepare material for their school podcast. They need edited audio clips and a cover image. Aya works faster at both tasks. Ren suggests that she should design the cover as well as edit most of the audio. It sounds sensible: give more work to the faster person.\n\nFor a classroom exercise, their teacher gives them simple production rates. In one hour, Aya can edit four clips or design two covers. Ren can edit one clip or design one cover. Assume the results meet the same quality standard and the rates stay constant. These are invented numbers, not measurements of real students.\n\nUnder their first plan, Aya spends half an hour making one cover and the other half editing two clips. Ren spends his hour editing one clip. Together, they finish three clips and one cover. Aya is busy throughout, yet there is another arrangement worth considering.\n\nIf Ren makes the cover, Aya can spend her whole hour editing audio. They then produce four clips and one cover. The available time has not increased. Neither student has suddenly learned a new skill. Changing who does which task gives them one additional clip in this simplified example.\n\nThe difference becomes clearer when they ask what each cover costs in lost audio work. Aya gives up two clips to make a cover. Ren gives up one. Although Ren takes longer to design it, he sacrifices less alternative output. He therefore has a comparative advantage in making covers.\n\nAya has an absolute advantage in both activities because she can produce more of either in the same time. Comparative advantage asks a different question: who gives up less of the other output? Being faster at everything does not necessarily mean that doing everything is the best arrangement.\n\nRen initially feels that making the cover means he is less useful. The teacher points to the totals. His contribution allows Aya to keep editing, and their combined result improves. The comparison concerns the tasks and their alternatives; it is not a judgment about either student's overall value.\n\nReal projects are more complicated than these fixed rates. Explaining a design, transferring files, or correcting mistakes can take time. People may also want to practice unfamiliar work. A short production exercise does not settle every question about learning, fairness, or how a team should organize itself.\n\nStill, the numbers give Aya and Ren a useful question to discuss before starting. Instead of asking only who is quickest, they can ask what each person would otherwise be doing. Sometimes a partner helps most by freeing someone else to do a different task.",
+    "ja": "アヤとレンは、学校のポッドキャストの素材を一時間で準備します。必要なのは編集済みの音声クリップと表紙画像です。アヤはどちらの作業も速くできます。レンは、アヤが表紙を作り、音声の大部分も編集すればよいと提案します。速い人に多くの仕事を任せるのは、もっともらしく聞こえます。\n\n授業の演習として、先生は二人に単純な作業速度を示します。一時間で、アヤは音声を四本編集するか、表紙を二枚作れます。レンは音声を一本編集するか、表紙を一枚作れます。仕上がりは同じ品質基準を満たし、作業速度も変わらないと仮定します。実際の生徒を測定した数値ではなく、作られた例です。\n\n最初の計画では、アヤは三十分で表紙を一枚作り、残り三十分で音声を二本編集します。レンは一時間を使って音声を一本編集します。合わせて音声三本と表紙一枚が完成します。アヤはずっと作業していますが、考えてみる価値のある別の配分があります。\n\nレンが表紙を作れば、アヤは一時間をすべて音声編集に使えます。すると音声四本と表紙一枚を作れます。使える時間が増えたわけではありません。どちらかが突然、新しい技能を身につけたのでもありません。この単純化した例では、担当を変えることで音声が一本増えるのです。\n\n表紙一枚のために、どれだけ音声編集をあきらめるかを考えると、違いがはっきりします。アヤは表紙を一枚作ると、音声二本の編集をあきらめます。レンがあきらめるのは一本です。表紙を作るのに時間がかかっても、レンのほうが失う別の成果は少なくて済みます。そのため、表紙作りにはレンの比較優位があります。\n\nアヤは同じ時間でどちらの作業も多くできるので、両方に絶対優位があります。比較優位が問うのは別のことです。ほかの成果をより少なくあきらめればよいのは、どちらでしょうか。何でも速くできることが、何でも自分で行うのが最善だという意味になるとは限りません。\n\nレンは最初、表紙を担当することは、自分があまり役に立たないという意味だと感じます。先生は合計を指さします。レンの貢献によってアヤが編集を続けられ、二人を合わせた成果が増えます。比べているのは作業とその代わりにできることであって、生徒の人としての価値ではありません。\n\n実際の企画は、こうした一定の作業速度より複雑です。デザインの説明、ファイルの受け渡し、間違いの修正にも時間がかかります。慣れない作業を練習したい場合もあるでしょう。短い生産の演習だけで、学習、公平さ、チームの編成に関するあらゆる問いが解決するわけではありません。\n\nそれでも、この数字は、始める前に二人が話し合える有用な問いを与えます。誰が一番速いかだけでなく、それぞれがほかに何をしているはずなのかを考えられます。相手を別の仕事に専念させることが、最も役立つ貢献になることもあるのです。",
+    "vocab": [
+      [
+        "production rate",
+        "生産速度、一定時間当たりの作業量。一時間で何個作れるかなどを表す。",
+        "The exercise assumes a constant production rate."
+      ],
+      [
+        "comparative advantage",
+        "比較優位。ほかの成果をあきらめる量、つまり機会費用が相手より小さいこと。",
+        "Ren has a comparative advantage in making covers."
+      ],
+      [
+        "absolute advantage",
+        "絶対優位。同じ資源や時間で、相手より多く作れること。",
+        "Aya has an absolute advantage in both tasks."
+      ],
+      [
+        "sacrifice",
+        "犠牲にする、あきらめる。ある目的のために別の利益や機会を手放す場合に使う。",
+        "Ren sacrifices one audio clip to make a cover."
+      ],
+      [
+        "otherwise",
+        "そうでなければ、別の場合には。選ばなかった行動や状態を考えるときにも使う。",
+        "What would Aya otherwise be doing during that hour?"
+      ]
+    ],
+    "is_preview": false,
+    "image_url": "https://seikoubon.github.io/daily-english-library/assets/key-visuals/2026-11-27-1700.jpg",
+    "image_alt": "学校のポッドキャスト制作で音声編集と表紙作りを分担する二人の生徒"
+  },
+  {
+    "date": "2026-11-27",
+    "category": "投資・経済",
     "title": "[12:00] The Puzzle Inside the Closed Box",
     "ja_title": "閉じた箱の中のパズル",
     "en": "At a school sale, Mika puts a used jigsaw puzzle on her table. The picture on the box shows a lighthouse beside the sea. She finished the puzzle last week, so she believes all the pieces are there. She sets a price and waits for someone to notice it.\n\nA younger student picks up the box and shakes it gently. He likes the lighthouse, but he asks whether any pieces are missing. Mika says she completed it recently. He looks uncertain, puts the box down, and walks away. Mika wonders why her answer was not enough.\n\nHer teacher asks her to think about what each person knows. Mika has seen the finished picture. The student has seen only the closed box. They are looking at the same product, but they do not have the same information. An honest seller can still face a buyer who has a reasonable question.\n\nThis fictional sale illustrates an economic problem. Before buying something used, a customer may find it difficult to judge its condition. The seller may know more because they have owned or used it. That difference can make a buyer hesitate, even when the item would meet their needs.\n\nMika first writes a larger note saying that the puzzle is complete. Then she realizes that repeating her claim does not give the student much new evidence. She asks a friend to help her put the puzzle together on an empty board beside the table.\n\nWhen they finish, the lighthouse picture has no gaps. Visitors can now inspect the pieces, not just the box. One girl notices a bent corner. Mika had forgotten about it because the piece still fits. They agree that the puzzle is complete, although its condition is not the same as a new one.\n\nThe display does not remove every uncertainty. A visitor cannot know exactly how the puzzle will look in a different room or whether their brother will enjoy it. However, they can answer a specific question that mattered at the start: does this set currently form the whole picture?\n\nThe younger student returns with his mother. He examines the lighthouse and points to the bent piece. Mika explains what happened to it. After a short conversation, they buy the puzzle and carefully move its pieces back into the box together.\n\nMika has not changed the picture or added more pieces. She has made useful information easier to check. Preparing the display took time and space, so it would not suit every sale. For this puzzle, showing its condition helped a buyer make a clearer choice than a louder promise could.",
